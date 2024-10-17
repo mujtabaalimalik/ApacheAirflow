@@ -1,0 +1,21 @@
+[2024-10-17T21:24:59.995+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-17T21:24:59.999+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_branching_2.determine_branch manual__2024-10-17T20:24:53.284766+00:00 [queued]>
+[2024-10-17T21:25:00.000+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_branching_2.determine_branch manual__2024-10-17T20:24:53.284766+00:00 [queued]>
+[2024-10-17T21:25:00.000+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-17T21:25:00.004+0100] {taskinstance.py:2888} INFO - Executing <Task(BranchPythonOperator): determine_branch> on 2024-10-17 20:24:53.284766+00:00
+[2024-10-17T21:25:00.006+0100] {standard_task_runner.py:72} INFO - Started process 3511 to run task
+[2024-10-17T21:25:00.010+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_branching_2', 'determine_branch', 'manual__2024-10-17T20:24:53.284766+00:00', '--job-id', '250', '--raw', '--subdir', 'DAGS_FOLDER/branching_2.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmpnawos63m']
+[2024-10-17T21:25:00.011+0100] {standard_task_runner.py:105} INFO - Job 250: Subtask determine_branch
+[2024-10-17T21:25:00.023+0100] {task_command.py:467} INFO - Running <TaskInstance: executing_branching_2.determine_branch manual__2024-10-17T20:24:53.284766+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-17T21:25:00.042+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ali' AIRFLOW_CTX_DAG_ID='executing_branching_2' AIRFLOW_CTX_TASK_ID='determine_branch' AIRFLOW_CTX_EXECUTION_DATE='2024-10-17T20:24:53.284766+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-10-17T20:24:53.284766+00:00'
+[2024-10-17T21:25:00.042+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-17T21:25:00.047+0100] {baseoperator.py:405} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2024-10-17T21:25:00.048+0100] {python.py:240} INFO - Done. Returned value was: filter_by_southwest
+[2024-10-17T21:25:00.048+0100] {branch.py:38} INFO - Branch into filter_by_southwest
+[2024-10-17T21:25:00.049+0100] {skipmixin.py:230} INFO - Following branch {'filter_by_southwest'}
+[2024-10-17T21:25:00.052+0100] {skipmixin.py:278} INFO - Skipping tasks [('filter_by_northeast', -1), ('filter_by_northwest', -1), ('filter_by_southeast', -1), ('groupby_region_smoker', -1)]
+[2024-10-17T21:25:00.058+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-17T21:25:00.058+0100] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_branching_2, task_id=determine_branch, run_id=manual__2024-10-17T20:24:53.284766+00:00, execution_date=20241017T202453, start_date=20241017T202459, end_date=20241017T202500
+[2024-10-17T21:25:00.071+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-17T21:25:00.078+0100] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-10-17T21:25:00.079+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

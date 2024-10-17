@@ -1,0 +1,22 @@
+[2024-10-08T02:10:48.524+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-08T02:10:48.529+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_multiple_tasks_3.taskB scheduled__2024-10-07T00:00:00+00:00 [queued]>
+[2024-10-08T02:10:48.531+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_multiple_tasks_3.taskB scheduled__2024-10-07T00:00:00+00:00 [queued]>
+[2024-10-08T02:10:48.531+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-08T02:10:48.536+0100] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): taskB> on 2024-10-07 00:00:00+00:00
+[2024-10-08T02:10:48.538+0100] {standard_task_runner.py:72} INFO - Started process 4473 to run task
+[2024-10-08T02:10:48.540+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_multiple_tasks_3', 'taskB', 'scheduled__2024-10-07T00:00:00+00:00', '--job-id', '96', '--raw', '--subdir', 'DAGS_FOLDER/execute_multiple_3.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmp34u8f7ny']
+[2024-10-08T02:10:48.542+0100] {standard_task_runner.py:105} INFO - Job 96: Subtask taskB
+[2024-10-08T02:10:48.555+0100] {task_command.py:467} INFO - Running <TaskInstance: executing_multiple_tasks_3.taskB scheduled__2024-10-07T00:00:00+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-08T02:10:48.573+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ali' AIRFLOW_CTX_DAG_ID='executing_multiple_tasks_3' AIRFLOW_CTX_TASK_ID='taskB' AIRFLOW_CTX_EXECUTION_DATE='2024-10-07T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-10-07T00:00:00+00:00'
+[2024-10-08T02:10:48.573+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-08T02:10:48.578+0100] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T
+[2024-10-08T02:10:48.578+0100] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo TASK B has started!\nsleep 4\nexit 99\necho TASK B has ended!']
+[2024-10-08T02:10:48.580+0100] {subprocess.py:86} INFO - Output:
+[2024-10-08T02:10:48.582+0100] {subprocess.py:93} INFO - TASK B has started!
+[2024-10-08T02:26:51.268+0100] {subprocess.py:97} INFO - Command exited with return code 99
+[2024-10-08T02:26:51.301+0100] {taskinstance.py:301} INFO - Bash command returned exit code 99. Skipping.
+[2024-10-08T02:26:51.319+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-08T02:26:51.320+0100] {taskinstance.py:352} INFO - Marking task as SKIPPED. dag_id=executing_multiple_tasks_3, task_id=taskB, run_id=scheduled__2024-10-07T00:00:00+00:00, execution_date=20241007T000000, start_date=20241008T011048, end_date=20241008T012651
+[2024-10-08T02:26:51.356+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-08T02:26:51.368+0100] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-10-08T02:26:51.370+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

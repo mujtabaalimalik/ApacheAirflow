@@ -1,0 +1,896 @@
+[2024-10-17T21:08:36.049+0100] {processor.py:186} INFO - Started process (PID=2120) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:08:36.049+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:08:36.049+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:36.049+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:08:36.133+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:08:36.225+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:36.225+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:08:36.231+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:36.231+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:08:36.237+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.189 seconds
+[2024-10-17T21:09:07.736+0100] {processor.py:186} INFO - Started process (PID=2203) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:07.736+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:09:07.736+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:07.736+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:07.824+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:07.879+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:07.879+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:07.885+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:07.885+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:09:07.891+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:09:39.419+0100] {processor.py:186} INFO - Started process (PID=2239) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:39.419+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:09:39.419+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:39.419+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:39.503+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:09:39.557+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:39.557+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:39.563+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:39.563+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:09:39.568+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T21:10:10.988+0100] {processor.py:186} INFO - Started process (PID=2270) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:10.988+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:10:10.988+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:10.988+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:11.077+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:11.144+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:11.144+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:11.150+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:11.150+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:10:11.155+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.169 seconds
+[2024-10-17T21:10:42.554+0100] {processor.py:186} INFO - Started process (PID=2313) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:42.555+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:10:42.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:42.555+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:42.639+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:10:42.697+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:42.697+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:42.703+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:42.703+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:10:42.709+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:11:13.939+0100] {processor.py:186} INFO - Started process (PID=2362) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:13.941+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:11:13.941+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:13.941+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:14.025+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:14.078+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:14.078+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:14.084+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:14.084+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:11:14.089+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T21:11:45.520+0100] {processor.py:186} INFO - Started process (PID=2458) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:45.521+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:11:45.521+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:45.521+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:45.605+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:11:45.659+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:45.659+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:45.665+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:45.665+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:11:45.671+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:12:16.666+0100] {processor.py:186} INFO - Started process (PID=2489) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:16.666+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:12:16.666+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:16.666+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:16.752+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:16.808+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:16.808+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:16.814+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:16.814+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:12:16.820+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T21:12:47.775+0100] {processor.py:186} INFO - Started process (PID=2522) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:47.776+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:12:47.776+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:47.776+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:47.863+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:12:47.920+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:47.919+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:47.925+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:47.925+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:12:47.931+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:13:19.236+0100] {processor.py:186} INFO - Started process (PID=2554) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:19.236+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:13:19.237+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:19.237+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:19.320+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:19.375+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:19.375+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:19.381+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:19.381+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:13:19.386+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T21:13:50.778+0100] {processor.py:186} INFO - Started process (PID=2593) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:50.778+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:13:50.779+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:50.778+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:50.869+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:13:50.928+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:50.927+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:50.933+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:50.933+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:13:50.938+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:14:26.741+0100] {processor.py:186} INFO - Started process (PID=2673) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:26.741+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:14:26.742+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:26.742+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:26.826+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:26.882+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:26.882+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:26.888+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:26.888+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:14:26.893+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:14:58.587+0100] {processor.py:186} INFO - Started process (PID=2708) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:58.587+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:14:58.588+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:58.587+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:58.672+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:14:58.726+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:58.726+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:58.731+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:58.731+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:14:58.737+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T21:15:30.076+0100] {processor.py:186} INFO - Started process (PID=2749) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:15:30.076+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:15:30.076+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:30.076+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:15:30.164+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:15:30.220+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:30.220+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:30.226+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:30.226+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:15:30.232+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:16:01.651+0100] {processor.py:186} INFO - Started process (PID=2819) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:01.652+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:16:01.652+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:01.652+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:01.744+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:01.801+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:01.801+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:01.807+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:01.807+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:16:01.813+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.163 seconds
+[2024-10-17T21:16:33.408+0100] {processor.py:186} INFO - Started process (PID=2854) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:33.409+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:16:33.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:33.409+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:33.493+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:16:33.548+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:33.548+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:33.554+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:33.554+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:16:33.560+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:17:04.390+0100] {processor.py:186} INFO - Started process (PID=2889) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:04.391+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:17:04.391+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:04.391+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:04.479+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:04.535+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:04.535+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:04.541+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:04.541+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:17:04.547+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:17:36.089+0100] {processor.py:186} INFO - Started process (PID=2922) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:36.089+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:17:36.089+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:36.089+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:36.177+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:17:36.234+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:36.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:36.239+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:36.239+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:17:36.245+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:18:07.788+0100] {processor.py:186} INFO - Started process (PID=2954) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:07.788+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:18:07.789+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:07.789+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:07.878+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:07.936+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:07.936+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:07.942+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:07.942+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:18:07.947+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T21:18:39.534+0100] {processor.py:186} INFO - Started process (PID=2987) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:39.535+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:18:39.535+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:39.535+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:39.623+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:18:39.678+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:39.678+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:39.684+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:39.684+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:18:39.689+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:19:11.145+0100] {processor.py:186} INFO - Started process (PID=3019) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:11.145+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:19:11.145+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:11.145+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:11.229+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:11.284+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:11.284+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:11.290+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:11.290+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:19:11.295+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:19:43.792+0100] {processor.py:186} INFO - Started process (PID=3067) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:43.794+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:19:43.794+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:43.794+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:43.891+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:19:43.957+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:43.957+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:43.964+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:43.964+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:19:43.970+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.179 seconds
+[2024-10-17T21:20:15.192+0100] {processor.py:186} INFO - Started process (PID=3099) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:15.192+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:20:15.192+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:15.192+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:15.281+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:15.336+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:15.336+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:15.342+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:15.342+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:20:15.349+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:20:52.002+0100] {processor.py:186} INFO - Started process (PID=3188) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:52.003+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:20:52.003+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:52.003+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:52.094+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:20:52.152+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:52.151+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:52.158+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:52.158+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:20:52.163+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:21:23.960+0100] {processor.py:186} INFO - Started process (PID=3247) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:23.960+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:21:23.960+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:23.960+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:24.045+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:24.100+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:24.100+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:24.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:24.106+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:21:24.111+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:21:55.585+0100] {processor.py:186} INFO - Started process (PID=3284) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:55.585+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:21:55.585+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:55.585+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:55.670+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:21:55.725+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:55.725+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:55.730+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:55.730+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:21:55.736+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:22:27.034+0100] {processor.py:186} INFO - Started process (PID=3318) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:27.034+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:22:27.034+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:27.034+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:27.123+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:27.179+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:27.179+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:27.185+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:27.185+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:22:27.191+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:22:58.711+0100] {processor.py:186} INFO - Started process (PID=3353) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:58.712+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:22:58.712+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:58.712+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:58.800+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:22:58.856+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:58.856+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:58.862+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:58.862+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:22:58.868+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:23:30.361+0100] {processor.py:186} INFO - Started process (PID=3388) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:23:30.362+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:23:30.362+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:30.362+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:23:30.451+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:23:30.506+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:30.506+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:30.512+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:30.512+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:23:30.518+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:24:02.088+0100] {processor.py:186} INFO - Started process (PID=3422) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:02.089+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:24:02.089+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:02.089+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:02.174+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:02.231+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:02.231+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:02.237+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:02.236+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:24:02.242+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:24:33.782+0100] {processor.py:186} INFO - Started process (PID=3465) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:33.782+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:24:33.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:33.782+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:33.871+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:24:33.928+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:33.928+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:33.934+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:33.934+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:24:33.940+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T21:25:05.539+0100] {processor.py:186} INFO - Started process (PID=3524) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:05.540+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:25:05.540+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:05.540+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:05.626+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:05.681+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:05.681+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:05.686+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:05.686+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:25:05.692+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:25:37.208+0100] {processor.py:186} INFO - Started process (PID=3563) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:37.208+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:25:37.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:37.209+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:37.297+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:25:37.353+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:37.353+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:37.359+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:37.359+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:25:37.365+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:26:08.673+0100] {processor.py:186} INFO - Started process (PID=3599) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:08.674+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:26:08.674+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:08.674+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:08.759+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:08.813+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:08.813+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:08.819+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:08.819+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:26:08.824+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:26:40.164+0100] {processor.py:186} INFO - Started process (PID=3647) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:40.165+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:26:40.165+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:40.165+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:40.254+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:26:40.310+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:40.310+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:40.316+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:40.316+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:26:40.322+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:27:11.857+0100] {processor.py:186} INFO - Started process (PID=3685) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:11.859+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:27:11.859+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:11.859+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:11.946+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:12.000+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:12.000+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:12.006+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:12.006+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:27:12.012+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T21:27:42.942+0100] {processor.py:186} INFO - Started process (PID=3721) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:42.943+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:27:42.943+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:42.943+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:43.027+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:27:43.082+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:43.082+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:43.088+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:43.088+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:27:43.093+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:28:14.599+0100] {processor.py:186} INFO - Started process (PID=3755) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:14.599+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:28:14.599+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:14.599+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:14.684+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:14.738+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:14.738+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:14.744+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:14.744+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:28:14.750+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:28:46.257+0100] {processor.py:186} INFO - Started process (PID=3790) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:46.257+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:28:46.258+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:46.258+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:46.344+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:28:46.399+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:46.399+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:46.405+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:46.405+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:28:46.410+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:29:17.919+0100] {processor.py:186} INFO - Started process (PID=3824) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:17.920+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:29:17.920+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:17.920+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:18.005+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:18.061+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:18.061+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:18.066+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:18.066+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:29:18.072+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:29:49.715+0100] {processor.py:186} INFO - Started process (PID=3876) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:49.717+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:29:49.717+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:49.717+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:49.804+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:29:49.860+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:49.860+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:49.866+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:49.866+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:29:49.872+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:30:21.693+0100] {processor.py:186} INFO - Started process (PID=3935) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:21.693+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:30:21.693+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:21.693+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:21.781+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:21.839+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:21.839+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:21.845+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:21.845+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:30:21.851+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:30:53.207+0100] {processor.py:186} INFO - Started process (PID=3972) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:53.207+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:30:53.207+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:53.207+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:53.292+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:30:53.347+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:53.347+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:53.353+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:53.353+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:30:53.359+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:31:24.864+0100] {processor.py:186} INFO - Started process (PID=4010) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:24.865+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:31:24.865+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:24.865+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:24.950+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:25.005+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:25.005+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:25.011+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:25.011+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:31:25.016+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T21:31:56.261+0100] {processor.py:186} INFO - Started process (PID=4048) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:56.263+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:31:56.263+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:56.263+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:56.348+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:31:56.403+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:56.403+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:56.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:56.409+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:31:56.414+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:32:27.725+0100] {processor.py:186} INFO - Started process (PID=4082) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:27.725+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:32:27.725+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:27.725+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:27.814+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:27.870+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:27.870+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:27.876+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:27.876+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:32:27.882+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:32:59.602+0100] {processor.py:186} INFO - Started process (PID=4128) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:59.603+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:32:59.604+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:59.604+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:59.695+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:32:59.756+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:59.755+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:59.763+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:59.763+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:32:59.768+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.167 seconds
+[2024-10-17T21:33:31.097+0100] {processor.py:186} INFO - Started process (PID=4167) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:33:31.097+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:33:31.097+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:31.097+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:33:31.183+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:33:31.244+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:31.244+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:31.250+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:31.250+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:33:31.256+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.161 seconds
+[2024-10-17T21:34:03.926+0100] {processor.py:186} INFO - Started process (PID=4246) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:03.926+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:34:03.926+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:03.926+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:04.013+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:04.068+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:04.068+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:04.074+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:04.074+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:34:04.080+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:34:35.184+0100] {processor.py:186} INFO - Started process (PID=4288) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:35.185+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:34:35.185+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:35.185+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:35.270+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:34:35.325+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:35.325+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:35.331+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:35.331+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:34:35.337+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:35:07.262+0100] {processor.py:186} INFO - Started process (PID=4325) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:07.263+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:35:07.263+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:07.263+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:07.358+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:07.421+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:07.421+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:07.427+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:07.427+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:35:07.433+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.172 seconds
+[2024-10-17T21:35:38.740+0100] {processor.py:186} INFO - Started process (PID=4362) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:38.740+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:35:38.741+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:38.741+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:38.826+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:35:38.882+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:38.882+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:38.888+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:38.888+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:35:38.893+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:36:09.941+0100] {processor.py:186} INFO - Started process (PID=4398) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:09.942+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:36:09.942+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:09.942+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:10.030+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:10.085+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:10.085+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:10.091+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:10.091+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:36:10.097+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:36:41.618+0100] {processor.py:186} INFO - Started process (PID=4438) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:41.618+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:36:41.619+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:41.619+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:41.706+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:36:41.764+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:41.763+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:41.770+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:41.769+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:36:41.775+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:37:13.429+0100] {processor.py:186} INFO - Started process (PID=4478) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:13.430+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:37:13.430+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:13.430+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:13.523+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:13.580+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:13.580+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:13.586+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:13.586+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:37:13.591+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.163 seconds
+[2024-10-17T21:37:45.124+0100] {processor.py:186} INFO - Started process (PID=4521) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:45.124+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:37:45.125+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:45.125+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:45.213+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:37:45.269+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:45.269+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:45.276+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:45.275+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:37:45.282+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:38:16.690+0100] {processor.py:186} INFO - Started process (PID=4557) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:16.690+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:38:16.691+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:16.690+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:16.775+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:16.830+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:16.829+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:16.835+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:16.835+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:38:16.841+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:38:48.413+0100] {processor.py:186} INFO - Started process (PID=4594) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:48.413+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:38:48.414+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:48.414+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:48.500+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:38:48.557+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:48.557+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:48.563+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:48.563+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:38:48.568+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:39:20.129+0100] {processor.py:186} INFO - Started process (PID=4663) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:20.129+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:39:20.129+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:20.129+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:20.217+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:20.272+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:20.272+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:20.279+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:20.278+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:39:20.284+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:39:51.582+0100] {processor.py:186} INFO - Started process (PID=4704) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:51.582+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:39:51.583+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:51.583+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:51.678+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:39:51.736+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:51.736+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:51.742+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:51.742+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:39:51.748+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.167 seconds
+[2024-10-17T21:40:19.397+0100] {processor.py:186} INFO - Started process (PID=4780) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:19.397+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:40:19.397+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:19.397+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:19.486+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:19.545+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:19.545+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:19.551+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:19.551+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:40:19.557+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:40:50.650+0100] {processor.py:186} INFO - Started process (PID=4843) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:50.651+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:40:50.651+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:50.651+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:50.737+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:40:50.793+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:50.793+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:50.799+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:50.799+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:40:50.805+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:41:22.760+0100] {processor.py:186} INFO - Started process (PID=4879) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:22.760+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:41:22.760+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:22.760+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:22.846+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:22.902+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:22.902+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:22.908+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:22.908+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:41:22.913+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T21:41:55.510+0100] {processor.py:186} INFO - Started process (PID=4924) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:55.511+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:41:55.512+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:55.512+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:55.600+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:41:55.660+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:55.660+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:55.665+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:55.665+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:41:55.671+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:42:33.135+0100] {processor.py:186} INFO - Started process (PID=5009) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:42:33.135+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:42:33.136+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:33.136+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:42:33.224+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:42:33.281+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:33.281+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:33.287+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:33.287+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:42:33.293+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:43:06.583+0100] {processor.py:186} INFO - Started process (PID=5053) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:06.583+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:43:06.583+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:06.583+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:06.672+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:06.729+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:06.729+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:06.735+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:06.735+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:43:06.741+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:43:38.966+0100] {processor.py:186} INFO - Started process (PID=5094) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:38.966+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:43:38.967+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:38.967+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:39.054+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:43:39.111+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:39.110+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:39.117+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:39.116+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:43:39.122+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:44:10.326+0100] {processor.py:186} INFO - Started process (PID=5132) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:10.327+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:44:10.327+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:10.327+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:10.413+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:10.467+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:10.467+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:10.473+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:10.473+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:44:10.479+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.154 seconds
+[2024-10-17T21:44:43.779+0100] {processor.py:186} INFO - Started process (PID=5174) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:43.781+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:44:43.781+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:43.781+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:43.872+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:44:43.930+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:43.930+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:43.936+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:43.936+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:44:43.942+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.163 seconds
+[2024-10-17T21:45:16.337+0100] {processor.py:186} INFO - Started process (PID=5214) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:16.338+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:45:16.338+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:16.338+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:16.425+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:16.480+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:16.480+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:16.486+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:16.486+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:45:16.492+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T21:45:48.763+0100] {processor.py:186} INFO - Started process (PID=5253) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:48.763+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:45:48.763+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:48.763+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:48.851+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:45:48.906+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:48.906+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:48.913+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:48.912+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:45:48.918+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:46:20.449+0100] {processor.py:186} INFO - Started process (PID=5291) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:20.449+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:46:20.449+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:20.449+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:20.538+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:20.595+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:20.595+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:20.601+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:20.601+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:46:20.606+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:46:51.852+0100] {processor.py:186} INFO - Started process (PID=5337) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:51.852+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:46:51.853+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:51.852+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:51.937+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:46:51.992+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:51.992+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:51.998+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:51.998+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:46:52.003+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.152 seconds
+[2024-10-17T21:47:24.486+0100] {processor.py:186} INFO - Started process (PID=5377) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:24.487+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:47:24.487+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:24.487+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:24.575+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:24.631+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:24.631+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:24.637+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:24.637+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:47:24.643+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:47:56.420+0100] {processor.py:186} INFO - Started process (PID=5423) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:56.420+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:47:56.421+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:56.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:56.508+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:47:56.564+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:56.564+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:56.570+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:56.569+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:47:56.575+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:48:40.019+0100] {processor.py:186} INFO - Started process (PID=5547) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:48:40.019+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:48:40.019+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:40.019+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:48:40.111+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:48:40.174+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:40.173+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:40.180+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:40.180+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:48:40.185+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.168 seconds
+[2024-10-17T21:49:11.934+0100] {processor.py:186} INFO - Started process (PID=5596) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:11.935+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:49:11.935+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:11.935+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:12.027+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:12.086+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:12.086+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:12.092+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:12.092+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:49:12.098+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.165 seconds
+[2024-10-17T21:49:43.235+0100] {processor.py:186} INFO - Started process (PID=5637) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:43.236+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:49:43.236+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:43.236+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:43.326+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:49:43.401+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:43.401+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:43.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:43.409+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:49:43.416+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.182 seconds
+[2024-10-17T21:50:06.421+0100] {processor.py:186} INFO - Started process (PID=5706) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:06.422+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:50:06.422+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:06.422+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:06.511+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:06.568+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:06.567+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:06.573+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:06.573+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:50:06.579+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:50:41.342+0100] {processor.py:186} INFO - Started process (PID=5747) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:41.342+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:50:41.342+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:41.342+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:41.432+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:50:41.488+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:41.488+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:41.494+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:41.494+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:50:41.500+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:51:25.138+0100] {processor.py:186} INFO - Started process (PID=5886) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:51:25.138+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:51:25.138+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:25.138+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:51:25.227+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:51:25.285+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:25.285+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:25.291+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:25.291+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:51:25.297+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T21:52:02.873+0100] {processor.py:186} INFO - Started process (PID=5960) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:02.874+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:52:02.874+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:02.874+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:02.964+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:03.020+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:03.020+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:03.026+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:03.026+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:52:03.031+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T21:52:46.038+0100] {processor.py:186} INFO - Started process (PID=6053) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:46.038+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:52:46.038+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:46.038+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:46.127+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:52:46.184+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:46.184+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:46.190+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:46.190+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:52:46.195+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T21:53:20.820+0100] {processor.py:186} INFO - Started process (PID=6101) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:20.820+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:53:20.821+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:20.820+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:20.908+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:20.964+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:20.964+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:20.970+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:20.970+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:53:20.976+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:53:59.048+0100] {processor.py:186} INFO - Started process (PID=6154) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:59.048+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:53:59.048+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:59.048+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:59.144+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:53:59.205+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:59.205+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:59.211+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:59.211+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:53:59.217+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.170 seconds
+[2024-10-17T21:54:32.440+0100] {processor.py:186} INFO - Started process (PID=6212) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:54:32.441+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:54:32.441+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:32.441+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:54:32.535+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:54:32.592+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:32.592+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:32.598+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:32.598+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:54:32.604+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.165 seconds
+[2024-10-17T21:55:09.408+0100] {processor.py:186} INFO - Started process (PID=6297) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:09.408+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:55:09.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:09.408+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:09.499+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:09.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:09.555+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:09.561+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:09.561+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:55:09.567+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T21:55:42.942+0100] {processor.py:186} INFO - Started process (PID=6354) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:42.942+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:55:42.943+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:42.943+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:43.034+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:55:43.090+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:43.090+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:43.097+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:43.097+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:55:43.103+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:56:19.396+0100] {processor.py:186} INFO - Started process (PID=6403) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:19.396+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:56:19.397+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:19.397+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:19.484+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:19.541+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:19.541+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:19.547+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:19.547+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:56:19.553+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:56:56.353+0100] {processor.py:186} INFO - Started process (PID=6472) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:56.354+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:56:56.354+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:56.354+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:56.445+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:56:56.501+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:56.501+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:56.507+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:56.507+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:56:56.513+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.161 seconds
+[2024-10-17T21:57:30.244+0100] {processor.py:186} INFO - Started process (PID=6522) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:57:30.245+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:57:30.245+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:30.245+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:57:30.333+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:57:30.390+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:30.389+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:30.396+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:30.396+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:57:30.402+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.158 seconds
+[2024-10-17T21:58:07.250+0100] {processor.py:186} INFO - Started process (PID=6589) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:07.250+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:58:07.250+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:07.250+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:07.337+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:07.394+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:07.394+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:07.400+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:07.400+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:58:07.406+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T21:58:43.273+0100] {processor.py:186} INFO - Started process (PID=6633) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:43.274+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:58:43.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:43.274+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:43.365+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:58:43.422+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:43.422+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:43.429+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:43.429+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:58:43.434+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T21:59:17.023+0100] {processor.py:186} INFO - Started process (PID=6681) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:17.023+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:59:17.024+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:17.024+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:17.111+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:17.166+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:17.166+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:17.172+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:17.172+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:59:17.177+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T21:59:50.810+0100] {processor.py:186} INFO - Started process (PID=6757) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:50.810+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T21:59:50.810+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:50.810+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:50.899+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T21:59:50.958+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:50.958+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:50.964+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:50.964+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T21:59:50.970+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.161 seconds
+[2024-10-17T22:00:24.858+0100] {processor.py:186} INFO - Started process (PID=6811) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:24.858+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:00:24.858+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:24.858+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:24.948+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:25.007+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:25.007+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:25.013+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:25.013+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:00:25.019+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T22:00:59.749+0100] {processor.py:186} INFO - Started process (PID=6870) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:59.750+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:00:59.750+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:59.750+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:59.838+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:00:59.894+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:59.894+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:59.900+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:59.900+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:00:59.905+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T22:01:32.258+0100] {processor.py:186} INFO - Started process (PID=7021) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:01:32.258+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:01:32.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:32.259+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:01:32.355+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:01:32.415+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:32.415+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:32.427+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:32.427+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:01:32.435+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.178 seconds
+[2024-10-17T22:02:11.557+0100] {processor.py:186} INFO - Started process (PID=7139) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:11.558+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:02:11.558+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:11.558+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:11.685+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:11.751+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:11.750+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:11.757+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:11.757+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:02:11.762+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.206 seconds
+[2024-10-17T22:02:46.134+0100] {processor.py:186} INFO - Started process (PID=7201) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:46.134+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:02:46.135+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:46.135+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:46.224+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:02:46.281+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:46.281+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:46.287+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:46.287+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:02:46.293+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T22:03:26.324+0100] {processor.py:186} INFO - Started process (PID=7258) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:03:26.325+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:03:26.325+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:26.325+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:03:26.414+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:03:26.471+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:26.471+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:26.477+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:26.477+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:03:26.483+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.160 seconds
+[2024-10-17T22:04:00.294+0100] {processor.py:186} INFO - Started process (PID=7300) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:00.294+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:04:00.295+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:00.294+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:00.386+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:00.445+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:00.445+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:00.451+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:00.451+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:04:00.457+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.164 seconds
+[2024-10-17T22:04:35.678+0100] {processor.py:186} INFO - Started process (PID=7344) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:35.679+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:04:35.680+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:35.680+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:35.767+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:04:35.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:35.823+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:35.829+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:35.829+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:04:35.835+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T22:05:15.293+0100] {processor.py:186} INFO - Started process (PID=7388) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:15.294+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:05:15.295+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:15.295+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:15.384+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:15.446+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:15.446+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:15.452+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:15.452+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:05:15.458+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.166 seconds
+[2024-10-17T22:05:49.748+0100] {processor.py:186} INFO - Started process (PID=7435) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:49.749+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:05:49.750+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:49.750+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:49.838+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:05:49.895+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:49.894+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:49.900+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:49.900+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:05:49.906+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T22:06:28.090+0100] {processor.py:186} INFO - Started process (PID=7507) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:06:28.090+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:06:28.091+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:28.090+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:06:28.179+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:07:03.528+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:03.528+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:03.540+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:03.540+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:07:03.634+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.380 seconds
+[2024-10-17T22:07:41.763+0100] {processor.py:186} INFO - Started process (PID=7558) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:07:41.764+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:07:41.764+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:41.764+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:07:41.850+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:07:41.904+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:41.904+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:41.909+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:41.909+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:07:41.915+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T22:08:16.543+0100] {processor.py:186} INFO - Started process (PID=7599) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:08:16.543+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:08:16.544+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:16.544+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:08:16.632+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:08:16.686+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:16.686+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:16.692+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:16.692+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:08:16.698+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T22:11:36.061+0100] {processor.py:186} INFO - Started process (PID=7655) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:11:36.062+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:11:36.062+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:36.062+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:11:36.147+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:11:36.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:36.199+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:36.205+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:36.205+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:11:36.211+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.150 seconds
+[2024-10-17T22:12:09.369+0100] {processor.py:186} INFO - Started process (PID=7698) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:09.369+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:12:09.369+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:09.369+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:09.453+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:09.507+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:09.507+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:09.513+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:09.513+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:12:09.519+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T22:12:46.451+0100] {processor.py:186} INFO - Started process (PID=7740) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:46.452+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:12:46.452+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:46.452+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:46.534+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:12:46.587+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:46.587+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:46.593+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:46.593+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:12:46.598+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.148 seconds
+[2024-10-17T22:13:39.243+0100] {processor.py:186} INFO - Started process (PID=7784) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:13:39.244+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:13:39.244+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:39.244+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:13:39.329+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:13:39.384+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:39.384+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:39.390+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:39.390+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:13:39.396+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T22:14:21.878+0100] {processor.py:186} INFO - Started process (PID=7843) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:21.879+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:14:21.879+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:21.879+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:21.967+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:22.021+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:22.021+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:22.027+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:22.027+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:14:22.033+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.156 seconds
+[2024-10-17T22:14:57.122+0100] {processor.py:186} INFO - Started process (PID=7885) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:57.122+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:14:57.122+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:57.122+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:57.215+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:14:57.277+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:57.277+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:57.283+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:57.283+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:14:57.289+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.168 seconds
+[2024-10-17T22:15:32.426+0100] {processor.py:186} INFO - Started process (PID=7928) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:15:32.427+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:15:32.427+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:32.427+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:15:32.511+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:15:32.565+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:32.565+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:32.571+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:32.571+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:15:32.576+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T22:16:07.937+0100] {processor.py:186} INFO - Started process (PID=7970) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:07.938+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:16:07.938+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:07.938+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:08.023+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:08.083+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:08.083+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:08.089+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:08.089+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:16:08.095+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.159 seconds
+[2024-10-17T22:16:45.273+0100] {processor.py:186} INFO - Started process (PID=8018) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:45.274+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:16:45.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:45.274+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:45.368+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:16:45.428+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:45.428+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:45.434+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:45.434+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:16:45.440+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.168 seconds
+[2024-10-17T22:17:20.851+0100] {processor.py:186} INFO - Started process (PID=8061) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:20.851+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:17:20.852+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:20.851+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:20.939+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:20.995+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:20.995+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:21.001+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:21.001+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:17:21.007+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T22:17:53.805+0100] {processor.py:186} INFO - Started process (PID=8101) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:53.805+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:17:53.805+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:53.805+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:53.893+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:17:53.949+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:53.949+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:53.955+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:53.955+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:17:53.961+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.157 seconds
+[2024-10-17T22:18:28.752+0100] {processor.py:186} INFO - Started process (PID=8142) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:18:28.753+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:18:28.754+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:28.754+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:18:28.845+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:18:28.901+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:28.901+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:28.907+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:28.907+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:18:28.913+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T22:19:06.573+0100] {processor.py:186} INFO - Started process (PID=8186) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:06.573+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:19:06.573+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:06.573+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:06.662+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:06.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:06.721+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:06.728+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:06.728+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:19:06.733+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T22:19:45.026+0100] {processor.py:186} INFO - Started process (PID=8231) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:45.026+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:19:45.027+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:45.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:45.110+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:19:45.164+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:45.164+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:45.170+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:45.170+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:19:45.176+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.151 seconds
+[2024-10-17T22:20:18.901+0100] {processor.py:186} INFO - Started process (PID=8277) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:18.901+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:20:18.901+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:18.901+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:18.988+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:19.044+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:19.043+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:19.049+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:19.049+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:20:19.055+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T22:20:58.486+0100] {processor.py:186} INFO - Started process (PID=8330) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:58.487+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:20:58.487+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:58.487+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:58.579+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:20:58.643+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:58.643+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:58.650+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:58.650+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:20:58.656+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.171 seconds
+[2024-10-17T22:21:32.885+0100] {processor.py:186} INFO - Started process (PID=8386) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:21:32.886+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:21:32.886+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:32.886+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:21:32.978+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:21:33.034+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:33.034+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:33.040+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:33.040+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:21:33.046+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds
+[2024-10-17T22:22:08.375+0100] {processor.py:186} INFO - Started process (PID=8428) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:08.375+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:22:08.375+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:08.375+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:08.460+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:08.515+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:08.515+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:08.521+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:08.521+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:22:08.526+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.153 seconds
+[2024-10-17T22:22:43.621+0100] {processor.py:186} INFO - Started process (PID=8471) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:43.622+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:22:43.622+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:43.622+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:43.709+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:22:43.763+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:43.763+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:43.769+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:43.769+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:22:43.775+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.155 seconds
+[2024-10-17T22:23:19.507+0100] {processor.py:186} INFO - Started process (PID=8522) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:23:19.508+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py for tasks to queue
+[2024-10-17T22:23:19.508+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:19.508+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:23:19.600+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_cleaning' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py
+[2024-10-17T22:23:19.656+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:19.656+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:23:19.662+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:19.662+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_cleaning to None, run_after=None
+[2024-10-17T22:23:19.668+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_cleaning.py took 0.162 seconds

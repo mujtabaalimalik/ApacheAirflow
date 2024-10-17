@@ -1,0 +1,484 @@
+[2024-10-17T21:42:18.792+0100] {processor.py:186} INFO - Started process (PID=4973) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:18.792+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:42:18.792+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.792+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:18.802+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:18.875+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.875+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:cron_catchup_backfill
+[2024-10-17T21:42:18.878+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.877+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:cron_catchup_backfill
+[2024-10-17T21:42:18.880+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.880+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:cron_catchup_backfill
+[2024-10-17T21:42:18.882+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.882+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:cron_catchup_backfill
+[2024-10-17T21:42:18.884+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.884+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:cron_catchup_backfill
+[2024-10-17T21:42:18.886+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.886+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:cron_catchup_backfill
+[2024-10-17T21:42:18.888+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.888+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:cron_catchup_backfill
+[2024-10-17T21:42:18.888+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.888+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:18.892+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.892+0100] {dag.py:3262} INFO - Creating ORM DAG for cron_catchup_backfill
+[2024-10-17T21:42:18.895+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:18.895+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:42:18.900+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.109 seconds
+[2024-10-17T21:42:51.755+0100] {processor.py:186} INFO - Started process (PID=5036) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:51.755+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:42:51.755+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:51.755+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:51.764+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:42:51.798+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:51.798+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:51.804+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:51.804+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:42:51.809+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:43:24.313+0100] {processor.py:186} INFO - Started process (PID=5075) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:24.314+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:43:24.314+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:24.314+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:24.323+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:24.357+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:24.356+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:24.363+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:24.363+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:43:24.368+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:43:55.179+0100] {processor.py:186} INFO - Started process (PID=5114) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:55.179+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:43:55.179+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:55.179+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:55.188+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:43:55.222+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:55.222+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:55.228+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:55.228+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:43:55.233+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:44:27.688+0100] {processor.py:186} INFO - Started process (PID=5152) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:44:27.688+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:44:27.689+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:27.688+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:44:27.697+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:44:27.732+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:27.732+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:27.738+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:27.738+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:44:27.743+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:44:59.961+0100] {processor.py:186} INFO - Started process (PID=5196) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:44:59.962+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:44:59.963+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:59.963+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:44:59.972+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:45:00.004+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:00.004+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:00.010+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:00.010+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:45:00.015+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T21:45:31.853+0100] {processor.py:186} INFO - Started process (PID=5233) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:45:31.853+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:45:31.854+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:31.854+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:45:31.862+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:45:31.895+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:31.895+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:31.901+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:31.901+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:45:31.907+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T21:46:02.637+0100] {processor.py:186} INFO - Started process (PID=5271) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:02.637+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:46:02.638+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:02.638+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:02.647+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:02.680+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:02.680+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:02.686+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:02.685+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:46:02.691+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T21:46:35.026+0100] {processor.py:186} INFO - Started process (PID=5311) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:35.026+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:46:35.026+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:35.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:35.035+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:46:35.068+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:35.068+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:35.074+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:35.074+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:46:35.080+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T21:47:07.891+0100] {processor.py:186} INFO - Started process (PID=5355) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:07.891+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:47:07.891+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:07.891+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:07.901+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:07.935+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:07.935+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:07.941+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:07.941+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:47:07.947+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:47:39.411+0100] {processor.py:186} INFO - Started process (PID=5398) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:39.411+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:47:39.411+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:39.411+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:39.421+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:47:39.457+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:39.457+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:39.464+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:39.464+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:47:39.471+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.061 seconds
+[2024-10-17T21:48:12.706+0100] {processor.py:186} INFO - Started process (PID=5441) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:12.707+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:48:12.707+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:12.707+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:12.717+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:12.752+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:12.752+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:12.759+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:12.759+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-12 00:00:00+00:00, run_after=2024-10-13 00:00:00+00:00
+[2024-10-17T21:48:12.764+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.059 seconds
+[2024-10-17T21:48:45.975+0100] {processor.py:186} INFO - Started process (PID=5559) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:45.975+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:48:45.975+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:45.975+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:45.984+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:48:46.018+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:46.018+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:46.025+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:46.024+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:48:46.030+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:49:16.995+0100] {processor.py:186} INFO - Started process (PID=5602) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:16.996+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:49:16.996+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:16.996+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:17.005+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:17.041+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:17.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:17.048+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:17.048+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:49:17.053+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.059 seconds
+[2024-10-17T21:49:51.941+0100] {processor.py:186} INFO - Started process (PID=5674) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:51.942+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:49:51.942+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:51.942+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:51.952+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:49:51.988+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:51.988+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:51.995+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:51.995+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:49:52.001+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.060 seconds
+[2024-10-17T21:50:26.746+0100] {processor.py:186} INFO - Started process (PID=5730) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:50:26.747+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:50:26.747+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:26.747+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:50:26.756+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:50:26.791+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:26.791+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:26.797+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:26.797+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:50:26.803+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:51:04.006+0100] {processor.py:186} INFO - Started process (PID=5803) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:04.007+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:51:04.007+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:04.007+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:04.016+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:04.050+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:04.050+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:04.056+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:04.056+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:51:04.062+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:51:44.532+0100] {processor.py:186} INFO - Started process (PID=5930) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:44.533+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:51:44.533+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:44.533+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:44.542+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:51:44.576+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:44.576+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:44.583+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:44.582+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:51:44.588+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:52:17.241+0100] {processor.py:186} INFO - Started process (PID=5979) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:17.241+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:52:17.242+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:17.242+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:17.250+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:17.285+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:17.285+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:17.291+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:17.291+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:17.296+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:52:32.572+0100] {processor.py:186} INFO - Started process (PID=6035) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:32.573+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:52:32.573+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:32.573+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:32.582+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:52:32.618+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:32.618+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:32.625+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:32.625+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:32.631+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.059 seconds
+[2024-10-17T21:53:08.105+0100] {processor.py:186} INFO - Started process (PID=6084) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:08.105+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:53:08.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:08.106+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:08.115+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:08.149+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:08.149+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:08.155+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:08.155+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:53:08.161+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:53:42.525+0100] {processor.py:186} INFO - Started process (PID=6129) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:42.526+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:53:42.526+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:42.526+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:42.535+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:53:42.569+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:42.569+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:42.576+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:42.576+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:53:42.581+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:54:18.029+0100] {processor.py:186} INFO - Started process (PID=6178) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:18.029+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:54:18.030+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:18.030+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:18.039+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:18.072+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:18.072+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:18.079+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:18.078+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:18.084+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:54:53.653+0100] {processor.py:186} INFO - Started process (PID=6275) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:53.654+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:54:53.654+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:53.654+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:53.663+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:54:53.697+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:53.697+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:53.704+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:53.704+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:53.709+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:55:29.237+0100] {processor.py:186} INFO - Started process (PID=6329) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:55:29.237+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:55:29.237+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:29.237+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:55:29.247+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:55:29.281+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:29.280+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:29.287+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:29.287+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:55:29.292+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T21:56:02.933+0100] {processor.py:186} INFO - Started process (PID=6381) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:02.933+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:56:02.933+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:02.933+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:02.943+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:02.977+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:02.977+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:02.984+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:02.983+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:56:02.989+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T21:56:38.424+0100] {processor.py:186} INFO - Started process (PID=6443) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:38.425+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:56:38.425+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:38.425+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:38.435+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:56:38.471+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:38.471+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:38.477+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:38.477+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:56:38.483+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.060 seconds
+[2024-10-17T21:57:12.872+0100] {processor.py:186} INFO - Started process (PID=6494) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:12.872+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:57:12.873+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:12.873+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:12.883+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:12.917+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:12.917+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:12.924+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:12.924+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:12.929+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T21:57:46.564+0100] {processor.py:186} INFO - Started process (PID=6545) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:46.565+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:57:46.565+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:46.565+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:46.577+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:57:46.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:46.612+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:46.618+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:46.618+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:46.624+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.061 seconds
+[2024-10-17T21:58:19.901+0100] {processor.py:186} INFO - Started process (PID=6604) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:19.901+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:58:19.901+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:19.901+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:19.910+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:19.943+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:19.943+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:19.950+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:19.950+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:19.955+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T21:58:54.077+0100] {processor.py:186} INFO - Started process (PID=6651) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:54.077+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:58:54.078+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:54.078+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:54.086+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:58:54.120+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:54.120+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:54.126+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:54.126+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:54.132+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T21:59:27.429+0100] {processor.py:186} INFO - Started process (PID=6696) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:59:27.429+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T21:59:27.429+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:27.429+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:59:27.438+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T21:59:27.472+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:27.471+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:27.478+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:27.478+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:59:27.483+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:00:00.319+0100] {processor.py:186} INFO - Started process (PID=6781) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:00.320+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:00:00.320+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:00.320+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:00.329+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:00.363+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:00.363+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:00.369+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:00.369+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:00:00.374+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:00:33.683+0100] {processor.py:186} INFO - Started process (PID=6824) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:33.683+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:00:33.683+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:33.683+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:33.692+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:00:33.727+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:33.726+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:33.733+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:33.733+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:00:33.738+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:01:06.574+0100] {processor.py:186} INFO - Started process (PID=6878) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:06.574+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:01:06.575+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:06.575+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:06.584+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:06.618+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:06.618+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:06.624+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:06.624+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:06.630+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:01:43.244+0100] {processor.py:186} INFO - Started process (PID=7088) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:43.245+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:01:43.246+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:43.246+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:43.255+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:01:43.290+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:43.290+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:43.296+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:43.296+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:43.301+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T22:02:17.549+0100] {processor.py:186} INFO - Started process (PID=7155) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:17.550+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:02:17.550+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:17.550+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:17.559+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:17.594+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:17.594+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:17.600+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:17.600+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:02:17.606+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T22:02:51.710+0100] {processor.py:186} INFO - Started process (PID=7209) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:51.710+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:02:51.710+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:51.710+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:51.720+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:02:51.755+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:51.755+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:51.761+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:51.761+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:02:51.767+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T22:03:25.155+0100] {processor.py:186} INFO - Started process (PID=7256) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:25.155+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:03:25.156+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:25.156+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:25.165+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:25.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:25.199+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:25.205+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:25.205+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:03:25.211+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:03:58.881+0100] {processor.py:186} INFO - Started process (PID=7298) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:58.882+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:03:58.882+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:58.882+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:58.891+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:03:58.925+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:58.925+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:58.932+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:58.932+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:03:58.937+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:04:33.877+0100] {processor.py:186} INFO - Started process (PID=7342) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:04:33.878+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:04:33.879+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:33.879+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:04:33.887+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:04:33.922+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:33.922+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:33.928+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:33.928+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:04:33.933+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:05:12.117+0100] {processor.py:186} INFO - Started process (PID=7384) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:12.118+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:05:12.118+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:12.118+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:12.129+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:12.165+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:12.165+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:12.171+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:12.171+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:12.177+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.062 seconds
+[2024-10-17T22:05:46.404+0100] {processor.py:186} INFO - Started process (PID=7430) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:46.405+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:05:46.405+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:46.405+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:46.415+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:05:46.448+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:46.448+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:46.454+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:46.454+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:46.460+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:06:19.569+0100] {processor.py:186} INFO - Started process (PID=7496) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:06:19.570+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:06:19.570+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:19.570+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:06:19.579+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:06:19.613+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:19.613+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:06:19.619+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:19.619+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:06:19.625+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:07:08.591+0100] {processor.py:186} INFO - Started process (PID=7516) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:08.591+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:07:08.591+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:08.591+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:08.600+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:08.634+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:08.634+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:08.641+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:08.641+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:07:08.646+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:07:43.654+0100] {processor.py:186} INFO - Started process (PID=7560) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:43.654+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:07:43.655+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:43.655+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:43.663+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:07:43.696+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:43.696+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:43.702+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:43.702+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:07:43.707+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.054 seconds
+[2024-10-17T22:08:21.556+0100] {processor.py:186} INFO - Started process (PID=7605) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:08:21.557+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:08:21.557+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:21.557+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:08:21.566+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:08:21.599+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:21.598+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:21.605+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:21.605+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:08:21.610+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:11:23.415+0100] {processor.py:186} INFO - Started process (PID=7639) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:23.416+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:11:23.416+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:23.416+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:23.425+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:23.457+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:23.456+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:23.462+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:23.462+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:11:23.468+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.054 seconds
+[2024-10-17T22:11:55.308+0100] {processor.py:186} INFO - Started process (PID=7682) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:55.309+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:11:55.309+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:55.309+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:55.318+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:11:55.349+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:55.349+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:55.355+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:55.355+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:11:55.361+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.053 seconds
+[2024-10-17T22:12:32.131+0100] {processor.py:186} INFO - Started process (PID=7724) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:12:32.131+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:12:32.131+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:32.131+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:12:32.140+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:12:32.172+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:32.172+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:32.178+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:32.178+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:12:32.183+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.053 seconds
+[2024-10-17T22:13:18.218+0100] {processor.py:186} INFO - Started process (PID=7760) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:18.218+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:13:18.218+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:18.218+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:18.227+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:18.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:18.258+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:18.264+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:18.264+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:13:18.270+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.053 seconds
+[2024-10-17T22:13:55.019+0100] {processor.py:186} INFO - Started process (PID=7802) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:55.020+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:13:55.020+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:55.020+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:55.029+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:13:55.062+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:55.062+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:55.068+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:55.068+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:13:55.073+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:14:34.526+0100] {processor.py:186} INFO - Started process (PID=7857) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:14:34.526+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:14:34.526+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:34.526+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:14:34.536+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:14:34.571+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:34.571+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:34.577+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:34.577+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:14:34.582+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T22:15:08.027+0100] {processor.py:186} INFO - Started process (PID=7897) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:08.027+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:15:08.028+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:08.028+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:08.037+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:08.070+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:08.070+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:08.076+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:08.076+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:15:08.081+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:15:43.483+0100] {processor.py:186} INFO - Started process (PID=7942) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:43.484+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:15:43.484+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:43.484+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:43.493+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:15:43.528+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:43.528+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:43.534+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:43.534+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:15:43.540+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.058 seconds
+[2024-10-17T22:16:20.101+0100] {processor.py:186} INFO - Started process (PID=7987) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:20.101+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:16:20.102+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:20.102+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:20.110+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:20.143+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:20.143+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:20.149+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:20.149+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:20.155+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:16:56.116+0100] {processor.py:186} INFO - Started process (PID=8032) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:56.117+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:16:56.117+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:56.117+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:56.126+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:16:56.159+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:56.159+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:56.165+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:56.165+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:56.170+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:17:31.502+0100] {processor.py:186} INFO - Started process (PID=8075) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:17:31.502+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:17:31.502+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:31.502+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:17:31.511+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:17:31.545+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:31.544+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:31.551+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:31.550+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:17:31.556+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:18:02.627+0100] {processor.py:186} INFO - Started process (PID=8111) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:02.627+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:18:02.627+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:02.627+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:02.636+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:02.669+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:02.669+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:02.675+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:02.675+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:18:02.681+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:18:39.366+0100] {processor.py:186} INFO - Started process (PID=8154) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:39.366+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:18:39.366+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:39.366+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:39.375+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:18:39.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:39.409+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:39.415+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:39.415+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:18:39.420+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:19:10.318+0100] {processor.py:186} INFO - Started process (PID=8190) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:10.319+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:19:10.319+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:10.319+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:10.328+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:10.362+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:10.362+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:10.368+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:10.368+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:10.374+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:19:43.234+0100] {processor.py:186} INFO - Started process (PID=8229) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:43.235+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:19:43.235+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:43.235+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:43.244+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:19:43.277+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:43.277+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:43.283+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:43.283+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:43.288+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:20:14.354+0100] {processor.py:186} INFO - Started process (PID=8271) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:14.355+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:20:14.355+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:14.355+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:14.364+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:14.397+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:14.397+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:14.403+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:14.403+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:20:14.408+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.055 seconds
+[2024-10-17T22:20:49.382+0100] {processor.py:186} INFO - Started process (PID=8313) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:49.382+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:20:49.383+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:49.382+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:49.392+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:20:49.433+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:49.433+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:49.442+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:49.442+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:20:49.448+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.067 seconds
+[2024-10-17T22:21:23.477+0100] {processor.py:186} INFO - Started process (PID=8372) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:23.478+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:21:23.478+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:23.478+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:23.487+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:23.521+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:23.521+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:23.527+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:23.527+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:23.532+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:21:59.090+0100] {processor.py:186} INFO - Started process (PID=8418) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:59.091+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:21:59.091+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:59.091+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:59.100+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:21:59.133+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:59.133+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:59.139+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:59.139+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:59.145+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds
+[2024-10-17T22:22:30.720+0100] {processor.py:186} INFO - Started process (PID=8457) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:22:30.722+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:22:30.722+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:30.722+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:22:30.731+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:22:30.765+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:30.765+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:30.771+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:30.771+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:22:30.777+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.057 seconds
+[2024-10-17T22:23:05.953+0100] {processor.py:186} INFO - Started process (PID=8501) to work on /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:23:05.953+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py for tasks to queue
+[2024-10-17T22:23:05.954+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:05.954+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:23:05.963+0100] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py
+[2024-10-17T22:23:05.996+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:05.996+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:23:06.002+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:06.002+0100] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:23:06.007+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cron_catchup_backfill.py took 0.056 seconds

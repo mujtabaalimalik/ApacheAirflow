@@ -1,0 +1,57 @@
+[2024-10-03T23:04:52.819+0100] {processor.py:186} INFO - Started process (PID=16276) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:04:52.819+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:04:52.820+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.820+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:04:52.850+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:04:52.909+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.909+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_display_name
+[2024-10-03T23:04:52.912+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.912+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_display_name
+[2024-10-03T23:04:52.914+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.914+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:example_display_name
+[2024-10-03T23:04:52.916+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.916+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_display_name
+[2024-10-03T23:04:52.917+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.917+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_display_name
+[2024-10-03T23:04:52.919+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.919+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_display_name
+[2024-10-03T23:04:52.920+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.920+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_display_name
+[2024-10-03T23:04:52.920+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.920+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:04:52.924+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.924+0100] {dag.py:3262} INFO - Creating ORM DAG for example_display_name
+[2024-10-03T23:04:52.924+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:52.924+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:04:52.929+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.112 seconds
+[2024-10-03T23:07:00.716+0100] {processor.py:186} INFO - Started process (PID=16466) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:07:00.717+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:07:00.717+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:00.717+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:07:00.745+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:07:00.778+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:00.778+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:07:00.782+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:00.782+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:07:00.787+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.073 seconds
+[2024-10-03T23:08:56.353+0100] {processor.py:186} INFO - Started process (PID=16639) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:08:56.354+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:08:56.355+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:56.355+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:08:56.381+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:08:56.412+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:56.412+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:08:56.416+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:56.416+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:08:56.422+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.070 seconds
+[2024-10-03T23:11:01.553+0100] {processor.py:186} INFO - Started process (PID=16802) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:11:01.554+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:11:01.555+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:11:01.555+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:11:01.581+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:11:01.615+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:11:01.615+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:11:01.619+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:11:01.619+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:11:01.625+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.073 seconds
+[2024-10-03T23:35:00.822+0100] {processor.py:186} INFO - Started process (PID=16973) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:35:00.823+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:35:00.824+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:00.824+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:35:00.850+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:35:00.881+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:00.881+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:35:00.885+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:00.885+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:35:00.891+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.070 seconds
+[2024-10-03T23:40:19.100+0100] {processor.py:186} INFO - Started process (PID=17133) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:40:19.100+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-03T23:40:19.101+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:40:19.101+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:40:19.127+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-03T23:40:19.158+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:40:19.158+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:40:19.162+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:40:19.162+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-03T23:40:19.167+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.069 seconds
+[2024-10-04T00:20:17.686+0100] {processor.py:186} INFO - Started process (PID=17293) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-04T00:20:17.687+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-04T00:20:17.688+0100] {logging_mixin.py:190} INFO - [2024-10-04T00:20:17.688+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-04T00:20:17.714+0100] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-04T00:20:17.746+0100] {logging_mixin.py:190} INFO - [2024-10-04T00:20:17.746+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-04T00:20:17.750+0100] {logging_mixin.py:190} INFO - [2024-10-04T00:20:17.750+0100] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-04T00:20:17.755+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.071 seconds

@@ -1,0 +1,21 @@
+[2024-10-04T18:09:55.638+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-04T18:09:55.641+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_multiple_tasks_2.taskD manual__2024-10-04T17:09:53.150551+00:00 [queued]>
+[2024-10-04T18:09:55.643+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_multiple_tasks_2.taskD manual__2024-10-04T17:09:53.150551+00:00 [queued]>
+[2024-10-04T18:09:55.643+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-04T18:09:55.646+0100] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): taskD> on 2024-10-04 17:09:53.150551+00:00
+[2024-10-04T18:09:55.648+0100] {standard_task_runner.py:72} INFO - Started process 26180 to run task
+[2024-10-04T18:09:55.650+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_multiple_tasks_2', 'taskD', 'manual__2024-10-04T17:09:53.150551+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/execute_multiple_2.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmpryvor4mw']
+[2024-10-04T18:09:55.651+0100] {standard_task_runner.py:105} INFO - Job 30: Subtask taskD
+[2024-10-04T18:09:55.662+0100] {task_command.py:467} INFO - Running <TaskInstance: executing_multiple_tasks_2.taskD manual__2024-10-04T17:09:53.150551+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-04T18:09:55.682+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ali' AIRFLOW_CTX_DAG_ID='executing_multiple_tasks_2' AIRFLOW_CTX_TASK_ID='taskD' AIRFLOW_CTX_EXECUTION_DATE='2024-10-04T17:09:53.150551+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-10-04T17:09:53.150551+00:00'
+[2024-10-04T18:09:55.682+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-04T18:09:55.688+0100] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T
+[2024-10-04T18:09:55.688+0100] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo TASK D completed!']
+[2024-10-04T18:09:55.690+0100] {subprocess.py:86} INFO - Output:
+[2024-10-04T18:09:55.692+0100] {subprocess.py:93} INFO - TASK D completed!
+[2024-10-04T18:09:55.692+0100] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-10-04T18:09:55.697+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-04T18:09:55.698+0100] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_multiple_tasks_2, task_id=taskD, run_id=manual__2024-10-04T17:09:53.150551+00:00, execution_date=20241004T170953, start_date=20241004T170955, end_date=20241004T170955
+[2024-10-04T18:09:55.712+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-04T18:09:55.718+0100] {taskinstance.py:3900} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2024-10-04T18:09:55.719+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

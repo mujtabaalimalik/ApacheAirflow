@@ -1,0 +1,21 @@
+[2024-10-17T21:48:23.398+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-17T21:48:23.401+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cron_catchup_backfill.taskBranch scheduled__2024-10-12T00:00:00+00:00 [queued]>
+[2024-10-17T21:48:23.403+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cron_catchup_backfill.taskBranch scheduled__2024-10-12T00:00:00+00:00 [queued]>
+[2024-10-17T21:48:23.403+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-17T21:48:23.407+0100] {taskinstance.py:2888} INFO - Executing <Task(BranchPythonOperator): taskBranch> on 2024-10-12 00:00:00+00:00
+[2024-10-17T21:48:23.409+0100] {standard_task_runner.py:72} INFO - Started process 5479 to run task
+[2024-10-17T21:48:23.412+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'cron_catchup_backfill', 'taskBranch', 'scheduled__2024-10-12T00:00:00+00:00', '--job-id', '272', '--raw', '--subdir', 'DAGS_FOLDER/cron_catchup_backfill.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmp9og_0ncv']
+[2024-10-17T21:48:23.413+0100] {standard_task_runner.py:105} INFO - Job 272: Subtask taskBranch
+[2024-10-17T21:48:23.427+0100] {task_command.py:467} INFO - Running <TaskInstance: cron_catchup_backfill.taskBranch scheduled__2024-10-12T00:00:00+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-17T21:48:23.447+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ali' AIRFLOW_CTX_DAG_ID='cron_catchup_backfill' AIRFLOW_CTX_TASK_ID='taskBranch' AIRFLOW_CTX_EXECUTION_DATE='2024-10-12T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-10-12T00:00:00+00:00'
+[2024-10-17T21:48:23.448+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-17T21:48:23.452+0100] {baseoperator.py:405} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2024-10-17T21:48:23.454+0100] {python.py:240} INFO - Done. Returned value was: taskC
+[2024-10-17T21:48:23.454+0100] {branch.py:38} INFO - Branch into taskC
+[2024-10-17T21:48:23.454+0100] {skipmixin.py:230} INFO - Following branch {'taskC'}
+[2024-10-17T21:48:23.457+0100] {skipmixin.py:278} INFO - Skipping tasks [('taskE', -1)]
+[2024-10-17T21:48:23.462+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-17T21:48:23.463+0100] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=cron_catchup_backfill, task_id=taskBranch, run_id=scheduled__2024-10-12T00:00:00+00:00, execution_date=20241012T000000, start_date=20241017T204823, end_date=20241017T204823
+[2024-10-17T21:48:23.474+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-17T21:48:23.483+0100] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-10-17T21:48:23.483+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

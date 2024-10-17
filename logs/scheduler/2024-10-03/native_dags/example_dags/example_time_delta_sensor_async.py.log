@@ -1,0 +1,104 @@
+[2024-10-03T23:04:08.223+0100] {processor.py:186} INFO - Started process (PID=16207) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:04:08.224+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:04:08.224+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.224+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:04:08.243+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:04:08.273+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.273+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:04:08.307+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.307+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2024-10-03T23:04:08.310+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.310+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2024-10-03T23:04:08.311+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.311+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2024-10-03T23:04:08.313+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.313+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_time_delta_sensor_async
+[2024-10-03T23:04:08.315+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.315+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_time_delta_sensor_async
+[2024-10-03T23:04:08.317+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.317+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_time_delta_sensor_async
+[2024-10-03T23:04:08.318+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.318+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_time_delta_sensor_async
+[2024-10-03T23:04:08.318+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.318+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:04:08.322+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.322+0100] {dag.py:3262} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2024-10-03T23:04:08.322+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:04:08.322+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:04:08.327+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.105 seconds
+[2024-10-03T23:05:43.320+0100] {processor.py:186} INFO - Started process (PID=16358) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:05:43.321+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:05:43.321+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:43.321+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:05:43.341+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:05:43.371+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:43.371+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:05:43.378+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:43.378+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:05:43.381+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:43.381+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:05:43.387+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.069 seconds
+[2024-10-03T23:06:47.153+0100] {processor.py:186} INFO - Started process (PID=16447) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:06:47.154+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:06:47.155+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:47.154+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:06:47.174+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:06:47.204+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:47.204+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:06:47.211+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:47.211+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:06:47.214+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:47.214+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:06:47.219+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2024-10-03T23:07:47.860+0100] {processor.py:186} INFO - Started process (PID=16539) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:07:47.861+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:07:47.861+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:47.861+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:07:47.881+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:07:47.911+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:47.911+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:07:47.918+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:47.918+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:07:47.921+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:47.921+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:07:47.926+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2024-10-03T23:08:45.532+0100] {processor.py:186} INFO - Started process (PID=16625) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:08:45.532+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:08:45.533+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:45.533+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:08:45.551+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:08:45.583+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:45.583+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:08:45.590+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:45.590+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:08:45.594+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:45.594+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:08:45.599+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.069 seconds
+[2024-10-03T23:09:42.411+0100] {processor.py:186} INFO - Started process (PID=16697) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:09:42.411+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:09:42.412+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:42.412+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:09:42.430+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:09:42.461+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:42.461+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:09:42.468+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:42.467+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:09:42.471+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:42.471+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:09:42.477+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.067 seconds
+[2024-10-03T23:10:44.133+0100] {processor.py:186} INFO - Started process (PID=16781) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:10:44.134+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:10:44.134+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:44.134+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:10:44.155+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:10:44.189+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:44.189+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:10:44.197+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:44.197+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:10:44.201+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:44.201+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:10:44.207+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.076 seconds
+[2024-10-03T23:33:48.569+0100] {processor.py:186} INFO - Started process (PID=16871) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:33:48.570+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:33:48.570+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:33:48.570+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:33:48.591+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:33:48.622+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:33:48.622+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:33:48.629+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:33:48.629+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:33:48.632+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:33:48.632+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:33:48.637+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.070 seconds
+[2024-10-03T23:34:48.428+0100] {processor.py:186} INFO - Started process (PID=16957) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:34:48.429+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:34:48.429+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:48.429+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:34:48.449+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:34:48.479+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:48.479+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:34:48.485+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:48.485+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:34:48.489+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:48.488+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:34:48.494+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.067 seconds
+[2024-10-03T23:35:45.285+0100] {processor.py:186} INFO - Started process (PID=17033) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:35:45.286+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:35:45.286+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:45.286+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:35:45.304+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:35:45.334+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:45.334+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:35:45.340+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:45.340+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:35:45.344+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:45.344+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:35:45.350+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.066 seconds
+[2024-10-03T23:36:47.688+0100] {processor.py:186} INFO - Started process (PID=17109) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:36:47.688+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:36:47.689+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:47.689+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:36:47.707+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:36:47.739+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:47.739+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:36:47.746+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:47.746+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:36:47.749+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:47.749+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:36:47.755+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2024-10-03T23:49:09.973+0100] {processor.py:186} INFO - Started process (PID=17198) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:49:09.973+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-10-03T23:49:09.973+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:49:09.973+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:49:09.992+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-10-03T23:49:10.021+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:49:10.021+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T23:49:10.028+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:49:10.028+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:49:10.031+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:49:10.031+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-10-03T23:49:10.037+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds

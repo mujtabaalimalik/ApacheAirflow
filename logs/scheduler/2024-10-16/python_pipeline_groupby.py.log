@@ -1,0 +1,540 @@
+[2024-10-16T13:45:24.597+0100] {processor.py:186} INFO - Started process (PID=69420) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:24.597+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:45:24.598+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:45:24.598+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:24.762+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:45:24.761+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:45:24.763+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:24.818+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.222 seconds
+[2024-10-16T13:45:56.083+0100] {processor.py:186} INFO - Started process (PID=69464) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:56.083+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:45:56.084+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:45:56.083+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:56.242+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:45:56.242+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:45:56.242+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:45:56.295+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.214 seconds
+[2024-10-16T13:46:27.313+0100] {processor.py:186} INFO - Started process (PID=69502) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:27.313+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:46:27.314+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:46:27.314+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:27.494+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:46:27.494+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:46:27.495+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:27.589+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.277 seconds
+[2024-10-16T13:46:59.344+0100] {processor.py:186} INFO - Started process (PID=69529) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:59.344+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:46:59.344+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:46:59.344+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:59.486+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:46:59.486+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:46:59.486+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:46:59.537+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.195 seconds
+[2024-10-16T13:47:01.183+0100] {processor.py:186} INFO - Started process (PID=69531) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:01.183+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:47:01.183+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:47:01.183+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:01.342+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:47:01.341+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:47:01.342+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:01.404+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.222 seconds
+[2024-10-16T13:47:28.372+0100] {processor.py:186} INFO - Started process (PID=69611) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:28.372+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:47:28.373+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:47:28.373+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:28.579+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:47:28.578+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:47:28.579+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:47:28.634+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.263 seconds
+[2024-10-16T13:48:25.091+0100] {processor.py:186} INFO - Started process (PID=69699) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:25.091+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:48:25.091+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:48:25.091+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:25.248+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:48:25.247+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:48:25.248+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:25.310+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.221 seconds
+[2024-10-16T13:48:56.581+0100] {processor.py:186} INFO - Started process (PID=69747) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:56.582+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:48:56.582+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:48:56.582+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:56.806+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:48:56.806+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:48:56.807+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:48:56.870+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.291 seconds
+[2024-10-16T13:49:24.068+0100] {processor.py:186} INFO - Started process (PID=69771) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:24.069+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:49:24.069+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:49:24.069+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:24.235+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:49:24.235+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:49:24.235+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:24.291+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.223 seconds
+[2024-10-16T13:49:29.089+0100] {processor.py:186} INFO - Started process (PID=69774) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:29.089+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:49:29.090+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:49:29.090+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:29.266+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:49:29.265+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:49:29.266+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:49:29.355+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.267 seconds
+[2024-10-16T13:50:00.438+0100] {processor.py:186} INFO - Started process (PID=69819) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:00.439+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:50:00.439+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:50:00.439+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:00.660+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:50:00.659+0100] {dagbag.py:387} ERROR - Failed to import: /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-10-16T13:50:00.660+0100] {processor.py:927} WARNING - No viable dags retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:00.709+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.273 seconds
+[2024-10-16T13:50:39.914+0100] {processor.py:186} INFO - Started process (PID=69946) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:39.914+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:50:39.915+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:50:39.915+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:41.007+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:50:41.073+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:50:41.073+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:50:41.079+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:50:41.079+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline to None, run_after=None
+[2024-10-16T13:50:41.085+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 1.172 seconds
+[2024-10-16T13:51:12.601+0100] {processor.py:186} INFO - Started process (PID=69991) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:12.601+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:51:12.601+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:12.601+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:12.843+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:12.877+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:12.877+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:51:12.883+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:12.882+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline to None, run_after=None
+[2024-10-16T13:51:12.888+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T13:51:14.703+0100] {processor.py:186} INFO - Started process (PID=69995) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:14.703+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:51:14.703+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:14.703+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:14.949+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:15.015+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.014+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:python_pipeline_groupby
+[2024-10-16T13:51:15.017+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.017+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:python_pipeline_groupby
+[2024-10-16T13:51:15.019+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.019+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:python_pipeline_groupby
+[2024-10-16T13:51:15.021+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.021+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:python_pipeline_groupby
+[2024-10-16T13:51:15.023+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.023+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:python_pipeline_groupby
+[2024-10-16T13:51:15.025+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.025+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:python_pipeline_groupby
+[2024-10-16T13:51:15.027+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.026+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:python_pipeline_groupby
+[2024-10-16T13:51:15.027+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.027+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:51:15.031+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.031+0100] {dag.py:3262} INFO - Creating ORM DAG for python_pipeline_groupby
+[2024-10-16T13:51:15.033+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:15.033+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to 2024-10-15 00:00:00+00:00, run_after=2024-10-15 00:00:00+00:00
+[2024-10-16T13:51:15.039+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.338 seconds
+[2024-10-16T13:51:26.431+0100] {processor.py:186} INFO - Started process (PID=70009) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:26.431+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:51:26.432+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:26.432+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:26.673+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:51:26.675+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:26.675+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:51:26.717+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:51:26.717+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to 2024-10-15 00:00:00+00:00, run_after=2024-10-15 00:00:00+00:00
+[2024-10-16T13:51:26.724+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.294 seconds
+[2024-10-16T13:52:01.064+0100] {processor.py:186} INFO - Started process (PID=70085) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:01.065+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:52:01.065+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:01.065+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:01.298+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:01.332+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:01.332+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:52:01.338+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:01.337+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:52:01.343+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.280 seconds
+[2024-10-16T13:52:32.718+0100] {processor.py:186} INFO - Started process (PID=70124) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:32.719+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:52:32.719+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:32.719+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:32.962+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:52:32.998+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:32.998+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:52:33.004+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:52:33.004+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:52:33.010+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.293 seconds
+[2024-10-16T13:53:04.395+0100] {processor.py:186} INFO - Started process (PID=70151) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:04.395+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:53:04.395+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:04.395+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:04.635+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:04.670+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:04.670+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:53:04.676+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:04.676+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:53:04.682+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T13:53:35.828+0100] {processor.py:186} INFO - Started process (PID=70176) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:35.828+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:53:35.829+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:35.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:36.067+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:53:36.101+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:36.101+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:53:36.107+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:53:36.107+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:53:36.112+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.286 seconds
+[2024-10-16T13:54:07.043+0100] {processor.py:186} INFO - Started process (PID=70229) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:07.043+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:54:07.044+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:07.044+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:07.285+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:07.318+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:07.318+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:54:07.324+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:07.324+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:54:07.329+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.287 seconds
+[2024-10-16T13:54:38.420+0100] {processor.py:186} INFO - Started process (PID=70299) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:38.421+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:54:38.421+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:38.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:38.683+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:54:38.717+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:38.717+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:54:38.723+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:54:38.723+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:54:38.728+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.310 seconds
+[2024-10-16T13:55:09.591+0100] {processor.py:186} INFO - Started process (PID=70389) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:09.592+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:55:09.592+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:09.592+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:09.832+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:09.866+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:09.866+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:55:09.872+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:09.872+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:55:09.878+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T13:55:40.859+0100] {processor.py:186} INFO - Started process (PID=70441) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:40.860+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:55:40.860+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:40.860+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:41.116+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:55:41.149+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:41.149+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:55:41.155+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:55:41.155+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:55:41.160+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.302 seconds
+[2024-10-16T13:56:12.082+0100] {processor.py:186} INFO - Started process (PID=70467) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:12.083+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:56:12.083+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:12.083+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:12.319+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:12.353+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:12.353+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:56:12.359+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:12.359+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:56:12.365+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.284 seconds
+[2024-10-16T13:56:43.499+0100] {processor.py:186} INFO - Started process (PID=70498) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:43.500+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:56:43.500+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:43.500+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:43.754+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:56:43.787+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:43.787+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:56:43.792+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:56:43.792+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:56:43.797+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.300 seconds
+[2024-10-16T13:57:14.765+0100] {processor.py:186} INFO - Started process (PID=70522) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:14.765+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:57:14.765+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:14.765+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:15.004+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:15.038+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:15.038+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:57:15.044+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:15.044+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:57:15.050+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.286 seconds
+[2024-10-16T13:57:46.346+0100] {processor.py:186} INFO - Started process (PID=70555) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:46.347+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:57:46.347+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:46.347+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:46.581+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:57:46.614+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:46.613+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:57:46.619+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:57:46.619+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:57:46.625+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.280 seconds
+[2024-10-16T13:58:17.518+0100] {processor.py:186} INFO - Started process (PID=70596) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:17.519+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:58:17.519+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:17.519+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:17.760+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:17.795+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:17.795+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:58:17.801+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:17.801+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:58:17.807+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.289 seconds
+[2024-10-16T13:58:48.859+0100] {processor.py:186} INFO - Started process (PID=70625) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:48.860+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:58:48.860+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:48.860+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:49.089+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:58:49.122+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:49.122+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:58:49.128+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:58:49.128+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:58:49.133+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.275 seconds
+[2024-10-16T13:59:20.135+0100] {processor.py:186} INFO - Started process (PID=70657) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:20.136+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:59:20.136+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:20.136+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:20.373+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:20.407+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:20.407+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:59:20.413+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:20.413+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:59:20.419+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.284 seconds
+[2024-10-16T13:59:51.555+0100] {processor.py:186} INFO - Started process (PID=70692) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:51.555+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T13:59:51.556+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:51.556+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:51.792+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T13:59:51.825+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:51.825+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T13:59:51.831+0100] {logging_mixin.py:190} INFO - [2024-10-16T13:59:51.831+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T13:59:51.837+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.283 seconds
+[2024-10-16T14:00:22.926+0100] {processor.py:186} INFO - Started process (PID=70718) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:22.927+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:00:22.927+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:22.927+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:23.160+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:23.192+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:23.192+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:00:23.198+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:23.198+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:00:23.204+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.278 seconds
+[2024-10-16T14:00:54.058+0100] {processor.py:186} INFO - Started process (PID=70747) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:54.058+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:00:54.059+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:54.059+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:54.297+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:00:54.331+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:54.331+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:00:54.337+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:00:54.337+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:00:54.343+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.286 seconds
+[2024-10-16T14:01:25.483+0100] {processor.py:186} INFO - Started process (PID=70778) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:25.484+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:01:25.484+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:25.484+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:25.715+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:25.748+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:25.748+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:01:25.754+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:25.754+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:01:25.760+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.277 seconds
+[2024-10-16T14:01:56.759+0100] {processor.py:186} INFO - Started process (PID=70815) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:56.759+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:01:56.759+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:56.759+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:56.999+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:01:57.034+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:57.034+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:01:57.040+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:01:57.040+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:01:57.046+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T14:02:28.322+0100] {processor.py:186} INFO - Started process (PID=70847) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:28.322+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:02:28.322+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:28.322+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:28.554+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:28.589+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:28.589+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:02:28.597+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:28.597+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:02:28.602+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.282 seconds
+[2024-10-16T14:02:59.571+0100] {processor.py:186} INFO - Started process (PID=70877) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:59.572+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:02:59.572+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:59.572+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:59.808+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:02:59.841+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:59.841+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:02:59.847+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:02:59.847+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:02:59.852+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.282 seconds
+[2024-10-16T14:03:30.967+0100] {processor.py:186} INFO - Started process (PID=70910) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:03:30.967+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:03:30.968+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:03:30.968+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:03:31.198+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:03:31.231+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:03:31.231+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:03:31.237+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:03:31.237+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:03:31.243+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.277 seconds
+[2024-10-16T14:04:02.427+0100] {processor.py:186} INFO - Started process (PID=70940) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:02.428+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:04:02.428+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:02.428+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:02.661+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:02.694+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:02.694+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:04:02.699+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:02.699+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:04:02.705+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.279 seconds
+[2024-10-16T14:04:33.891+0100] {processor.py:186} INFO - Started process (PID=70965) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:33.891+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:04:33.891+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:33.891+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:34.125+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:04:34.160+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:34.159+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:04:34.166+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:04:34.166+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:04:34.171+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.282 seconds
+[2024-10-16T14:05:05.499+0100] {processor.py:186} INFO - Started process (PID=70995) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:05.499+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:05:05.500+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:05.500+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:05.760+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:05.798+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:05.798+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:05:05.805+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:05.805+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:05:05.811+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.314 seconds
+[2024-10-16T14:05:32.858+0100] {processor.py:186} INFO - Started process (PID=71046) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:32.859+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:05:32.859+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:32.859+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:33.099+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:05:33.133+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:33.133+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:05:33.139+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:05:33.139+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:05:33.144+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.287 seconds
+[2024-10-16T14:06:04.017+0100] {processor.py:186} INFO - Started process (PID=71101) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:04.017+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:06:04.018+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:04.018+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:04.252+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:04.286+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:04.286+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:06:04.292+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:04.292+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:06:04.297+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.281 seconds
+[2024-10-16T14:06:35.597+0100] {processor.py:186} INFO - Started process (PID=71147) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:35.597+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:06:35.598+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:35.598+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:35.847+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:06:35.899+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:35.899+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:06:35.905+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:06:35.905+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:06:35.911+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.315 seconds
+[2024-10-16T14:07:07.069+0100] {processor.py:186} INFO - Started process (PID=71197) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:07.069+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:07:07.069+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:07.069+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:07.309+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:07.344+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:07.344+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:07:07.350+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:07.350+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:07:07.355+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T14:07:38.475+0100] {processor.py:186} INFO - Started process (PID=71231) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:38.475+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:07:38.475+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:38.475+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:38.721+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:07:38.758+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:38.758+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:07:38.765+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:07:38.765+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:07:38.771+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.298 seconds
+[2024-10-16T14:08:05.442+0100] {processor.py:186} INFO - Started process (PID=71311) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:05.442+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:08:05.443+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:05.443+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:05.691+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:05.726+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:05.726+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:08:05.732+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:05.732+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:08:05.738+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.297 seconds
+[2024-10-16T14:08:37.736+0100] {processor.py:186} INFO - Started process (PID=71369) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:37.736+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:08:37.736+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:37.736+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:37.974+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:08:38.008+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:38.007+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:08:38.013+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:08:38.013+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:08:38.019+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.285 seconds
+[2024-10-16T14:09:09.005+0100] {processor.py:186} INFO - Started process (PID=71414) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:09.006+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:09:09.006+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:09.006+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:09.237+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:09.270+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:09.270+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:09:09.276+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:09.276+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:09:09.281+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.277 seconds
+[2024-10-16T14:09:40.497+0100] {processor.py:186} INFO - Started process (PID=71449) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:40.497+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:09:40.497+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:40.497+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:40.736+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:09:40.771+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:40.771+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:09:40.777+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:09:40.777+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:09:40.783+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.287 seconds
+[2024-10-16T14:10:12.450+0100] {processor.py:186} INFO - Started process (PID=71477) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:12.450+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:10:12.450+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:12.450+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:12.683+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:12.716+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:12.716+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:10:12.721+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:12.721+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:10:12.727+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.278 seconds
+[2024-10-16T14:10:43.983+0100] {processor.py:186} INFO - Started process (PID=71514) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:43.984+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:10:43.984+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:43.984+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:44.226+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:10:44.261+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:44.261+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:10:44.267+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:10:44.267+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:10:44.273+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.290 seconds
+[2024-10-16T14:11:15.967+0100] {processor.py:186} INFO - Started process (PID=71543) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:15.967+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:11:15.967+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:15.967+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:16.199+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:16.232+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:16.232+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:11:16.238+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:16.238+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:11:16.243+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.277 seconds
+[2024-10-16T14:11:47.528+0100] {processor.py:186} INFO - Started process (PID=71576) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:47.528+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:11:47.529+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:47.529+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:47.759+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:11:47.792+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:47.792+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:11:47.798+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:11:47.798+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:11:47.803+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.276 seconds
+[2024-10-16T14:12:19.098+0100] {processor.py:186} INFO - Started process (PID=71612) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:19.098+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:12:19.098+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:19.098+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:19.335+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:19.368+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:19.368+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:12:19.374+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:19.374+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:12:19.379+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.283 seconds
+[2024-10-16T14:12:50.694+0100] {processor.py:186} INFO - Started process (PID=71643) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:50.694+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:12:50.695+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:50.695+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:50.928+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:12:50.962+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:50.961+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:12:50.967+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:12:50.967+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:12:50.973+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.280 seconds
+[2024-10-16T14:13:22.270+0100] {processor.py:186} INFO - Started process (PID=71678) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:22.270+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:13:22.270+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:22.270+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:22.512+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:22.546+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:22.545+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:13:22.551+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:22.551+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:13:22.557+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.288 seconds
+[2024-10-16T14:13:46.489+0100] {processor.py:186} INFO - Started process (PID=71756) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:46.489+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:13:46.489+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:46.489+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:46.745+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:13:46.780+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:46.780+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:13:46.787+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:13:46.787+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:13:46.793+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.305 seconds
+[2024-10-16T14:14:18.480+0100] {processor.py:186} INFO - Started process (PID=71870) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:18.481+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:14:18.481+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:18.481+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:18.740+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:18.776+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:18.776+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:14:18.782+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:18.782+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:14:18.788+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.309 seconds
+[2024-10-16T14:14:49.791+0100] {processor.py:186} INFO - Started process (PID=71938) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:49.791+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:14:49.791+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:49.791+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:50.028+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:14:50.061+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:50.061+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:14:50.067+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:14:50.067+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:14:50.073+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.283 seconds
+[2024-10-16T14:15:21.778+0100] {processor.py:186} INFO - Started process (PID=71968) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:21.779+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:15:21.779+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:21.779+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:22.011+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:22.045+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:22.045+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:15:22.051+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:22.051+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:15:22.056+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.279 seconds
+[2024-10-16T14:15:52.888+0100] {processor.py:186} INFO - Started process (PID=72013) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:52.888+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:15:52.889+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:52.889+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:53.132+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:15:53.168+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:53.167+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:15:53.174+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:15:53.174+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:15:53.180+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.293 seconds
+[2024-10-16T14:16:24.084+0100] {processor.py:186} INFO - Started process (PID=72046) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:24.084+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:16:24.085+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:24.085+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:24.319+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:24.352+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:24.352+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:16:24.358+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:24.358+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:16:24.364+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.281 seconds
+[2024-10-16T14:16:55.900+0100] {processor.py:186} INFO - Started process (PID=72081) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:55.900+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:16:55.900+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:55.900+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:56.137+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:16:56.171+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:56.171+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:16:56.177+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:16:56.177+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:16:56.182+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.284 seconds
+[2024-10-16T14:17:28.040+0100] {processor.py:186} INFO - Started process (PID=72112) to work on /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:17:28.040+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py for tasks to queue
+[2024-10-16T14:17:28.041+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:17:28.041+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:17:28.389+0100] {processor.py:925} INFO - DAG(s) 'python_pipeline_groupby' retrieved from /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py
+[2024-10-16T14:17:28.423+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:17:28.423+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-16T14:17:28.429+0100] {logging_mixin.py:190} INFO - [2024-10-16T14:17:28.429+0100] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline_groupby to None, run_after=None
+[2024-10-16T14:17:28.435+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/python_pipeline_groupby.py took 0.396 seconds

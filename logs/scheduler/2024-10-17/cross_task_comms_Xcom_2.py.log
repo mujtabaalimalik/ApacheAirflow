@@ -1,0 +1,889 @@
+[2024-10-17T21:08:39.194+0100] {processor.py:186} INFO - Started process (PID=2128) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:08:39.194+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:08:39.194+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:39.194+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:08:39.204+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:08:39.268+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:39.268+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:08:39.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:39.274+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:08:39.280+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.087 seconds
+[2024-10-17T21:09:10.846+0100] {processor.py:186} INFO - Started process (PID=2209) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:10.846+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:09:10.847+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:10.846+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:10.855+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:10.887+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:10.887+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:10.894+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:10.894+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:09:10.899+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:09:43.278+0100] {processor.py:186} INFO - Started process (PID=2243) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:43.279+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:09:43.279+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:43.279+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:43.287+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:09:43.321+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:43.321+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:43.327+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:43.327+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:09:43.332+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:10:14.783+0100] {processor.py:186} INFO - Started process (PID=2276) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:14.784+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:10:14.784+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:14.784+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:14.792+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:14.824+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:14.824+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:14.830+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:14.830+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:10:14.835+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:10:46.414+0100] {processor.py:186} INFO - Started process (PID=2320) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:46.415+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:10:46.415+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:46.415+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:46.424+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:10:46.457+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:46.457+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:46.463+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:46.463+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:10:46.468+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:11:17.750+0100] {processor.py:186} INFO - Started process (PID=2367) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:17.751+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:11:17.752+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:17.752+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:17.761+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:17.795+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:17.795+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:17.801+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:17.801+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:11:17.807+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:11:49.232+0100] {processor.py:186} INFO - Started process (PID=2462) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:49.233+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:11:49.234+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:49.234+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:49.242+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:11:49.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:49.273+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:49.280+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:49.279+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:11:49.285+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:12:20.512+0100] {processor.py:186} INFO - Started process (PID=2493) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:20.512+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:12:20.513+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:20.513+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:20.521+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:20.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:20.555+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:20.561+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:20.561+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:12:20.567+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:12:51.571+0100] {processor.py:186} INFO - Started process (PID=2526) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:51.572+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:12:51.572+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:51.572+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:51.580+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:12:51.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:51.612+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:51.618+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:51.618+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:12:51.624+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:13:23.105+0100] {processor.py:186} INFO - Started process (PID=2558) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:23.105+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:13:23.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:23.106+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:23.114+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:23.146+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:23.146+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:23.152+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:23.152+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:13:23.158+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:13:54.679+0100] {processor.py:186} INFO - Started process (PID=2597) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:54.680+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:13:54.680+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:54.680+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:54.690+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:13:54.725+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:54.725+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:54.732+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:54.732+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:13:54.738+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.061 seconds
+[2024-10-17T21:14:30.609+0100] {processor.py:186} INFO - Started process (PID=2680) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:14:30.609+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:14:30.609+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:30.609+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:14:30.618+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:14:30.653+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:30.653+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:30.660+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:30.659+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:14:30.666+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:15:01.463+0100] {processor.py:186} INFO - Started process (PID=2712) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:01.463+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:15:01.463+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:01.463+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:01.472+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:01.506+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:01.506+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:01.513+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:01.513+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:15:01.518+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:15:33.729+0100] {processor.py:186} INFO - Started process (PID=2758) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:33.730+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:15:33.730+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:33.730+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:33.738+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:15:33.773+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:33.772+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:33.779+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:33.779+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:15:33.785+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:16:05.508+0100] {processor.py:186} INFO - Started process (PID=2825) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:05.508+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:16:05.509+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:05.509+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:05.518+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:05.553+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:05.553+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:05.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:05.559+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:16:05.565+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:16:36.469+0100] {processor.py:186} INFO - Started process (PID=2859) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:36.469+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:16:36.469+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:36.469+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:36.478+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:16:36.512+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:36.512+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:36.518+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:36.518+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:16:36.524+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:17:08.157+0100] {processor.py:186} INFO - Started process (PID=2893) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:08.158+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:17:08.158+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:08.158+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:08.166+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:08.198+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:08.198+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:08.204+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:08.204+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:17:08.209+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:17:39.839+0100] {processor.py:186} INFO - Started process (PID=2926) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:39.840+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:17:39.840+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:39.840+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:39.848+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:17:39.880+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:39.880+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:39.886+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:39.886+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:17:39.892+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:18:11.561+0100] {processor.py:186} INFO - Started process (PID=2958) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:11.562+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:18:11.562+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:11.562+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:11.571+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:11.602+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:11.602+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:11.608+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:11.608+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:18:11.614+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:18:43.216+0100] {processor.py:186} INFO - Started process (PID=2991) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:43.216+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:18:43.217+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:43.216+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:43.225+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:18:43.257+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:43.256+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:43.263+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:43.262+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:18:43.268+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T21:19:14.901+0100] {processor.py:186} INFO - Started process (PID=3023) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:14.901+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:19:14.902+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:14.902+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:14.910+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:14.943+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:14.943+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:14.950+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:14.950+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:19:14.955+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:19:47.453+0100] {processor.py:186} INFO - Started process (PID=3071) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:47.455+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:19:47.455+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:47.455+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:47.464+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:19:47.496+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:47.496+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:47.503+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:47.502+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:19:47.508+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:20:18.543+0100] {processor.py:186} INFO - Started process (PID=3103) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:18.544+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:20:18.544+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:18.544+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:18.553+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:18.589+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:18.589+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:18.596+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:18.596+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:20:18.602+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.060 seconds
+[2024-10-17T21:20:55.760+0100] {processor.py:186} INFO - Started process (PID=3202) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:55.760+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:20:55.761+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:55.761+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:55.769+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:20:55.802+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:55.801+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:55.808+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:55.808+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:20:55.813+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:21:26.841+0100] {processor.py:186} INFO - Started process (PID=3251) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:26.841+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:21:26.842+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:26.842+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:26.850+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:26.883+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:26.883+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:26.889+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:26.889+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:21:26.894+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:21:58.569+0100] {processor.py:186} INFO - Started process (PID=3288) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:58.569+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:21:58.570+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:58.570+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:58.578+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:21:58.611+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:58.610+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:58.617+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:58.617+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:21:58.622+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:22:30.253+0100] {processor.py:186} INFO - Started process (PID=3323) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:22:30.253+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:22:30.253+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:30.253+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:22:30.262+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:22:30.294+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:30.294+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:30.300+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:30.300+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:22:30.306+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:23:02.512+0100] {processor.py:186} INFO - Started process (PID=3357) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:02.512+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:23:02.513+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:02.513+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:02.522+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:02.558+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:02.558+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:02.565+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:02.565+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:23:02.571+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.060 seconds
+[2024-10-17T21:23:34.160+0100] {processor.py:186} INFO - Started process (PID=3392) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:34.161+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:23:34.161+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:34.161+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:34.169+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:23:34.203+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:34.203+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:34.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:34.209+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:23:34.215+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:24:05.899+0100] {processor.py:186} INFO - Started process (PID=3426) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:05.899+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:24:05.900+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:05.900+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:05.908+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:05.942+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:05.942+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:05.948+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:05.948+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:24:05.954+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:24:37.594+0100] {processor.py:186} INFO - Started process (PID=3469) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:37.594+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:24:37.595+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:37.595+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:37.603+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:24:37.636+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:37.635+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:37.642+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:37.641+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:24:37.647+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:25:09.344+0100] {processor.py:186} INFO - Started process (PID=3532) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:09.345+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:25:09.345+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:09.345+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:09.353+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:09.387+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:09.386+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:09.393+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:09.393+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:25:09.398+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:25:41.082+0100] {processor.py:186} INFO - Started process (PID=3569) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:41.083+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:25:41.083+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:41.083+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:41.092+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:25:41.125+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:41.125+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:41.132+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:41.132+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:25:41.138+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:26:12.458+0100] {processor.py:186} INFO - Started process (PID=3603) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:12.458+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:26:12.459+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:12.459+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:12.467+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:12.501+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:12.501+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:12.508+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:12.508+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:26:12.514+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:26:43.938+0100] {processor.py:186} INFO - Started process (PID=3651) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:43.938+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:26:43.938+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:43.938+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:43.947+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:26:43.981+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:43.981+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:43.987+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:43.987+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:26:43.993+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:27:15.817+0100] {processor.py:186} INFO - Started process (PID=3690) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:15.818+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:27:15.818+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:15.818+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:15.828+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:15.864+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:15.864+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:15.871+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:15.871+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:27:15.877+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.062 seconds
+[2024-10-17T21:27:46.711+0100] {processor.py:186} INFO - Started process (PID=3725) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:46.711+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:27:46.711+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:46.711+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:46.720+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:27:46.754+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:46.754+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:46.760+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:46.760+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:27:46.766+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:28:18.394+0100] {processor.py:186} INFO - Started process (PID=3759) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:18.394+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:28:18.395+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:18.395+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:18.403+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:18.437+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:18.437+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:18.443+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:18.443+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:28:18.449+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:28:50.026+0100] {processor.py:186} INFO - Started process (PID=3794) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:50.026+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:28:50.026+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:50.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:50.035+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:28:50.069+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:50.068+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:50.075+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:50.075+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:28:50.081+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:29:21.724+0100] {processor.py:186} INFO - Started process (PID=3828) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:21.724+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:29:21.724+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:21.724+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:21.733+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:21.765+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:21.765+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:21.771+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:21.771+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:29:21.776+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:29:53.570+0100] {processor.py:186} INFO - Started process (PID=3886) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:53.571+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:29:53.571+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:53.571+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:53.580+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:29:53.614+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:53.614+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:53.620+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:53.620+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:29:53.626+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:30:25.558+0100] {processor.py:186} INFO - Started process (PID=3939) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:25.559+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:30:25.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:25.559+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:25.568+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:25.601+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:25.601+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:25.608+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:25.608+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:30:25.613+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:30:57.063+0100] {processor.py:186} INFO - Started process (PID=3976) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:57.064+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:30:57.064+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:57.064+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:57.072+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:30:57.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:57.106+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:57.113+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:57.113+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:30:57.118+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:31:28.698+0100] {processor.py:186} INFO - Started process (PID=4014) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:31:28.698+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:31:28.699+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:28.699+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:31:28.707+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:31:28.740+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:28.740+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:28.746+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:28.746+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:31:28.751+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:32:00.044+0100] {processor.py:186} INFO - Started process (PID=4052) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:00.045+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:32:00.045+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:00.045+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:00.054+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:00.088+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:00.088+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:00.094+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:00.094+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:32:00.100+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:32:31.610+0100] {processor.py:186} INFO - Started process (PID=4087) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:31.611+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:32:31.611+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:31.611+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:31.619+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:32:31.652+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:31.652+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:31.658+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:31.658+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:32:31.664+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:33:03.440+0100] {processor.py:186} INFO - Started process (PID=4132) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:03.441+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:33:03.441+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:03.441+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:03.450+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:03.484+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:03.484+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:03.491+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:03.491+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:33:03.496+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:33:34.842+0100] {processor.py:186} INFO - Started process (PID=4171) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:34.843+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:33:34.844+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:34.844+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:34.853+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:33:34.886+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:34.885+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:34.892+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:34.892+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:33:34.897+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:34:06.951+0100] {processor.py:186} INFO - Started process (PID=4250) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:06.951+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:34:06.951+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:06.951+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:06.960+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:06.995+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:06.994+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:07.001+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:07.001+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:34:07.007+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:34:38.608+0100] {processor.py:186} INFO - Started process (PID=4292) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:38.608+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:34:38.608+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:38.608+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:38.617+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:34:38.649+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:38.649+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:38.656+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:38.656+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:34:38.661+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:35:10.303+0100] {processor.py:186} INFO - Started process (PID=4329) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:10.304+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:35:10.304+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:10.304+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:10.312+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:10.346+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:10.346+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:10.352+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:10.352+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:35:10.358+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:35:41.795+0100] {processor.py:186} INFO - Started process (PID=4366) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:41.796+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:35:41.796+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:41.796+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:41.805+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:35:41.840+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:41.840+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:41.847+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:41.846+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:35:41.852+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:36:13.014+0100] {processor.py:186} INFO - Started process (PID=4402) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:13.014+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:36:13.015+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:13.015+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:13.023+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:13.057+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:13.057+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:13.064+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:13.063+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:36:13.069+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:36:44.695+0100] {processor.py:186} INFO - Started process (PID=4442) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:44.696+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:36:44.696+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:44.696+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:44.704+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:36:44.736+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:44.736+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:44.743+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:44.742+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:36:44.748+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:37:16.439+0100] {processor.py:186} INFO - Started process (PID=4483) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:16.440+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:37:16.441+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:16.441+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:16.449+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:16.482+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:16.482+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:16.488+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:16.488+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:37:16.493+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:37:48.180+0100] {processor.py:186} INFO - Started process (PID=4525) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:48.180+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:37:48.180+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:48.180+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:48.189+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:37:48.223+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:48.222+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:48.229+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:48.229+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:37:48.235+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:38:19.772+0100] {processor.py:186} INFO - Started process (PID=4561) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:19.773+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:38:19.773+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:19.773+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:19.782+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:19.815+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:19.815+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:19.822+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:19.822+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:38:19.827+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:38:51.515+0100] {processor.py:186} INFO - Started process (PID=4602) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:51.515+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:38:51.515+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:51.515+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:51.524+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:38:51.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:51.559+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:51.566+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:51.566+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:38:51.571+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:39:23.226+0100] {processor.py:186} INFO - Started process (PID=4669) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:23.226+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:39:23.226+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:23.226+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:23.235+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:23.268+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:23.268+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:23.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:23.274+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:39:23.280+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:39:56.936+0100] {processor.py:186} INFO - Started process (PID=4711) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:56.937+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:39:56.937+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:56.937+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:56.945+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:39:56.978+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:56.978+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:56.985+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:56.984+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:39:56.990+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:40:23.199+0100] {processor.py:186} INFO - Started process (PID=4795) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:23.200+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:40:23.200+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:23.200+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:23.209+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:23.243+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:23.243+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:23.249+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:23.249+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:40:23.255+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:40:55.025+0100] {processor.py:186} INFO - Started process (PID=4847) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:55.025+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:40:55.026+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:55.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:55.034+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:40:55.068+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:55.068+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:55.074+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:55.074+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:40:55.080+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:41:26.577+0100] {processor.py:186} INFO - Started process (PID=4883) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:26.577+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:41:26.577+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:26.577+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:26.586+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:26.621+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:26.621+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:26.627+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:26.627+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:41:26.633+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:41:59.344+0100] {processor.py:186} INFO - Started process (PID=4928) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:59.344+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:41:59.345+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:59.345+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:59.354+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:41:59.388+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:59.388+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:59.395+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:59.395+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:41:59.401+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:42:36.990+0100] {processor.py:186} INFO - Started process (PID=5016) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:42:36.991+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:42:36.991+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:36.991+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:42:36.999+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:42:37.033+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:37.033+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:37.039+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:37.039+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:42:37.045+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:43:09.945+0100] {processor.py:186} INFO - Started process (PID=5057) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:09.946+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:43:09.946+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:09.946+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:09.954+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:09.991+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:09.990+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:09.997+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:09.997+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:43:10.003+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.059 seconds
+[2024-10-17T21:43:42.278+0100] {processor.py:186} INFO - Started process (PID=5098) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:42.279+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:43:42.279+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:42.279+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:42.287+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:43:42.321+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:42.321+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:42.327+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:42.327+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:43:42.333+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:44:14.094+0100] {processor.py:186} INFO - Started process (PID=5136) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:14.095+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:44:14.095+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:14.095+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:14.103+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:14.137+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:14.137+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:14.143+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:14.143+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:44:14.149+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:44:47.465+0100] {processor.py:186} INFO - Started process (PID=5179) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:47.466+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:44:47.466+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:47.466+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:47.475+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:44:47.509+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:47.509+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:47.516+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:47.516+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:44:47.521+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:45:19.652+0100] {processor.py:186} INFO - Started process (PID=5218) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:19.652+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:45:19.652+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:19.652+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:19.661+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:19.695+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:19.695+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:19.701+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:19.701+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:45:19.707+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:45:51.892+0100] {processor.py:186} INFO - Started process (PID=5257) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:51.892+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:45:51.893+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:51.893+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:51.901+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:45:51.934+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:51.934+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:51.940+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:51.940+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:45:51.945+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:46:24.267+0100] {processor.py:186} INFO - Started process (PID=5295) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:24.267+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:46:24.268+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:24.268+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:24.276+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:24.310+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:24.310+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:24.317+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:24.317+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:46:24.322+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:46:55.649+0100] {processor.py:186} INFO - Started process (PID=5341) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:55.650+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:46:55.650+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:55.650+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:55.658+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:46:55.691+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:55.691+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:55.697+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:55.697+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:46:55.702+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:47:27.540+0100] {processor.py:186} INFO - Started process (PID=5381) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:47:27.540+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:47:27.540+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:27.540+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:47:27.549+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:47:27.583+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:27.583+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:27.589+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:27.589+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:47:27.595+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:48:00.250+0100] {processor.py:186} INFO - Started process (PID=5427) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:00.250+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:48:00.251+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:00.251+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:00.260+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:00.295+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:00.295+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:00.301+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:00.301+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:48:00.307+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:48:42.929+0100] {processor.py:186} INFO - Started process (PID=5553) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:42.929+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:48:42.930+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:42.930+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:42.939+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:48:42.975+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:42.975+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:42.981+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:42.981+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:48:42.987+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.060 seconds
+[2024-10-17T21:49:15.198+0100] {processor.py:186} INFO - Started process (PID=5600) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:49:15.199+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:49:15.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:15.199+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:49:15.208+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:49:15.241+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:15.241+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:15.248+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:15.248+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:49:15.253+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:50:10.149+0100] {processor.py:186} INFO - Started process (PID=5710) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:10.150+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:50:10.150+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:10.150+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:10.159+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:10.193+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:10.193+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:10.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:10.199+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:50:10.205+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:50:45.153+0100] {processor.py:186} INFO - Started process (PID=5751) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:45.153+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:50:45.153+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:45.153+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:45.162+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:50:45.195+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:45.195+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:45.201+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:45.201+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:50:45.207+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:51:31.755+0100] {processor.py:186} INFO - Started process (PID=5901) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:51:31.755+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:51:31.756+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:31.756+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:51:31.765+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:51:31.799+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:31.799+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:31.806+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:31.806+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:51:31.812+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T21:52:06.723+0100] {processor.py:186} INFO - Started process (PID=5964) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:06.724+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:52:06.725+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:06.725+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:06.733+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:06.767+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:06.767+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:06.774+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:06.774+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:06.779+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:52:48.993+0100] {processor.py:186} INFO - Started process (PID=6057) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:48.993+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:52:48.993+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:48.993+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:49.002+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:52:49.036+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:49.036+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:49.042+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:49.042+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:49.048+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:53:24.632+0100] {processor.py:186} INFO - Started process (PID=6105) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:53:24.633+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:53:24.633+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:24.633+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:53:24.641+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:53:24.675+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:24.675+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:24.681+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:24.681+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:53:24.687+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:54:02.799+0100] {processor.py:186} INFO - Started process (PID=6158) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:02.800+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:54:02.800+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:02.800+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:02.808+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:02.842+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:02.842+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:02.848+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:02.848+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:02.854+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:54:36.214+0100] {processor.py:186} INFO - Started process (PID=6227) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:36.215+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:54:36.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:36.215+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:36.223+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:54:36.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:36.259+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:36.266+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:36.266+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:36.272+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.059 seconds
+[2024-10-17T21:55:13.257+0100] {processor.py:186} INFO - Started process (PID=6301) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:13.257+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:55:13.258+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:13.258+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:13.266+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:13.300+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:13.300+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:13.306+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:13.306+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:55:13.312+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:55:46.759+0100] {processor.py:186} INFO - Started process (PID=6358) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:46.759+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:55:46.760+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:46.760+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:46.769+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:55:46.803+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:46.803+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:46.809+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:46.809+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:55:46.815+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T21:56:22.621+0100] {processor.py:186} INFO - Started process (PID=6409) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:56:22.621+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:56:22.621+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:22.621+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:56:22.631+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:56:22.666+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:22.666+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:22.672+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:22.672+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:56:22.678+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.059 seconds
+[2024-10-17T21:57:00.207+0100] {processor.py:186} INFO - Started process (PID=6476) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:00.208+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:57:00.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:00.209+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:00.218+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:00.254+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:00.254+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:00.261+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:00.261+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:00.267+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.061 seconds
+[2024-10-17T21:57:34.047+0100] {processor.py:186} INFO - Started process (PID=6529) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:34.047+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:57:34.047+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:34.047+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:34.055+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:57:34.089+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:34.089+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:34.095+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:34.095+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:34.101+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:58:11.069+0100] {processor.py:186} INFO - Started process (PID=6593) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:11.069+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:58:11.069+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:11.069+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:11.078+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:11.110+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:11.110+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:11.116+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:11.116+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:11.122+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T21:58:46.374+0100] {processor.py:186} INFO - Started process (PID=6639) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:46.375+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:58:46.375+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:46.375+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:46.384+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:58:46.417+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:46.417+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:46.424+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:46.424+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:46.430+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T21:59:20.809+0100] {processor.py:186} INFO - Started process (PID=6688) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:20.809+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:59:20.810+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:20.810+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:20.818+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:20.851+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:20.851+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:20.857+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:20.857+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:59:20.863+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T21:59:55.877+0100] {processor.py:186} INFO - Started process (PID=6773) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:55.877+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T21:59:55.878+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:55.878+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:55.886+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T21:59:55.921+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:55.921+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:55.927+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:55.927+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:59:55.933+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:00:27.863+0100] {processor.py:186} INFO - Started process (PID=6815) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:00:27.863+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:00:27.864+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:27.864+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:00:27.873+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:00:27.907+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:27.907+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:27.914+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:27.914+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:00:27.920+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.059 seconds
+[2024-10-17T22:01:03.575+0100] {processor.py:186} INFO - Started process (PID=6874) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:03.576+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:01:03.576+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:03.576+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:03.585+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:03.619+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:03.619+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:03.625+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:03.625+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:03.631+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:01:39.980+0100] {processor.py:186} INFO - Started process (PID=7069) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:39.981+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:01:39.981+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:39.981+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:39.991+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:01:40.027+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:40.026+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:40.034+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:40.034+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:40.041+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.063 seconds
+[2024-10-17T22:02:19.353+0100] {processor.py:186} INFO - Started process (PID=7157) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:19.354+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:02:19.354+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:19.354+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:19.363+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:19.397+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:19.397+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:19.404+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:19.403+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:02:19.409+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:02:59.408+0100] {processor.py:186} INFO - Started process (PID=7219) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:59.409+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:02:59.409+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:59.409+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:59.418+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:02:59.451+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:59.451+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:59.458+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:59.458+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:02:59.463+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:03:38.661+0100] {processor.py:186} INFO - Started process (PID=7273) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:03:38.662+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:03:38.662+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:38.662+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:03:38.672+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:03:38.708+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:38.708+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:38.714+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:38.714+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:03:38.720+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.060 seconds
+[2024-10-17T22:04:13.032+0100] {processor.py:186} INFO - Started process (PID=7314) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:13.032+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:04:13.032+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:13.032+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:13.041+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:13.075+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:13.075+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:13.082+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:13.081+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:04:13.088+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:04:50.310+0100] {processor.py:186} INFO - Started process (PID=7360) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:50.311+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:04:50.312+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:50.312+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:50.321+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:04:50.354+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:50.354+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:50.360+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:50.360+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:04:50.366+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:05:24.848+0100] {processor.py:186} INFO - Started process (PID=7400) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:24.849+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:05:24.850+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:24.850+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:24.859+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:24.893+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:24.893+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:24.900+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:24.900+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:24.905+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.058 seconds
+[2024-10-17T22:05:58.742+0100] {processor.py:186} INFO - Started process (PID=7445) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:58.743+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:05:58.743+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:58.743+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:58.752+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:05:58.786+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:58.786+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:58.792+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:58.792+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:58.798+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:07:24.819+0100] {processor.py:186} INFO - Started process (PID=7536) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:07:24.820+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:07:24.821+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:24.821+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:07:24.829+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:07:24.863+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:24.862+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:24.869+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:24.869+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:07:24.874+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:08:02.514+0100] {processor.py:186} INFO - Started process (PID=7578) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:02.514+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:08:02.514+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:02.514+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:02.522+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:02.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:02.555+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:02.561+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:02.561+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:08:02.567+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T22:08:35.564+0100] {processor.py:186} INFO - Started process (PID=7623) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:35.564+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:08:35.564+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:35.564+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:35.573+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:08:35.606+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:35.606+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:35.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:35.612+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:08:35.618+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:11:39.193+0100] {processor.py:186} INFO - Started process (PID=7659) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:11:39.193+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:11:39.194+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:39.194+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:11:39.202+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:11:39.233+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:39.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:39.239+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:39.239+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:11:39.244+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T22:12:12.919+0100] {processor.py:186} INFO - Started process (PID=7702) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:12.919+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:12:12.920+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:12.920+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:12.928+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:12.959+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:12.959+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:12.965+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:12.965+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:12:12.971+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T22:12:50.168+0100] {processor.py:186} INFO - Started process (PID=7745) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:50.168+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:12:50.169+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:50.169+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:50.177+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:12:50.208+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:50.208+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:50.214+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:50.214+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:12:50.220+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.052 seconds
+[2024-10-17T22:13:42.949+0100] {processor.py:186} INFO - Started process (PID=7788) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:13:42.950+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:13:42.950+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:42.950+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:13:42.958+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:13:42.991+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:42.991+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:42.997+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:42.997+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:13:43.002+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T22:14:25.422+0100] {processor.py:186} INFO - Started process (PID=7847) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:14:25.422+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:14:25.422+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:25.422+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:14:25.431+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:14:25.462+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:25.462+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:25.468+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:25.468+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:14:25.473+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.053 seconds
+[2024-10-17T22:15:00.915+0100] {processor.py:186} INFO - Started process (PID=7889) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:00.915+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:15:00.916+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:00.916+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:00.924+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:00.957+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:00.957+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:00.963+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:00.963+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:15:00.969+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T22:15:36.200+0100] {processor.py:186} INFO - Started process (PID=7932) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:36.200+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:15:36.201+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:36.200+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:36.209+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:15:36.243+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:36.243+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:36.249+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:36.249+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:15:36.255+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:16:14.897+0100] {processor.py:186} INFO - Started process (PID=7981) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:14.898+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:16:14.898+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:14.898+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:14.907+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:14.939+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:14.939+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:14.945+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:14.945+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:14.950+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T22:16:51.091+0100] {processor.py:186} INFO - Started process (PID=8026) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:51.092+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:16:51.093+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:51.092+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:51.104+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:16:51.141+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:51.140+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:51.147+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:51.147+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:51.153+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.062 seconds
+[2024-10-17T22:17:26.975+0100] {processor.py:186} INFO - Started process (PID=8069) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:17:26.975+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:17:26.976+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:26.975+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:17:26.985+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:17:27.022+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:27.022+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:27.030+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:27.030+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:17:27.037+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.063 seconds
+[2024-10-17T22:18:04.406+0100] {processor.py:186} INFO - Started process (PID=8113) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:04.407+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:18:04.407+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:04.407+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:04.417+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:04.452+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:04.452+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:04.459+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:04.459+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:18:04.465+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.060 seconds
+[2024-10-17T22:18:41.156+0100] {processor.py:186} INFO - Started process (PID=8156) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:41.156+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:18:41.157+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:41.157+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:41.165+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:18:41.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:41.199+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:41.205+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:41.205+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:18:41.210+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T22:19:19.505+0100] {processor.py:186} INFO - Started process (PID=8201) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:19.506+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:19:19.506+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:19.506+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:19.516+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:19.552+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:19.552+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:19.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:19.559+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:19.565+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.061 seconds
+[2024-10-17T22:19:52.511+0100] {processor.py:186} INFO - Started process (PID=8241) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:52.511+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:19:52.511+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:52.511+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:52.519+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:19:52.552+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:52.552+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:52.558+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:52.558+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:52.563+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.054 seconds
+[2024-10-17T22:20:26.339+0100] {processor.py:186} INFO - Started process (PID=8285) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:20:26.340+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:20:26.340+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:26.340+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:20:26.349+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:20:26.383+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:26.383+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:26.389+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:26.389+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:20:26.395+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.057 seconds
+[2024-10-17T22:21:06.194+0100] {processor.py:186} INFO - Started process (PID=8341) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:06.196+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:21:06.196+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:06.196+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:06.204+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:06.238+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:06.237+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:06.244+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:06.244+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:06.249+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:21:39.733+0100] {processor.py:186} INFO - Started process (PID=8396) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:39.734+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:21:39.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:39.734+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:39.743+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:21:39.777+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:39.776+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:39.783+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:39.783+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:39.788+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds
+[2024-10-17T22:22:14.894+0100] {processor.py:186} INFO - Started process (PID=8437) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:14.894+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:22:14.894+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:14.894+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:14.905+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:14.943+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:14.943+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:14.951+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:14.951+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:22:14.957+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.065 seconds
+[2024-10-17T22:22:47.600+0100] {processor.py:186} INFO - Started process (PID=8477) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:47.600+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:22:47.600+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:47.600+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:47.609+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:22:47.642+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:47.641+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:47.648+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:47.648+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:22:47.653+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.055 seconds
+[2024-10-17T22:23:25.171+0100] {processor.py:186} INFO - Started process (PID=8531) to work on /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:23:25.172+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py for tasks to queue
+[2024-10-17T22:23:25.173+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:25.173+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:23:25.182+0100] {processor.py:925} INFO - DAG(s) 'cross_task_communication_2' retrieved from /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py
+[2024-10-17T22:23:25.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:25.215+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:23:25.221+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:25.221+0100] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication_2 to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:23:25.226+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/cross_task_comms_Xcom_2.py took 0.056 seconds

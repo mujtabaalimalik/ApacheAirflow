@@ -1,0 +1,610 @@
+[2024-10-17T21:33:50.632+0100] {processor.py:186} INFO - Started process (PID=4210) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:33:50.632+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:33:50.632+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.632+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:33:50.729+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:33:50.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.827+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.830+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.830+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.832+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.832+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.834+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.834+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.836+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.836+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.838+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.838+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.840+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.840+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.840+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.840+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:50.844+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.844+0100] {dag.py:3262} INFO - Creating ORM DAG for taskgroup_and_labels_pipeline
+[2024-10-17T21:33:50.847+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:50.847+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:33:50.853+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.222 seconds
+[2024-10-17T21:34:21.717+0100] {processor.py:186} INFO - Started process (PID=4273) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:21.717+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:34:21.717+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:21.717+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:21.809+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:21.866+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:21.866+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:21.872+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:21.872+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:34:21.878+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T21:34:54.342+0100] {processor.py:186} INFO - Started process (PID=4310) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:54.342+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:34:54.343+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:54.342+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:54.431+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:34:54.490+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:54.490+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:54.497+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:54.496+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:34:54.502+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T21:35:25.896+0100] {processor.py:186} INFO - Started process (PID=4347) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:25.896+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:35:25.896+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:25.896+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:25.984+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:26.041+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:26.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:26.047+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:26.047+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:35:26.053+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.158 seconds
+[2024-10-17T21:35:57.139+0100] {processor.py:186} INFO - Started process (PID=4384) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:57.139+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:35:57.140+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:57.140+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:57.227+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:35:57.283+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:57.283+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:57.289+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:57.289+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:35:57.295+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.157 seconds
+[2024-10-17T21:36:28.781+0100] {processor.py:186} INFO - Started process (PID=4420) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:36:28.781+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:36:28.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:28.782+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:36:28.873+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:36:28.929+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:28.929+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:28.935+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:28.935+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:36:28.941+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:37:00.541+0100] {processor.py:186} INFO - Started process (PID=4460) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:00.542+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:37:00.542+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:00.542+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:00.627+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:00.683+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:00.683+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:00.689+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:00.689+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:37:00.694+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.154 seconds
+[2024-10-17T21:37:32.308+0100] {processor.py:186} INFO - Started process (PID=4507) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:32.308+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:37:32.309+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:32.309+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:32.407+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:37:32.468+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:32.468+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:32.474+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:32.474+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:37:32.480+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.173 seconds
+[2024-10-17T21:38:03.886+0100] {processor.py:186} INFO - Started process (PID=4543) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:03.887+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:38:03.887+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:03.887+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:03.973+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:04.029+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:04.029+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:04.035+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:04.035+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:38:04.040+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.155 seconds
+[2024-10-17T21:38:35.547+0100] {processor.py:186} INFO - Started process (PID=4580) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:35.547+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:38:35.547+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:35.547+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:35.633+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:38:35.688+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:35.688+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:35.694+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:35.694+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:38:35.700+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.154 seconds
+[2024-10-17T21:39:07.325+0100] {processor.py:186} INFO - Started process (PID=4625) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:07.326+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:39:07.326+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:07.326+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:07.418+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:07.480+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:07.480+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:07.486+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:07.486+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to 2024-10-16 00:00:00+00:00, run_after=2024-10-16 00:00:00+00:00
+[2024-10-17T21:39:07.492+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.168 seconds
+[2024-10-17T21:39:39.034+0100] {processor.py:186} INFO - Started process (PID=4690) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:39.035+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:39:39.035+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:39.035+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:39.126+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:39.183+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:39.183+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:39.190+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:39.189+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:39:39.196+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T21:39:55.004+0100] {processor.py:186} INFO - Started process (PID=4708) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:55.005+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:39:55.005+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:55.005+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:55.095+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:39:55.153+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:55.153+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:55.159+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:55.159+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:39:55.165+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T21:40:06.078+0100] {processor.py:186} INFO - Started process (PID=4740) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:06.078+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:40:06.078+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:06.078+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:06.170+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:06.233+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:06.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:06.240+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:06.240+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:40:06.246+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.169 seconds
+[2024-10-17T21:40:37.686+0100] {processor.py:186} INFO - Started process (PID=4822) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:37.687+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:40:37.687+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:37.687+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:37.779+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:40:37.837+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:37.837+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:37.843+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:37.843+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:40:37.849+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.164 seconds
+[2024-10-17T21:41:08.766+0100] {processor.py:186} INFO - Started process (PID=4863) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:08.767+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:41:08.767+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:08.767+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:08.857+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:08.914+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:08.914+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:08.921+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:08.920+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:41:08.926+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:41:40.632+0100] {processor.py:186} INFO - Started process (PID=4904) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:40.633+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:41:40.633+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:40.633+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:40.786+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:41:40.843+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:40.843+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:40.849+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:40.849+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:41:40.855+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.224 seconds
+[2024-10-17T21:42:12.322+0100] {processor.py:186} INFO - Started process (PID=4945) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:12.322+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:42:12.322+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:12.322+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:12.411+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:12.466+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:12.466+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:12.472+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:12.472+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:42:12.477+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T21:42:20.670+0100] {processor.py:186} INFO - Started process (PID=4982) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:20.670+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:42:20.670+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:20.670+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:20.762+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:20.822+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:20.822+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:20.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:20.828+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:42:20.834+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.165 seconds
+[2024-10-17T21:42:53.567+0100] {processor.py:186} INFO - Started process (PID=5038) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:53.567+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:42:53.568+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:53.568+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:53.657+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:42:53.714+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:53.714+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:53.720+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:53.720+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:42:53.726+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.160 seconds
+[2024-10-17T21:43:26.097+0100] {processor.py:186} INFO - Started process (PID=5077) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:26.097+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:43:26.097+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:26.097+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:26.188+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:26.249+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:26.249+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:26.255+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:26.255+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:43:26.261+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.165 seconds
+[2024-10-17T21:43:58.741+0100] {processor.py:186} INFO - Started process (PID=5118) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:58.742+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:43:58.742+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:58.742+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:58.829+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:43:58.884+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:58.884+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:58.890+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:58.890+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:43:58.896+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T21:44:30.978+0100] {processor.py:186} INFO - Started process (PID=5156) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:44:30.979+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:44:30.979+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:30.979+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:44:31.069+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:44:31.126+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:31.125+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:31.132+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:31.132+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:44:31.138+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.160 seconds
+[2024-10-17T21:45:03.549+0100] {processor.py:186} INFO - Started process (PID=5200) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:03.550+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:45:03.550+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:03.550+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:03.635+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:03.692+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:03.692+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:03.698+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:03.698+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:45:03.704+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T21:45:35.394+0100] {processor.py:186} INFO - Started process (PID=5237) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:35.394+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:45:35.395+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:35.395+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:35.479+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:45:35.534+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:35.534+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:35.540+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:35.540+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:45:35.546+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.153 seconds
+[2024-10-17T21:46:06.647+0100] {processor.py:186} INFO - Started process (PID=5275) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:06.647+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:46:06.648+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:06.648+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:06.739+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:06.796+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:06.796+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:06.802+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:06.802+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:46:06.807+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:46:38.579+0100] {processor.py:186} INFO - Started process (PID=5321) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:38.580+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:46:38.580+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:38.580+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:38.671+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:46:38.728+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:38.728+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:38.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:38.734+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:46:38.739+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:47:11.469+0100] {processor.py:186} INFO - Started process (PID=5359) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:11.470+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:47:11.470+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:11.470+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:11.559+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:11.616+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:11.615+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:11.622+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:11.622+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:47:11.628+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T21:47:43.065+0100] {processor.py:186} INFO - Started process (PID=5402) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:43.066+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:47:43.066+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:43.066+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:43.158+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:47:43.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:43.215+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:43.221+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:43.221+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:47:43.227+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.163 seconds
+[2024-10-17T21:48:16.281+0100] {processor.py:186} INFO - Started process (PID=5445) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:16.282+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:48:16.282+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:16.282+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:16.369+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:16.426+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:16.426+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:16.432+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:16.432+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:48:16.437+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.157 seconds
+[2024-10-17T21:48:57.153+0100] {processor.py:186} INFO - Started process (PID=5577) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:57.153+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:48:57.154+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:57.154+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:57.243+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:48:57.301+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:57.301+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:57.307+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:57.307+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:48:57.312+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.160 seconds
+[2024-10-17T21:49:29.237+0100] {processor.py:186} INFO - Started process (PID=5619) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:29.237+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:49:29.238+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:29.238+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:29.343+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:29.399+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:29.399+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:29.405+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:29.405+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:49:29.411+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.175 seconds
+[2024-10-17T21:49:53.770+0100] {processor.py:186} INFO - Started process (PID=5685) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:53.771+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:49:53.771+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:53.771+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:53.868+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:49:53.929+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:53.928+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:53.935+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:53.935+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:49:53.941+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.172 seconds
+[2024-10-17T21:50:28.545+0100] {processor.py:186} INFO - Started process (PID=5732) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:50:28.546+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:50:28.546+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:28.546+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:50:28.637+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:50:28.695+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:28.695+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:28.701+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:28.701+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:50:28.707+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.163 seconds
+[2024-10-17T21:51:07.433+0100] {processor.py:186} INFO - Started process (PID=5817) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:07.433+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:51:07.434+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:07.434+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:07.525+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:07.584+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:07.584+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:07.590+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:07.590+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:51:07.596+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.164 seconds
+[2024-10-17T21:51:46.354+0100] {processor.py:186} INFO - Started process (PID=5933) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:46.355+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:51:46.355+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:46.355+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:46.507+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:51:46.563+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:46.563+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:46.569+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:46.569+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:51:46.575+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.222 seconds
+[2024-10-17T21:52:20.833+0100] {processor.py:186} INFO - Started process (PID=5983) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:20.833+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:52:20.833+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:20.833+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:20.921+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:20.977+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:20.977+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:20.985+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:20.985+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:52:20.991+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T21:52:34.378+0100] {processor.py:186} INFO - Started process (PID=6037) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:34.378+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:52:34.379+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:34.378+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:34.470+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:52:34.528+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:34.528+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:34.534+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:34.534+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:52:34.540+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.163 seconds
+[2024-10-17T21:53:09.911+0100] {processor.py:186} INFO - Started process (PID=6087) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:09.911+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:53:09.912+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:09.912+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:10.001+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:10.058+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:10.058+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:10.064+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:10.064+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:53:10.070+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.160 seconds
+[2024-10-17T21:53:45.834+0100] {processor.py:186} INFO - Started process (PID=6135) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:45.834+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:53:45.834+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:45.834+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:45.929+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:53:45.987+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:45.986+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:45.993+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:45.993+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:53:45.998+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.166 seconds
+[2024-10-17T21:54:19.827+0100] {processor.py:186} INFO - Started process (PID=6180) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:19.828+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:54:19.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:19.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:19.917+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:19.975+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:19.975+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:19.981+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:19.981+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:54:19.986+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.160 seconds
+[2024-10-17T21:54:55.446+0100] {processor.py:186} INFO - Started process (PID=6277) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:55.446+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:54:55.447+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:55.446+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:55.544+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:54:55.605+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:55.605+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:55.611+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:55.611+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:54:55.617+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.173 seconds
+[2024-10-17T21:55:31.024+0100] {processor.py:186} INFO - Started process (PID=6333) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:55:31.025+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:55:31.025+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:31.025+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:55:31.113+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:55:31.170+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:31.170+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:31.176+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:31.176+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:55:31.182+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T21:56:04.763+0100] {processor.py:186} INFO - Started process (PID=6383) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:04.763+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:56:04.764+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:04.763+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:04.857+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:04.916+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:04.916+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:04.922+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:04.922+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:56:04.928+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.166 seconds
+[2024-10-17T21:56:40.247+0100] {processor.py:186} INFO - Started process (PID=6445) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:40.247+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:56:40.248+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:40.248+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:40.337+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:56:40.396+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:40.396+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:40.402+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:40.402+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:56:40.408+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T21:57:14.649+0100] {processor.py:186} INFO - Started process (PID=6496) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:14.649+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:57:14.650+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:14.650+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:14.741+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:14.797+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:14.797+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:14.803+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:14.803+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:57:14.809+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:57:48.401+0100] {processor.py:186} INFO - Started process (PID=6547) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:48.401+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:57:48.402+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:48.402+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:48.489+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:57:48.548+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:48.547+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:48.554+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:48.553+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:57:48.559+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T21:58:27.065+0100] {processor.py:186} INFO - Started process (PID=6612) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:58:27.065+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:58:27.066+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:27.066+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:58:27.182+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:58:27.239+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:27.239+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:27.245+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:27.245+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:58:27.251+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.187 seconds
+[2024-10-17T21:59:00.340+0100] {processor.py:186} INFO - Started process (PID=6661) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:00.341+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:59:00.341+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:00.341+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:00.432+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:00.488+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:00.488+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:00.495+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:00.495+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:59:00.501+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T21:59:34.152+0100] {processor.py:186} INFO - Started process (PID=6708) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:34.152+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T21:59:34.153+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:34.153+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:34.242+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T21:59:34.298+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:34.298+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:34.304+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:34.304+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T21:59:34.310+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T22:00:07.905+0100] {processor.py:186} INFO - Started process (PID=6791) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:07.905+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:00:07.906+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:07.906+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:07.998+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:08.054+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:08.054+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:08.061+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:08.060+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:00:08.067+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds
+[2024-10-17T22:00:41.776+0100] {processor.py:186} INFO - Started process (PID=6844) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:41.776+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:00:41.777+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:41.777+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:41.862+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:00:41.917+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:41.917+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:41.923+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:41.923+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:00:41.928+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.154 seconds
+[2024-10-17T22:01:15.185+0100] {processor.py:186} INFO - Started process (PID=6898) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:15.186+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:01:15.186+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:15.186+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:15.285+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:15.347+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:15.347+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:15.353+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:15.353+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:01:15.359+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.175 seconds
+[2024-10-17T22:01:48.865+0100] {processor.py:186} INFO - Started process (PID=7101) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:48.866+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:01:48.867+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:48.867+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:48.961+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:01:49.021+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:49.021+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:49.027+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:49.027+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:01:49.033+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.169 seconds
+[2024-10-17T22:02:23.004+0100] {processor.py:186} INFO - Started process (PID=7161) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:23.006+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:02:23.006+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:23.006+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:23.102+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:23.162+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:23.162+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:23.168+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:23.168+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:02:23.174+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.171 seconds
+[2024-10-17T22:02:56.571+0100] {processor.py:186} INFO - Started process (PID=7215) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:56.572+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:02:56.572+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:56.572+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:56.660+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:02:56.717+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:56.717+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:56.723+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:56.723+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:02:56.729+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T22:03:30.033+0100] {processor.py:186} INFO - Started process (PID=7262) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:03:30.034+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:03:30.034+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:30.034+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:03:30.123+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:03:30.181+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:30.181+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:30.187+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:30.187+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:03:30.193+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T22:04:04.015+0100] {processor.py:186} INFO - Started process (PID=7304) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:04.015+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:04:04.016+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:04.016+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:04.106+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:04.163+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:04.163+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:04.170+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:04.169+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:04:04.176+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T22:04:37.611+0100] {processor.py:186} INFO - Started process (PID=7346) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:37.612+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:04:37.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:37.612+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:37.701+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:04:37.759+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:37.759+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:37.765+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:37.765+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:04:37.771+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T22:05:13.966+0100] {processor.py:186} INFO - Started process (PID=7386) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:13.967+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:05:13.967+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:13.967+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:14.100+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:14.162+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:14.162+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:14.168+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:14.168+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:05:14.174+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.210 seconds
+[2024-10-17T22:05:47.821+0100] {processor.py:186} INFO - Started process (PID=7432) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:47.822+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:05:47.822+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:47.822+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:47.914+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:05:47.972+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:47.972+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:47.978+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:47.978+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:05:47.984+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.164 seconds
+[2024-10-17T22:06:24.263+0100] {processor.py:186} INFO - Started process (PID=7503) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:06:24.263+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:06:24.263+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:24.263+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:06:24.349+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:06:24.404+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:24.404+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:06:24.410+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:24.410+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:06:24.415+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.154 seconds
+[2024-10-17T22:07:10.110+0100] {processor.py:186} INFO - Started process (PID=7519) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:10.111+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:07:10.111+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:10.111+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:10.202+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:10.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:10.258+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:10.265+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:10.265+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:07:10.271+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T22:07:45.432+0100] {processor.py:186} INFO - Started process (PID=7562) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:45.433+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:07:45.433+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:45.433+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:45.520+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:07:45.575+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:45.575+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:45.581+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:45.581+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:07:45.587+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T22:08:22.410+0100] {processor.py:186} INFO - Started process (PID=7607) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:08:22.410+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:08:22.410+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:22.410+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:08:22.498+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:08:22.554+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:22.553+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:22.560+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:22.559+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:08:22.565+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.157 seconds
+[2024-10-17T22:11:25.177+0100] {processor.py:186} INFO - Started process (PID=7641) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:25.178+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:11:25.178+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:25.178+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:25.262+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:25.317+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:25.316+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:25.322+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:25.322+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:11:25.328+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.152 seconds
+[2024-10-17T22:11:57.057+0100] {processor.py:186} INFO - Started process (PID=7684) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:57.057+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:11:57.057+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:57.057+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:57.140+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:11:57.194+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:57.194+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:57.200+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:57.200+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:11:57.205+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.150 seconds
+[2024-10-17T22:12:33.871+0100] {processor.py:186} INFO - Started process (PID=7726) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:12:33.872+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:12:33.872+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:33.872+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:12:33.955+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:12:34.008+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:34.008+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:34.014+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:34.014+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:12:34.019+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.149 seconds
+[2024-10-17T22:13:19.981+0100] {processor.py:186} INFO - Started process (PID=7762) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:19.982+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:13:19.982+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:19.982+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:20.067+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:20.120+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:20.120+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:20.126+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:20.126+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:13:20.132+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.151 seconds
+[2024-10-17T22:13:56.800+0100] {processor.py:186} INFO - Started process (PID=7813) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:56.801+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:13:56.801+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:56.801+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:56.886+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:13:56.941+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:56.941+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:56.947+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:56.947+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:13:56.953+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.153 seconds
+[2024-10-17T22:14:36.338+0100] {processor.py:186} INFO - Started process (PID=7859) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:14:36.339+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:14:36.339+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:36.339+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:14:36.428+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:14:36.486+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:36.486+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:36.492+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:36.492+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:14:36.498+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.161 seconds
+[2024-10-17T22:15:11.682+0100] {processor.py:186} INFO - Started process (PID=7901) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:11.682+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:15:11.682+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:11.682+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:11.767+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:11.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:11.823+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:11.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:11.828+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:15:11.834+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.153 seconds
+[2024-10-17T22:15:46.489+0100] {processor.py:186} INFO - Started process (PID=7946) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:46.489+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:15:46.489+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:46.489+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:46.576+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:15:46.631+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:46.631+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:46.637+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:46.637+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:15:46.643+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.155 seconds
+[2024-10-17T22:16:21.884+0100] {processor.py:186} INFO - Started process (PID=7989) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:21.884+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:16:21.885+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:21.885+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:21.969+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:22.025+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:22.025+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:22.031+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:22.031+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:16:22.036+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.153 seconds
+[2024-10-17T22:16:57.913+0100] {processor.py:186} INFO - Started process (PID=8034) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:57.914+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:16:57.915+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:57.914+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:57.999+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:16:58.056+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:58.055+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:58.061+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:58.061+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:16:58.067+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.155 seconds
+[2024-10-17T22:17:33.315+0100] {processor.py:186} INFO - Started process (PID=8077) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:17:33.315+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:17:33.315+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:33.315+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:17:33.400+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:17:33.454+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:33.454+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:33.460+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:33.460+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:17:33.466+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.152 seconds
+[2024-10-17T22:18:09.755+0100] {processor.py:186} INFO - Started process (PID=8119) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:09.755+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:18:09.755+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:09.755+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:09.840+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:09.897+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:09.897+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:09.903+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:09.903+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:18:09.908+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.155 seconds
+[2024-10-17T22:18:46.498+0100] {processor.py:186} INFO - Started process (PID=8162) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:46.498+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:18:46.498+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:46.498+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:46.588+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:18:46.644+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:46.644+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:46.650+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:46.650+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:18:46.655+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.159 seconds
+[2024-10-17T22:19:17.574+0100] {processor.py:186} INFO - Started process (PID=8199) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:17.575+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:19:17.575+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:17.575+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:17.660+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:17.715+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:17.715+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:17.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:17.721+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:19:17.726+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.153 seconds
+[2024-10-17T22:19:50.578+0100] {processor.py:186} INFO - Started process (PID=8239) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:50.578+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:19:50.578+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:50.578+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:50.665+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:19:50.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:50.721+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:50.727+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:50.727+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:19:50.733+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T22:20:22.665+0100] {processor.py:186} INFO - Started process (PID=8281) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:22.666+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:20:22.666+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:22.666+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:22.751+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:22.807+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:22.807+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:22.813+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:22.813+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:20:22.819+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.155 seconds
+[2024-10-17T22:20:57.049+0100] {processor.py:186} INFO - Started process (PID=8328) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:57.050+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:20:57.050+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:57.050+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:57.141+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:20:57.201+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:57.201+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:57.207+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:57.207+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:20:57.213+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.165 seconds
+[2024-10-17T22:21:28.026+0100] {processor.py:186} INFO - Started process (PID=8378) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:21:28.026+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:21:28.026+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:28.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:21:28.130+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:21:28.188+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:28.188+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:28.194+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:28.194+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:21:28.200+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.175 seconds
+[2024-10-17T22:22:00.887+0100] {processor.py:186} INFO - Started process (PID=8420) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:00.887+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:22:00.887+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:00.887+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:00.974+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:01.031+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:01.031+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:01.037+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:01.037+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:22:01.042+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.156 seconds
+[2024-10-17T22:22:36.089+0100] {processor.py:186} INFO - Started process (PID=8463) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:36.090+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:22:36.090+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:36.090+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:36.205+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:22:36.261+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:36.261+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:36.267+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:36.267+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:22:36.273+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.185 seconds
+[2024-10-17T22:23:09.938+0100] {processor.py:186} INFO - Started process (PID=8507) to work on /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:23:09.939+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py for tasks to queue
+[2024-10-17T22:23:09.939+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:09.939+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:23:10.030+0100] {processor.py:925} INFO - DAG(s) 'taskgroup_and_labels_pipeline' retrieved from /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py
+[2024-10-17T22:23:10.087+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:10.087+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:23:10.093+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:10.093+0100] {dag.py:4180} INFO - Setting next_dagrun for taskgroup_and_labels_pipeline to None, run_after=None
+[2024-10-17T22:23:10.099+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/taskgroups_edgelabels.py took 0.162 seconds

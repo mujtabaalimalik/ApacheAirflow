@@ -1,0 +1,910 @@
+[2024-10-17T21:07:33.018+0100] {processor.py:186} INFO - Started process (PID=1895) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:07:33.019+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:07:33.019+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:07:33.019+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:07:33.033+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:07:33.107+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:07:33.107+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:07:33.114+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:07:33.114+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:07:33.120+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.103 seconds
+[2024-10-17T21:08:53.628+0100] {processor.py:186} INFO - Started process (PID=2165) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:08:53.629+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:08:53.630+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:53.630+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:08:53.637+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:08:53.671+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:53.671+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:08:53.677+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:53.677+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:08:53.682+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:09:24.449+0100] {processor.py:186} INFO - Started process (PID=2229) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:24.450+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:09:24.450+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:24.450+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:24.462+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:24.495+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:24.494+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:24.500+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:24.500+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:09:24.506+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:09:55.687+0100] {processor.py:186} INFO - Started process (PID=2258) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:55.688+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:09:55.688+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:55.688+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:55.695+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:09:55.728+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:55.728+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:55.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:55.734+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:09:55.743+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:10:27.240+0100] {processor.py:186} INFO - Started process (PID=2300) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:27.241+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:10:27.241+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:27.241+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:27.248+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:27.281+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:27.280+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:27.286+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:27.286+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:10:27.292+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T21:10:58.614+0100] {processor.py:186} INFO - Started process (PID=2346) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:58.615+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:10:58.615+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:58.615+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:58.626+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:10:58.661+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:58.661+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:58.667+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:58.667+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:10:58.673+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.060 seconds
+[2024-10-17T21:11:29.911+0100] {processor.py:186} INFO - Started process (PID=2386) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:11:29.912+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:11:29.913+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:29.913+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:11:29.920+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:11:29.955+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:29.955+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:29.961+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:29.961+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:11:29.966+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:12:01.403+0100] {processor.py:186} INFO - Started process (PID=2476) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:01.404+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:12:01.404+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:01.404+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:01.411+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:01.446+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:01.446+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:01.452+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:01.452+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:12:01.458+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:12:32.392+0100] {processor.py:186} INFO - Started process (PID=2508) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:32.393+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:12:32.393+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:32.393+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:32.399+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:12:32.434+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:32.434+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:32.440+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:32.440+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:12:32.445+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:13:04.005+0100] {processor.py:186} INFO - Started process (PID=2541) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:04.006+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:13:04.006+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:04.006+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:04.013+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:04.046+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:04.046+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:04.051+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:04.051+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:13:04.057+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:13:35.098+0100] {processor.py:186} INFO - Started process (PID=2575) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:35.099+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:13:35.099+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:35.099+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:35.110+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:13:35.146+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:35.146+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:35.152+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:35.152+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:13:35.158+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.061 seconds
+[2024-10-17T21:14:07.272+0100] {processor.py:186} INFO - Started process (PID=2614) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:07.273+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:14:07.273+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:07.273+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:07.284+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:07.318+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:07.318+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:07.324+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:07.324+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:14:07.330+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.059 seconds
+[2024-10-17T21:14:19.244+0100] {processor.py:186} INFO - Started process (PID=2654) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:19.244+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:14:19.244+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:19.244+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:19.252+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:19.287+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:19.287+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:19.294+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:19.293+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:14:19.299+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:14:50.225+0100] {processor.py:186} INFO - Started process (PID=2700) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:50.226+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:14:50.226+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:50.226+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:50.233+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:14:50.267+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:50.267+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:50.273+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:50.273+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:14:50.278+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:15:21.211+0100] {processor.py:186} INFO - Started process (PID=2740) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:21.211+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:15:21.212+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:21.212+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:21.218+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:21.252+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:21.251+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:21.257+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:21.257+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:15:21.263+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:15:52.619+0100] {processor.py:186} INFO - Started process (PID=2807) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:52.619+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:15:52.620+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:52.620+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:52.627+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:15:52.661+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:52.661+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:52.667+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:52.667+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:15:52.672+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:16:23.694+0100] {processor.py:186} INFO - Started process (PID=2845) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:23.694+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:16:23.694+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:23.694+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:23.701+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:23.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:23.734+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:23.740+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:23.739+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:16:23.745+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T21:16:55.440+0100] {processor.py:186} INFO - Started process (PID=2881) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:55.440+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:16:55.440+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:55.440+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:55.447+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:16:55.483+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:55.482+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:55.488+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:55.488+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:16:55.494+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:17:27.082+0100] {processor.py:186} INFO - Started process (PID=2913) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:27.083+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:17:27.083+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:27.083+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:27.090+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:27.123+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:27.123+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:27.129+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:27.129+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:17:27.134+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:17:58.782+0100] {processor.py:186} INFO - Started process (PID=2946) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:58.783+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:17:58.783+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:58.783+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:58.789+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:17:58.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:58.822+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:58.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:58.828+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:17:58.834+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T21:18:30.529+0100] {processor.py:186} INFO - Started process (PID=2979) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:18:30.529+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:18:30.529+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:30.529+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:18:30.536+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:18:30.572+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:30.572+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:30.578+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:30.578+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:18:30.584+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:19:02.157+0100] {processor.py:186} INFO - Started process (PID=3011) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:02.157+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:19:02.157+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:02.157+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:02.164+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:02.197+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:02.197+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:02.203+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:02.203+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:19:02.208+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:19:33.576+0100] {processor.py:186} INFO - Started process (PID=3054) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:33.577+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:19:33.577+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:33.577+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:33.589+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:19:33.626+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:33.626+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:33.633+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:33.633+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:19:33.639+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.064 seconds
+[2024-10-17T21:20:05.155+0100] {processor.py:186} INFO - Started process (PID=3091) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:05.155+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:20:05.156+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:05.156+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:05.163+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:05.199+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:05.199+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:05.205+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:05.205+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:20:05.211+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:20:44.478+0100] {processor.py:186} INFO - Started process (PID=3172) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:44.479+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:20:44.479+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:44.479+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:44.486+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:20:44.523+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:44.523+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:44.530+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:44.530+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:20:44.536+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.059 seconds
+[2024-10-17T21:21:15.506+0100] {processor.py:186} INFO - Started process (PID=3239) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:15.506+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:21:15.506+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:15.506+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:15.514+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:15.549+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:15.549+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:15.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:15.555+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:21:15.561+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:21:46.654+0100] {processor.py:186} INFO - Started process (PID=3276) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:46.655+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:21:46.655+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:46.655+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:46.662+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:21:46.697+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:46.697+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:46.703+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:46.703+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:21:46.709+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:22:18.063+0100] {processor.py:186} INFO - Started process (PID=3310) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:18.064+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:22:18.064+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:18.064+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:18.071+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:18.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:18.106+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:18.112+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:18.112+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:22:18.118+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:22:49.822+0100] {processor.py:186} INFO - Started process (PID=3345) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:49.822+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:22:49.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:49.823+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:49.830+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:22:49.865+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:49.865+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:49.871+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:49.871+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:22:49.876+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:23:21.869+0100] {processor.py:186} INFO - Started process (PID=3379) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:21.869+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:23:21.869+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:21.869+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:21.876+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:21.911+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:21.911+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:21.917+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:21.917+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:23:21.923+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:23:53.581+0100] {processor.py:186} INFO - Started process (PID=3414) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:53.582+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:23:53.582+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:53.582+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:53.589+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:23:53.623+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:53.623+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:53.628+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:53.628+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:23:53.634+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:24:25.335+0100] {processor.py:186} INFO - Started process (PID=3452) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:25.335+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:24:25.336+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:25.336+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:25.343+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:25.381+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:25.381+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:25.387+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:25.387+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:24:25.392+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:24:57.213+0100] {processor.py:186} INFO - Started process (PID=3500) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:57.214+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:24:57.214+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:57.214+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:57.225+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:24:57.258+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:57.258+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:57.264+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:57.264+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:24:57.269+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:25:28.657+0100] {processor.py:186} INFO - Started process (PID=3554) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:25:28.657+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:25:28.658+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:28.658+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:25:28.665+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:25:28.699+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:28.699+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:28.705+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:28.705+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:25:28.711+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:26:00.082+0100] {processor.py:186} INFO - Started process (PID=3591) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:00.082+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:26:00.083+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:00.082+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:00.089+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:00.124+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:00.124+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:00.130+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:00.130+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:26:00.136+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:26:31.823+0100] {processor.py:186} INFO - Started process (PID=3628) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:31.823+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:26:31.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:31.823+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:31.830+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:26:31.864+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:31.864+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:31.870+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:31.870+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:26:31.875+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:27:03.344+0100] {processor.py:186} INFO - Started process (PID=3675) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:03.345+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:27:03.345+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:03.345+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:03.352+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:03.385+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:03.385+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:03.391+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:03.391+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:27:03.397+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:27:35.012+0100] {processor.py:186} INFO - Started process (PID=3713) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:35.012+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:27:35.012+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:35.012+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:35.020+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:27:35.054+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:35.054+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:35.060+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:35.060+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:27:35.066+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:28:06.106+0100] {processor.py:186} INFO - Started process (PID=3747) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:06.106+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:28:06.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:06.106+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:06.113+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:06.146+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:06.146+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:06.152+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:06.152+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:28:06.158+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:28:37.791+0100] {processor.py:186} INFO - Started process (PID=3782) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:37.792+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:28:37.792+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:37.792+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:37.799+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:28:37.834+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:37.834+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:37.840+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:37.840+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:28:37.846+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:29:09.378+0100] {processor.py:186} INFO - Started process (PID=3816) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:09.379+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:29:09.379+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:09.379+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:09.386+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:09.419+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:09.419+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:09.424+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:09.424+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:29:09.430+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:29:41.033+0100] {processor.py:186} INFO - Started process (PID=3859) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:41.033+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:29:41.034+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:41.034+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:41.041+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:29:41.076+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:41.076+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:41.082+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:41.082+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:29:41.088+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:30:13.144+0100] {processor.py:186} INFO - Started process (PID=3925) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:13.145+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:30:13.145+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:13.145+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:13.152+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:13.187+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:13.187+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:13.193+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:13.193+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:30:13.198+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:30:44.751+0100] {processor.py:186} INFO - Started process (PID=3964) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:44.751+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:30:44.751+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:44.751+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:44.758+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:30:44.793+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:44.793+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:44.799+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:44.799+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:30:44.805+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:31:16.425+0100] {processor.py:186} INFO - Started process (PID=4002) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:16.426+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:31:16.426+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:16.426+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:16.433+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:16.467+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:16.467+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:16.472+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:16.472+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:31:16.478+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:31:47.473+0100] {processor.py:186} INFO - Started process (PID=4040) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:47.474+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:31:47.475+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:47.475+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:47.485+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:31:47.519+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:47.519+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:47.525+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:47.524+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:31:47.530+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:32:19.338+0100] {processor.py:186} INFO - Started process (PID=4074) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:19.338+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:32:19.338+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:19.338+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:19.345+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:19.378+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:19.378+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:19.384+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:19.384+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:32:19.389+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T21:32:51.163+0100] {processor.py:186} INFO - Started process (PID=4118) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:51.164+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:32:51.165+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:51.165+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:51.176+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:32:51.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:51.209+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:51.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:51.215+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:32:51.220+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:33:22.078+0100] {processor.py:186} INFO - Started process (PID=4157) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:22.079+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:33:22.079+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:22.079+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:22.090+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:22.126+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:22.126+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:22.132+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:22.132+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:33:22.138+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.061 seconds
+[2024-10-17T21:33:56.346+0100] {processor.py:186} INFO - Started process (PID=4232) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:56.347+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:33:56.347+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:56.347+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:56.354+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:33:56.389+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:56.389+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:56.395+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:56.395+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:33:56.401+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:34:27.313+0100] {processor.py:186} INFO - Started process (PID=4279) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:34:27.313+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:34:27.314+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:27.313+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:34:27.321+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:34:27.357+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:27.357+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:27.363+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:27.363+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:34:27.369+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:35:00.014+0100] {processor.py:186} INFO - Started process (PID=4316) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:00.014+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:35:00.015+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:00.015+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:00.022+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:00.057+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:00.057+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:00.063+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:00.063+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:35:00.069+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:35:31.504+0100] {processor.py:186} INFO - Started process (PID=4354) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:31.505+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:35:31.505+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:31.505+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:31.512+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:35:31.545+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:31.545+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:31.551+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:31.551+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:35:31.557+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:36:02.711+0100] {processor.py:186} INFO - Started process (PID=4390) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:02.711+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:36:02.712+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:02.712+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:02.719+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:02.752+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:02.752+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:02.758+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:02.758+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:36:02.763+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:36:34.329+0100] {processor.py:186} INFO - Started process (PID=4427) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:34.329+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:36:34.329+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:34.329+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:34.336+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:36:34.370+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:34.370+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:34.375+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:34.375+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:36:34.381+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:37:06.209+0100] {processor.py:186} INFO - Started process (PID=4466) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:06.211+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:37:06.211+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:06.211+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:06.222+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:06.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:06.259+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:06.266+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:06.266+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:37:06.272+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.064 seconds
+[2024-10-17T21:37:37.945+0100] {processor.py:186} INFO - Started process (PID=4513) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:37.945+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:37:37.945+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:37.945+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:37.952+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:37:37.986+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:37.986+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:37.992+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:37.992+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:37:37.997+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:38:09.445+0100] {processor.py:186} INFO - Started process (PID=4549) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:09.445+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:38:09.445+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:09.445+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:09.452+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:09.486+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:09.485+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:09.491+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:09.491+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:38:09.497+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:38:41.145+0100] {processor.py:186} INFO - Started process (PID=4586) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:41.145+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:38:41.146+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:41.146+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:41.153+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:38:41.187+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:41.187+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:41.193+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:41.193+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:38:41.198+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:39:13.022+0100] {processor.py:186} INFO - Started process (PID=4646) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:13.022+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:39:13.023+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:13.023+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:13.030+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:13.065+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:13.065+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:13.071+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:13.071+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:39:13.076+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:39:44.681+0100] {processor.py:186} INFO - Started process (PID=4696) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:44.681+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:39:44.681+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:44.681+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:44.689+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:39:44.724+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:44.724+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:44.730+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:44.730+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:39:44.736+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:40:11.784+0100] {processor.py:186} INFO - Started process (PID=4760) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:11.785+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:40:11.785+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:11.785+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:11.792+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:11.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:11.828+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:11.834+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:11.834+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:40:11.840+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:40:43.191+0100] {processor.py:186} INFO - Started process (PID=4828) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:43.191+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:40:43.192+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:43.192+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:43.199+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:40:43.233+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:43.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:43.239+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:43.239+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:40:43.245+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:41:15.920+0100] {processor.py:186} INFO - Started process (PID=4871) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:15.920+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:41:15.921+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:15.921+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:15.927+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:15.962+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:15.962+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:15.968+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:15.968+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:41:15.973+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:41:48.179+0100] {processor.py:186} INFO - Started process (PID=4915) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:48.180+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:41:48.181+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:48.180+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:48.191+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:41:48.226+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:48.226+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:48.232+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:48.232+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:41:48.237+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.059 seconds
+[2024-10-17T21:42:26.322+0100] {processor.py:186} INFO - Started process (PID=4998) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:26.323+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:42:26.323+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:26.323+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:26.331+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:26.371+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:26.371+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:26.378+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:26.378+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:42:26.384+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.063 seconds
+[2024-10-17T21:42:59.158+0100] {processor.py:186} INFO - Started process (PID=5044) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:59.158+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:42:59.159+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:59.159+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:59.166+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:42:59.200+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:59.200+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:59.206+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:59.206+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:42:59.212+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:43:31.502+0100] {processor.py:186} INFO - Started process (PID=5084) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:43:31.502+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:43:31.502+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:31.502+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:43:31.510+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:43:31.545+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:31.545+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:31.551+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:31.551+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:43:31.557+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:44:03.402+0100] {processor.py:186} INFO - Started process (PID=5124) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:03.402+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:44:03.402+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:03.402+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:03.409+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:03.444+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:03.444+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:03.450+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:03.450+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:44:03.456+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:44:36.557+0100] {processor.py:186} INFO - Started process (PID=5163) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:36.557+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:44:36.558+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:36.558+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:36.565+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:44:36.598+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:36.598+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:36.604+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:36.604+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:44:36.609+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:45:08.975+0100] {processor.py:186} INFO - Started process (PID=5206) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:08.975+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:45:08.976+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:08.976+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:08.982+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:09.017+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:09.016+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:09.022+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:09.022+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:45:09.028+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:45:42.324+0100] {processor.py:186} INFO - Started process (PID=5245) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:42.325+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:45:42.325+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:42.325+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:42.332+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:45:42.365+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:42.365+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:42.371+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:42.371+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:45:42.376+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:46:13.592+0100] {processor.py:186} INFO - Started process (PID=5283) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:13.593+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:46:13.593+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:13.593+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:13.600+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:13.634+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:13.634+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:13.640+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:13.640+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:46:13.645+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:46:44.485+0100] {processor.py:186} INFO - Started process (PID=5329) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:44.485+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:46:44.485+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:44.485+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:44.492+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:46:44.525+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:44.525+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:44.531+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:44.531+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:46:44.536+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T21:47:18.110+0100] {processor.py:186} INFO - Started process (PID=5367) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:18.110+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:47:18.110+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:18.110+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:18.117+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:18.152+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:18.152+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:18.158+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:18.158+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:47:18.164+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:47:49.811+0100] {processor.py:186} INFO - Started process (PID=5413) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:49.811+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:47:49.811+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:49.811+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:49.818+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:47:49.852+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:49.852+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:49.858+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:49.858+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:47:49.863+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:48:28.557+0100] {processor.py:186} INFO - Started process (PID=5499) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:48:28.557+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:48:28.558+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:28.557+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:48:28.564+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:48:28.599+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:28.599+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:28.605+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:28.605+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:48:28.610+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:49:04.395+0100] {processor.py:186} INFO - Started process (PID=5586) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:04.396+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:49:04.396+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:04.396+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:04.407+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:04.443+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:04.442+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:04.449+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:04.449+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:49:04.454+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.061 seconds
+[2024-10-17T21:49:36.405+0100] {processor.py:186} INFO - Started process (PID=5628) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:36.405+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:49:36.405+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:36.405+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:36.413+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:36.449+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:36.449+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:36.455+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:36.455+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:49:36.462+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T21:49:59.351+0100] {processor.py:186} INFO - Started process (PID=5695) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:59.351+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:49:59.352+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:59.352+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:59.358+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:49:59.393+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:59.393+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:59.399+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:59.399+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:49:59.404+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:50:34.154+0100] {processor.py:186} INFO - Started process (PID=5739) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:50:34.154+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:50:34.154+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:34.154+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:50:34.161+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:50:34.196+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:34.196+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:34.202+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:34.202+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:50:34.208+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:51:13.733+0100] {processor.py:186} INFO - Started process (PID=5838) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:13.733+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:51:13.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:13.734+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:13.741+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:13.776+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:13.776+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:13.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:13.782+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:51:13.787+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:51:51.193+0100] {processor.py:186} INFO - Started process (PID=5942) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:51.194+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:51:51.195+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:51.194+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:51.206+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:51:51.242+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:51.242+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:51.249+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:51.249+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:51:51.255+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.063 seconds
+[2024-10-17T21:52:40.010+0100] {processor.py:186} INFO - Started process (PID=6045) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:52:40.010+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:52:40.010+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:40.010+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:52:40.017+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:52:40.052+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:40.052+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:40.058+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:40.058+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:52:40.064+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:53:14.897+0100] {processor.py:186} INFO - Started process (PID=6093) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:14.897+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:53:14.897+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:14.897+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:14.905+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:14.940+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:14.940+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:14.946+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:14.946+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:53:14.952+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:53:51.493+0100] {processor.py:186} INFO - Started process (PID=6143) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:51.493+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:53:51.494+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:51.494+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:51.500+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:53:51.535+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:51.535+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:51.541+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:51.541+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:53:51.546+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:54:27.263+0100] {processor.py:186} INFO - Started process (PID=6188) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:54:27.263+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:54:27.263+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:27.263+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:54:27.271+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:54:27.307+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:27.306+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:27.313+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:27.313+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:54:27.319+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:55:02.287+0100] {processor.py:186} INFO - Started process (PID=6289) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:02.287+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:55:02.287+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:02.287+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:02.295+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:02.329+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:02.329+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:02.335+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:02.335+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:55:02.341+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:55:37.167+0100] {processor.py:186} INFO - Started process (PID=6346) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:37.167+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:55:37.167+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:37.167+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:37.174+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:55:37.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:37.209+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:37.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:37.215+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:55:37.221+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:56:11.923+0100] {processor.py:186} INFO - Started process (PID=6395) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:11.924+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:56:11.924+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:11.924+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:11.931+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:11.966+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:11.966+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:11.972+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:11.972+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:56:11.978+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:56:47.517+0100] {processor.py:186} INFO - Started process (PID=6460) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:47.517+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:56:47.517+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:47.517+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:47.525+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:56:47.560+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:47.560+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:47.566+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:47.566+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:56:47.572+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:57:23.350+0100] {processor.py:186} INFO - Started process (PID=6506) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:23.350+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:57:23.351+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:23.351+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:23.357+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:23.391+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:23.391+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:23.397+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:23.397+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:57:23.403+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T21:57:58.782+0100] {processor.py:186} INFO - Started process (PID=6569) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:58.782+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:57:58.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:58.782+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:58.789+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:57:58.824+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:58.824+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:58.829+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:58.829+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:57:58.835+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T21:58:32.474+0100] {processor.py:186} INFO - Started process (PID=6620) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:58:32.474+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:58:32.474+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:32.474+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:58:32.481+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:58:32.516+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:32.516+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:32.522+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:32.522+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:58:32.528+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T21:59:07.691+0100] {processor.py:186} INFO - Started process (PID=6669) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:07.691+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:59:07.691+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:07.691+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:07.698+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:07.733+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:07.733+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:07.740+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:07.740+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:59:07.746+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T21:59:41.602+0100] {processor.py:186} INFO - Started process (PID=6727) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:41.602+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T21:59:41.602+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:41.602+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:41.610+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T21:59:41.646+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:41.646+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:41.652+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:41.652+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T21:59:41.658+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T22:00:15.281+0100] {processor.py:186} INFO - Started process (PID=6799) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:15.281+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:00:15.282+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:15.281+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:15.288+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:15.322+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:15.322+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:15.328+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:15.328+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:00:15.334+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:00:48.954+0100] {processor.py:186} INFO - Started process (PID=6856) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:48.954+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:00:48.954+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:48.954+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:48.961+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:00:48.995+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:48.995+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:49.000+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:49.000+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:00:49.006+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T22:01:21.484+0100] {processor.py:186} INFO - Started process (PID=6964) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:21.484+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:01:21.485+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:21.485+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:21.492+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:21.528+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:21.528+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:21.535+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:21.534+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:01:21.541+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T22:01:56.646+0100] {processor.py:186} INFO - Started process (PID=7115) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:56.647+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:01:56.647+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:56.647+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:56.658+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:01:56.693+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:56.693+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:56.699+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:56.699+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:01:56.705+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.060 seconds
+[2024-10-17T22:02:32.604+0100] {processor.py:186} INFO - Started process (PID=7178) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:02:32.604+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:02:32.605+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:32.605+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:02:32.615+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:02:32.651+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:32.650+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:32.657+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:32.656+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:02:32.662+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.060 seconds
+[2024-10-17T22:03:08.634+0100] {processor.py:186} INFO - Started process (PID=7232) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:08.634+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:03:08.634+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:08.634+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:08.642+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:08.678+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:08.678+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:08.684+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:08.684+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:03:08.690+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.058 seconds
+[2024-10-17T22:03:44.061+0100] {processor.py:186} INFO - Started process (PID=7280) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:44.062+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:03:44.063+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:44.062+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:44.074+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:03:44.108+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:44.108+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:44.114+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:44.114+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:03:44.120+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.060 seconds
+[2024-10-17T22:04:15.567+0100] {processor.py:186} INFO - Started process (PID=7318) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:15.567+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:04:15.567+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:15.567+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:15.574+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:15.609+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:15.609+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:15.615+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:15.615+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:04:15.621+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T22:04:48.512+0100] {processor.py:186} INFO - Started process (PID=7358) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:48.514+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:04:48.514+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:48.514+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:48.524+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:04:48.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:48.559+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:48.565+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:48.565+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:04:48.570+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.059 seconds
+[2024-10-17T22:05:23.041+0100] {processor.py:186} INFO - Started process (PID=7398) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:23.041+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:05:23.041+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:23.041+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:23.049+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:23.086+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:23.085+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:23.092+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:23.091+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:05:23.097+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T22:05:57.288+0100] {processor.py:186} INFO - Started process (PID=7443) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:57.289+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:05:57.289+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:57.289+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:57.296+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:05:57.331+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:57.331+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:57.337+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:57.337+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:05:57.343+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T22:07:15.612+0100] {processor.py:186} INFO - Started process (PID=7526) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:15.613+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:07:15.613+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:15.613+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:15.621+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:15.654+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:15.654+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:15.659+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:15.659+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:07:15.664+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T22:07:54.174+0100] {processor.py:186} INFO - Started process (PID=7568) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:54.174+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:07:54.174+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:54.174+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:54.181+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:07:54.214+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:54.214+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:54.219+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:54.219+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:07:54.225+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T22:08:27.918+0100] {processor.py:186} INFO - Started process (PID=7613) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:08:27.918+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:08:27.919+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:27.919+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:08:27.925+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:08:27.960+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:27.960+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:27.966+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:27.966+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:08:27.971+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:11:29.677+0100] {processor.py:186} INFO - Started process (PID=7647) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:11:29.678+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:11:29.678+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:29.678+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:11:29.685+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:11:29.719+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:29.718+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:29.724+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:29.724+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:11:29.730+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:12:01.709+0100] {processor.py:186} INFO - Started process (PID=7690) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:01.710+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:12:01.710+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:01.710+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:01.717+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:01.749+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:01.749+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:01.755+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:01.755+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:12:01.760+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T22:12:39.357+0100] {processor.py:186} INFO - Started process (PID=7732) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:39.357+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:12:39.357+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:39.357+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:39.364+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:12:39.398+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:39.398+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:39.404+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:39.404+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:12:39.410+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:13:24.999+0100] {processor.py:186} INFO - Started process (PID=7768) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:13:24.999+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:13:24.999+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:24.999+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:13:25.006+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:13:25.040+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:25.040+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:25.045+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:25.045+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:13:25.051+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T22:14:09.618+0100] {processor.py:186} INFO - Started process (PID=7826) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:09.618+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:14:09.619+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:09.619+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:09.626+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:09.661+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:09.661+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:09.667+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:09.667+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:14:09.673+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T22:14:44.042+0100] {processor.py:186} INFO - Started process (PID=7869) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:44.043+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:14:44.043+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:44.043+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:44.050+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:14:44.084+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:44.084+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:44.090+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:44.090+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:14:44.095+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:15:18.000+0100] {processor.py:186} INFO - Started process (PID=7912) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:18.001+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:15:18.001+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:18.001+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:18.007+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:18.041+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:18.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:18.046+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:18.046+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:15:18.052+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.052 seconds
+[2024-10-17T22:15:54.975+0100] {processor.py:186} INFO - Started process (PID=7956) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:54.976+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:15:54.976+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:54.976+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:54.989+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:15:55.029+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:55.028+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:55.037+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:55.036+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:15:55.043+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.069 seconds
+[2024-10-17T22:16:32.398+0100] {processor.py:186} INFO - Started process (PID=8001) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:16:32.399+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:16:32.399+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:32.399+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:16:32.406+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:16:32.442+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:32.442+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:32.448+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:32.448+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:16:32.454+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.057 seconds
+[2024-10-17T22:17:08.630+0100] {processor.py:186} INFO - Started process (PID=8046) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:08.632+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:17:08.632+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:08.632+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:08.643+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:08.677+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:08.677+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:08.683+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:08.683+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:17:08.688+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.059 seconds
+[2024-10-17T22:17:42.769+0100] {processor.py:186} INFO - Started process (PID=8089) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:42.769+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:17:42.769+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:42.769+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:42.776+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:17:42.811+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:42.810+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:42.816+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:42.816+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:17:42.822+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T22:18:18.762+0100] {processor.py:186} INFO - Started process (PID=8130) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:18.763+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:18:18.763+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:18.763+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:18.776+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:18.813+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:18.812+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:18.819+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:18.819+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:18:18.825+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.064 seconds
+[2024-10-17T22:18:55.124+0100] {processor.py:186} INFO - Started process (PID=8172) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:55.125+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:18:55.125+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:55.125+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:55.132+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:18:55.166+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:55.166+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:55.172+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:55.172+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:18:55.178+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T22:19:30.746+0100] {processor.py:186} INFO - Started process (PID=8215) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:19:30.746+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:19:30.747+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:30.746+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:19:30.753+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:19:30.787+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:30.787+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:30.793+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:30.793+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:19:30.798+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.054 seconds
+[2024-10-17T22:20:04.779+0100] {processor.py:186} INFO - Started process (PID=8258) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:04.779+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:20:04.779+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:04.779+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:04.786+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:04.821+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:04.821+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:04.827+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:04.827+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:20:04.833+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.055 seconds
+[2024-10-17T22:20:38.933+0100] {processor.py:186} INFO - Started process (PID=8299) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:38.934+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:20:38.934+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:38.934+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:38.941+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:20:38.974+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:38.974+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:38.980+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:38.980+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:20:38.985+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds
+[2024-10-17T22:21:12.193+0100] {processor.py:186} INFO - Started process (PID=8355) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:12.194+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:21:12.194+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:12.194+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:12.205+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:12.241+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:12.241+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:12.247+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:12.247+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:21:12.252+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.061 seconds
+[2024-10-17T22:21:45.092+0100] {processor.py:186} INFO - Started process (PID=8402) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:45.092+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:21:45.092+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:45.092+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:45.099+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:21:45.134+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:45.134+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:45.140+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:45.140+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:21:45.146+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T22:22:22.463+0100] {processor.py:186} INFO - Started process (PID=8447) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:22.464+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:22:22.464+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:22.464+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:22.471+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:22.506+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:22.506+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:22.512+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:22.512+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:22:22.518+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.056 seconds
+[2024-10-17T22:22:57.788+0100] {processor.py:186} INFO - Started process (PID=8489) to work on /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:57.788+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py for tasks to queue
+[2024-10-17T22:22:57.788+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:57.788+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:57.795+0100] {processor.py:925} INFO - DAG(s) 'executing_sql_pipeline_2' retrieved from /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py
+[2024-10-17T22:22:57.828+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:57.828+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:57.834+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:57.834+0100] {dag.py:4180} INFO - Setting next_dagrun for executing_sql_pipeline_2 to None, run_after=None
+[2024-10-17T22:22:57.839+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/sql_pipeline_multiple_2.py took 0.053 seconds

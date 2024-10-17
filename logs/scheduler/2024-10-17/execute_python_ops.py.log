@@ -1,0 +1,875 @@
+[2024-10-17T21:08:45.973+0100] {processor.py:186} INFO - Started process (PID=2153) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:08:45.973+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:08:45.974+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:45.974+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:08:45.982+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:08:46.041+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:46.040+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:08:46.046+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:08:46.046+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:08:46.052+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.080 seconds
+[2024-10-17T21:09:17.317+0100] {processor.py:186} INFO - Started process (PID=2219) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:17.318+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:09:17.318+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:17.318+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:17.327+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:17.358+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:17.358+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:17.364+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:17.364+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:09:17.369+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:09:50.401+0100] {processor.py:186} INFO - Started process (PID=2251) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:50.402+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:09:50.402+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:50.402+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:50.410+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:09:50.441+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:50.441+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:09:50.447+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:09:50.447+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:09:50.453+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T21:10:21.909+0100] {processor.py:186} INFO - Started process (PID=2294) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:21.910+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:10:21.910+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:21.910+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:21.918+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:21.949+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:21.949+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:21.955+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:21.955+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:10:21.961+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T21:10:52.861+0100] {processor.py:186} INFO - Started process (PID=2340) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:52.862+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:10:52.862+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:52.862+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:52.871+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:10:52.903+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:52.903+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:10:52.909+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:10:52.909+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:10:52.914+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:11:24.333+0100] {processor.py:186} INFO - Started process (PID=2375) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:24.334+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:11:24.335+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:24.335+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:24.343+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:24.376+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:24.376+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:24.383+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:24.383+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:11:24.388+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:11:55.911+0100] {processor.py:186} INFO - Started process (PID=2470) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:55.911+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:11:55.912+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:55.912+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:55.920+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:11:55.951+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:55.951+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:11:55.957+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:11:55.957+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:11:55.962+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:12:27.463+0100] {processor.py:186} INFO - Started process (PID=2501) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:27.463+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:12:27.464+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:27.464+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:27.472+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:27.503+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:27.503+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:27.509+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:27.509+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:12:27.514+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T21:12:58.673+0100] {processor.py:186} INFO - Started process (PID=2534) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:58.673+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:12:58.673+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:58.673+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:58.682+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:12:58.715+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:58.714+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:12:58.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:12:58.721+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:12:58.726+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:13:30.311+0100] {processor.py:186} INFO - Started process (PID=2567) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:13:30.312+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:13:30.312+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:30.312+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:13:30.320+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:13:30.352+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:30.352+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:13:30.359+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:13:30.358+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:13:30.364+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:14:01.892+0100] {processor.py:186} INFO - Started process (PID=2606) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:01.893+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:14:01.894+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:01.894+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:01.903+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:01.939+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:01.939+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:01.946+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:01.946+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:14:01.952+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.060 seconds
+[2024-10-17T21:14:36.252+0100] {processor.py:186} INFO - Started process (PID=2688) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:36.253+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:14:36.253+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:36.253+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:36.261+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:14:36.295+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:36.295+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:14:36.301+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:14:36.301+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:14:36.307+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:15:07.285+0100] {processor.py:186} INFO - Started process (PID=2720) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:07.285+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:15:07.286+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:07.286+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:07.294+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:07.326+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:07.326+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:07.332+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:07.332+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:15:07.338+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:15:40.563+0100] {processor.py:186} INFO - Started process (PID=2778) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:40.564+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:15:40.564+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:40.564+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:40.572+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:15:40.604+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:40.604+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:15:40.610+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:15:40.610+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:15:40.616+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:16:12.572+0100] {processor.py:186} INFO - Started process (PID=2833) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:12.572+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:16:12.573+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:12.572+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:12.581+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:12.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:12.612+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:12.618+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:12.618+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:16:12.623+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:16:43.588+0100] {processor.py:186} INFO - Started process (PID=2868) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:43.588+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:16:43.589+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:43.589+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:43.597+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:16:43.630+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:43.630+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:16:43.636+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:16:43.636+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:16:43.642+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:17:15.263+0100] {processor.py:186} INFO - Started process (PID=2901) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:15.263+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:17:15.264+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:15.264+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:15.272+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:15.303+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:15.303+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:15.309+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:15.309+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:17:15.315+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:17:46.945+0100] {processor.py:186} INFO - Started process (PID=2934) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:46.945+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:17:46.945+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:46.945+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:46.954+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:17:46.985+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:46.985+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:17:46.991+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:17:46.991+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:17:46.997+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:18:18.682+0100] {processor.py:186} INFO - Started process (PID=2966) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:18.682+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:18:18.683+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:18.683+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:18.691+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:18.724+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:18.724+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:18.730+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:18.730+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:18:18.736+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:18:50.330+0100] {processor.py:186} INFO - Started process (PID=2999) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:50.330+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:18:50.330+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:50.330+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:50.338+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:18:50.370+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:50.370+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:18:50.376+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:18:50.376+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:18:50.382+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:19:21.742+0100] {processor.py:186} INFO - Started process (PID=3035) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:21.742+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:19:21.742+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:21.742+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:21.750+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:21.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:21.781+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:21.788+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:21.787+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:19:21.793+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T21:19:54.520+0100] {processor.py:186} INFO - Started process (PID=3079) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:54.521+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:19:54.522+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:54.522+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:54.531+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:19:54.566+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:54.566+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:19:54.572+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:19:54.572+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:19:54.578+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.059 seconds
+[2024-10-17T21:20:25.720+0100] {processor.py:186} INFO - Started process (PID=3111) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:20:25.720+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:20:25.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:25.721+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:20:25.729+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:20:25.762+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:25.762+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:20:25.769+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:20:25.769+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:20:25.774+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:21:02.553+0100] {processor.py:186} INFO - Started process (PID=3219) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:02.554+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:21:02.554+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:02.554+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:02.562+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:02.594+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:02.593+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:02.600+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:02.600+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:21:02.605+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:21:34.048+0100] {processor.py:186} INFO - Started process (PID=3260) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:34.048+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:21:34.048+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:34.048+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:34.057+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:21:34.090+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:34.090+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:21:34.096+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:21:34.096+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:21:34.102+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:22:05.683+0100] {processor.py:186} INFO - Started process (PID=3296) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:05.684+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:22:05.684+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:05.684+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:05.692+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:05.726+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:05.726+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:05.732+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:05.732+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:22:05.738+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:22:37.522+0100] {processor.py:186} INFO - Started process (PID=3331) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:37.523+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:22:37.523+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:37.523+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:37.532+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:22:37.567+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:37.567+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:22:37.574+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:22:37.574+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:22:37.581+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.060 seconds
+[2024-10-17T21:23:09.460+0100] {processor.py:186} INFO - Started process (PID=3365) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:09.460+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:23:09.460+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:09.460+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:09.468+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:09.501+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:09.500+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:09.507+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:09.507+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:23:09.513+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:23:40.984+0100] {processor.py:186} INFO - Started process (PID=3400) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:40.984+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:23:40.985+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:40.985+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:40.994+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:23:41.029+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:41.029+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:23:41.035+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:23:41.035+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:23:41.042+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.059 seconds
+[2024-10-17T21:24:13.039+0100] {processor.py:186} INFO - Started process (PID=3434) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:13.039+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:24:13.040+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:13.040+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:13.048+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:13.080+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:13.080+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:13.086+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:13.086+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:24:13.091+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:24:44.775+0100] {processor.py:186} INFO - Started process (PID=3477) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:44.775+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:24:44.775+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:44.775+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:44.784+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:24:44.817+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:44.816+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:24:44.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:24:44.823+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:24:44.829+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:25:16.492+0100] {processor.py:186} INFO - Started process (PID=3540) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:16.492+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:25:16.492+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:16.492+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:16.501+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:16.534+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:16.534+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:16.540+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:16.540+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:25:16.546+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:25:47.925+0100] {processor.py:186} INFO - Started process (PID=3577) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:47.925+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:25:47.926+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:47.926+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:47.934+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:25:47.967+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:47.967+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:25:47.974+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:25:47.974+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:25:47.979+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:26:19.299+0100] {processor.py:186} INFO - Started process (PID=3611) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:19.300+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:26:19.300+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:19.300+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:19.308+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:19.341+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:19.340+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:19.347+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:19.346+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:26:19.352+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:26:51.084+0100] {processor.py:186} INFO - Started process (PID=3659) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:51.084+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:26:51.084+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:51.084+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:51.093+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:26:51.124+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:51.124+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:26:51.130+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:26:51.130+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:26:51.136+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:27:22.670+0100] {processor.py:186} INFO - Started process (PID=3698) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:22.671+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:27:22.672+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:22.672+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:22.680+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:22.714+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:22.714+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:22.720+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:22.720+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:27:22.726+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:27:53.970+0100] {processor.py:186} INFO - Started process (PID=3733) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:53.970+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:27:53.970+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:53.970+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:53.979+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:27:54.012+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:54.012+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:27:54.018+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:27:54.018+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:27:54.024+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:28:25.327+0100] {processor.py:186} INFO - Started process (PID=3767) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:25.327+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:28:25.328+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:25.328+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:25.336+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:25.370+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:25.370+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:25.377+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:25.377+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:28:25.382+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:28:56.830+0100] {processor.py:186} INFO - Started process (PID=3802) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:56.830+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:28:56.831+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:56.831+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:56.839+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:28:56.871+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:56.871+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:28:56.877+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:28:56.877+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:28:56.883+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:29:28.587+0100] {processor.py:186} INFO - Started process (PID=3838) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:29:28.587+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:29:28.587+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:28.587+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:29:28.595+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:29:28.629+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:28.629+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:29:28.635+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:29:28.635+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:29:28.640+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:30:00.386+0100] {processor.py:186} INFO - Started process (PID=3907) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:00.386+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:30:00.387+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:00.387+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:00.396+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:00.433+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:00.433+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:00.439+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:00.439+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:30:00.445+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.061 seconds
+[2024-10-17T21:30:32.494+0100] {processor.py:186} INFO - Started process (PID=3948) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:32.494+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:30:32.495+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:32.495+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:32.503+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:30:32.536+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:32.536+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:30:32.543+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:30:32.543+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:30:32.548+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:31:04.068+0100] {processor.py:186} INFO - Started process (PID=3986) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:04.069+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:31:04.069+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:04.069+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:04.077+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:04.110+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:04.110+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:04.116+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:04.116+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:31:04.122+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:31:35.646+0100] {processor.py:186} INFO - Started process (PID=4024) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:35.646+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:31:35.647+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:35.647+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:35.655+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:31:35.687+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:35.687+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:31:35.693+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:31:35.693+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:31:35.698+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:32:07.042+0100] {processor.py:186} INFO - Started process (PID=4060) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:07.042+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:32:07.043+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:07.043+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:07.051+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:07.083+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:07.083+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:07.089+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:07.089+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:32:07.095+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:32:38.548+0100] {processor.py:186} INFO - Started process (PID=4098) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:38.549+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:32:38.549+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:38.549+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:38.557+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:32:38.590+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:38.590+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:32:38.596+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:32:38.596+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:32:38.601+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:33:10.451+0100] {processor.py:186} INFO - Started process (PID=4141) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:10.452+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:33:10.453+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:10.452+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:10.461+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:10.493+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:10.493+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:10.499+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:10.499+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:33:10.505+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:33:41.849+0100] {processor.py:186} INFO - Started process (PID=4179) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:41.849+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:33:41.850+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:41.850+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:41.858+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:33:41.891+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:41.891+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:33:41.897+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:33:41.897+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:33:41.902+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:34:14.177+0100] {processor.py:186} INFO - Started process (PID=4263) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:14.177+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:34:14.177+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:14.177+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:14.185+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:14.218+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:14.218+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:14.224+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:14.224+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:34:14.230+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:34:45.434+0100] {processor.py:186} INFO - Started process (PID=4300) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:45.435+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:34:45.435+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:45.435+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:45.443+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:34:45.477+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:45.477+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:34:45.484+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:34:45.483+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:34:45.489+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:35:16.929+0100] {processor.py:186} INFO - Started process (PID=4337) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:16.930+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:35:16.930+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:16.930+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:16.938+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:16.971+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:16.971+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:16.977+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:16.977+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:35:16.983+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:35:48.537+0100] {processor.py:186} INFO - Started process (PID=4374) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:48.538+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:35:48.538+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:48.538+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:48.547+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:35:48.580+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:48.580+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:35:48.587+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:35:48.586+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:35:48.592+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:36:20.116+0100] {processor.py:186} INFO - Started process (PID=4410) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:20.117+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:36:20.117+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:20.117+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:20.125+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:20.157+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:20.157+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:20.163+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:20.163+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:36:20.169+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:36:51.842+0100] {processor.py:186} INFO - Started process (PID=4450) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:51.842+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:36:51.843+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:51.843+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:51.851+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:36:51.883+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:51.883+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:36:51.889+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:36:51.889+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:36:51.895+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:37:23.565+0100] {processor.py:186} INFO - Started process (PID=4494) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:23.566+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:37:23.567+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:23.567+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:23.575+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:23.609+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:23.609+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:23.615+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:23.615+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:37:23.621+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:37:55.031+0100] {processor.py:186} INFO - Started process (PID=4533) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:55.031+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:37:55.032+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:55.032+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:55.040+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:37:55.071+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:55.071+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:37:55.077+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:37:55.077+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:37:55.083+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:38:26.886+0100] {processor.py:186} INFO - Started process (PID=4569) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:26.887+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:38:26.887+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:26.887+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:26.895+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:26.927+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:26.927+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:26.933+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:26.933+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:38:26.939+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:38:58.704+0100] {processor.py:186} INFO - Started process (PID=4615) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:58.705+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:38:58.705+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:58.705+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:58.713+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:38:58.746+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:58.746+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:38:58.752+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:38:58.752+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:38:58.757+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:39:29.902+0100] {processor.py:186} INFO - Started process (PID=4679) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:39:29.903+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:39:29.903+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:29.903+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:39:29.912+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:39:29.947+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:29.947+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:39:29.954+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:39:29.954+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:39:29.961+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.060 seconds
+[2024-10-17T21:40:30.095+0100] {processor.py:186} INFO - Started process (PID=4808) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:40:30.095+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:40:30.096+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:30.096+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:40:30.104+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:40:30.138+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:30.138+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:40:30.144+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:40:30.144+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:40:30.150+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:41:01.438+0100] {processor.py:186} INFO - Started process (PID=4855) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:01.439+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:41:01.439+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:01.439+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:01.447+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:01.480+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:01.480+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:01.487+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:01.487+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:41:01.492+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:41:33.780+0100] {processor.py:186} INFO - Started process (PID=4892) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:33.781+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:41:33.781+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:33.781+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:33.789+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:41:33.823+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:33.823+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:41:33.829+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:41:33.829+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:41:33.834+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:42:05.402+0100] {processor.py:186} INFO - Started process (PID=4936) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:05.402+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:42:05.403+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:05.403+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:05.411+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:05.445+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:05.445+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:05.451+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:05.451+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:42:05.458+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:42:44.167+0100] {processor.py:186} INFO - Started process (PID=5026) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:44.168+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:42:44.168+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:44.168+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:44.176+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:42:44.209+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:44.209+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:42:44.215+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:42:44.215+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:42:44.221+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:43:17.141+0100] {processor.py:186} INFO - Started process (PID=5065) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:17.141+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:43:17.141+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:17.141+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:17.150+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:17.183+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:17.183+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:17.190+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:17.190+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:43:17.195+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:43:49.433+0100] {processor.py:186} INFO - Started process (PID=5106) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:49.434+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:43:49.434+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:49.434+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:49.442+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:43:49.474+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:49.474+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:43:49.480+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:43:49.480+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:43:49.486+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:44:20.682+0100] {processor.py:186} INFO - Started process (PID=5144) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:20.683+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:44:20.683+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:20.683+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:20.691+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:20.723+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:20.723+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:20.729+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:20.729+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:44:20.734+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:44:53.894+0100] {processor.py:186} INFO - Started process (PID=5187) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:53.895+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:44:53.895+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:53.895+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:53.903+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:44:53.936+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:53.936+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:44:53.942+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:44:53.942+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:44:53.947+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:45:26.517+0100] {processor.py:186} INFO - Started process (PID=5226) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:26.518+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:45:26.518+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:26.518+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:26.526+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:26.559+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:26.559+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:26.566+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:26.566+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:45:26.571+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:45:58.065+0100] {processor.py:186} INFO - Started process (PID=5265) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:58.066+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:45:58.066+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:58.066+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:58.074+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:45:58.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:58.106+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:45:58.112+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:45:58.112+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:45:58.118+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:46:30.017+0100] {processor.py:186} INFO - Started process (PID=5303) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:46:30.017+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:46:30.018+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:30.017+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:46:30.026+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:46:30.058+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:30.058+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:46:30.064+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:46:30.064+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:46:30.070+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:47:02.559+0100] {processor.py:186} INFO - Started process (PID=5349) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:02.560+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:47:02.560+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:02.560+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:02.568+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:02.600+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:02.600+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:02.606+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:02.606+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:47:02.611+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T21:47:33.850+0100] {processor.py:186} INFO - Started process (PID=5390) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:33.850+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:47:33.850+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:33.850+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:33.859+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:47:33.892+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:33.892+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:47:33.899+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:47:33.899+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:47:33.904+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:48:07.323+0100] {processor.py:186} INFO - Started process (PID=5435) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:07.323+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:48:07.323+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:07.323+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:07.332+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:07.364+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:07.364+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:07.370+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:07.370+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:48:07.376+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:48:50.476+0100] {processor.py:186} INFO - Started process (PID=5569) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:50.477+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:48:50.477+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:50.477+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:50.486+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:48:50.519+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:50.519+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:48:50.525+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:48:50.525+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:48:50.531+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:49:23.309+0100] {processor.py:186} INFO - Started process (PID=5610) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:49:23.310+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:49:23.310+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:23.310+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:49:23.319+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:49:23.352+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:23.352+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:49:23.358+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:49:23.358+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:49:23.363+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:50:17.336+0100] {processor.py:186} INFO - Started process (PID=5718) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:17.336+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:50:17.336+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:17.336+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:17.345+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:17.379+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:17.379+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:17.386+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:17.386+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:50:17.392+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:50:51.732+0100] {processor.py:186} INFO - Started process (PID=5759) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:51.732+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:50:51.732+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:51.732+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:51.741+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:50:51.774+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:51.774+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:50:51.781+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:50:51.781+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:50:51.786+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:51:39.062+0100] {processor.py:186} INFO - Started process (PID=5920) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:51:39.063+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:51:39.063+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:39.063+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:51:39.072+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:51:39.105+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:39.105+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:51:39.112+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:51:39.112+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:51:39.118+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:52:13.554+0100] {processor.py:186} INFO - Started process (PID=5975) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:13.555+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:52:13.555+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:13.555+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:13.563+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:13.597+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:13.597+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:13.603+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:13.603+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:13.610+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:52:55.405+0100] {processor.py:186} INFO - Started process (PID=6065) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:55.405+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:52:55.406+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:55.406+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:55.414+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:52:55.447+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:55.447+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:52:55.453+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:52:55.453+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:52:55.459+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:53:31.720+0100] {processor.py:186} INFO - Started process (PID=6113) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:53:31.720+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:53:31.721+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:31.721+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:53:31.729+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:53:31.762+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:31.762+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:53:31.768+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:53:31.768+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:53:31.774+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:54:08.618+0100] {processor.py:186} INFO - Started process (PID=6166) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:08.619+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:54:08.619+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:08.619+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:08.627+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:08.661+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:08.661+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:08.668+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:08.668+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:08.674+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:54:43.532+0100] {processor.py:186} INFO - Started process (PID=6237) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:43.533+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:54:43.533+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:43.533+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:43.541+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:54:43.575+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:43.575+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:54:43.581+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:54:43.581+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:54:43.587+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:55:19.565+0100] {processor.py:186} INFO - Started process (PID=6311) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:19.565+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:55:19.566+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:19.566+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:19.574+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:19.607+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:19.606+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:19.613+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:19.613+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:55:19.619+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:55:52.930+0100] {processor.py:186} INFO - Started process (PID=6366) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:52.930+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:55:52.931+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:52.931+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:52.939+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:55:52.973+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:52.973+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:55:52.979+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:55:52.979+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:55:52.985+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T21:56:28.976+0100] {processor.py:186} INFO - Started process (PID=6427) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:56:28.977+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:56:28.977+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:28.977+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:56:28.985+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:56:29.018+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:29.018+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:56:29.025+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:56:29.025+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:56:29.030+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T21:57:08.906+0100] {processor.py:186} INFO - Started process (PID=6488) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:08.907+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:57:08.908+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:08.907+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:08.916+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:08.950+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:08.950+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:08.956+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:08.956+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:08.962+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T21:57:42.960+0100] {processor.py:186} INFO - Started process (PID=6541) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:42.960+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:57:42.961+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:42.961+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:42.969+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:57:43.001+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:43.001+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:57:43.007+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:57:43.007+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:57:43.013+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:58:21.686+0100] {processor.py:186} INFO - Started process (PID=6606) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:21.687+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:58:21.687+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:21.687+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:21.696+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:21.730+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:21.730+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:21.737+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:21.737+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:21.743+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.058 seconds
+[2024-10-17T21:58:54.984+0100] {processor.py:186} INFO - Started process (PID=6653) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:54.984+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:58:54.984+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:54.984+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:54.992+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:58:55.025+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:55.025+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:58:55.031+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:58:55.031+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:58:55.036+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T21:59:31.475+0100] {processor.py:186} INFO - Started process (PID=6702) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:59:31.476+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T21:59:31.476+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:31.476+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:59:31.484+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T21:59:31.518+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:31.518+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T21:59:31.524+0100] {logging_mixin.py:190} INFO - [2024-10-17T21:59:31.524+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T21:59:31.530+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:00:06.664+0100] {processor.py:186} INFO - Started process (PID=6789) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:06.665+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:00:06.665+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:06.665+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:06.673+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:06.706+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:06.706+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:06.712+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:06.712+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:00:06.717+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T22:00:39.966+0100] {processor.py:186} INFO - Started process (PID=6832) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:39.966+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:00:39.967+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:39.967+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:39.975+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:00:40.010+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:40.010+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:00:40.017+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:00:40.016+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:00:40.023+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.058 seconds
+[2024-10-17T22:01:19.102+0100] {processor.py:186} INFO - Started process (PID=6922) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:19.102+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:01:19.103+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:19.103+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:19.112+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:19.147+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:19.147+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:19.154+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:19.153+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:19.159+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.059 seconds
+[2024-10-17T22:01:58.468+0100] {processor.py:186} INFO - Started process (PID=7119) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:58.469+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:01:58.469+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:58.469+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:58.478+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:01:58.511+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:58.511+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:01:58.518+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:01:58.518+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:01:58.523+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T22:02:35.947+0100] {processor.py:186} INFO - Started process (PID=7185) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:02:35.949+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:02:35.949+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:35.949+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:02:35.957+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:02:35.991+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:35.991+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:02:35.998+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:02:35.998+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:02:36.003+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T22:03:14.231+0100] {processor.py:186} INFO - Started process (PID=7241) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:14.231+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:03:14.231+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:14.231+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:14.240+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:14.274+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:14.274+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:14.280+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:14.280+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:03:14.286+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:03:57.050+0100] {processor.py:186} INFO - Started process (PID=7294) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:57.051+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:03:57.051+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:57.051+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:57.060+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:03:57.093+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:57.093+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:03:57.099+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:03:57.099+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:03:57.105+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:04:30.841+0100] {processor.py:186} INFO - Started process (PID=7337) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:04:30.842+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:04:30.842+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:30.842+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:04:30.851+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:04:30.885+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:30.884+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:04:30.891+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:04:30.891+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:04:30.896+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T22:05:08.463+0100] {processor.py:186} INFO - Started process (PID=7380) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:08.465+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:05:08.465+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:08.465+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:08.474+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:08.510+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:08.510+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:08.517+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:08.517+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:08.523+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.061 seconds
+[2024-10-17T22:05:44.589+0100] {processor.py:186} INFO - Started process (PID=7428) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:44.590+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:05:44.591+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:44.590+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:44.599+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:05:44.633+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:44.633+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:05:44.639+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:05:44.639+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:05:44.645+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.057 seconds
+[2024-10-17T22:06:22.441+0100] {processor.py:186} INFO - Started process (PID=7500) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:06:22.441+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:06:22.441+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:22.441+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:06:22.449+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:06:22.482+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:22.482+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:06:22.488+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:06:22.488+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:06:22.493+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T22:07:30.632+0100] {processor.py:186} INFO - Started process (PID=7544) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:07:30.632+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:07:30.633+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:30.633+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:07:30.641+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:07:30.672+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:30.672+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:07:30.678+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:07:30.678+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:07:30.684+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:08:09.040+0100] {processor.py:186} INFO - Started process (PID=7588) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:08:09.040+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:08:09.040+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:09.040+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:08:09.048+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:08:09.080+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:09.080+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:08:09.086+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:08:09.086+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:08:09.091+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:11:18.895+0100] {processor.py:186} INFO - Started process (PID=7631) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:18.895+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:11:18.896+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:18.896+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:18.904+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:18.935+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:18.935+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:18.941+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:18.941+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:11:18.947+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:11:50.969+0100] {processor.py:186} INFO - Started process (PID=7676) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:50.969+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:11:50.969+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:50.969+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:50.977+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:11:51.008+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:51.008+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:11:51.014+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:11:51.014+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:11:51.020+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T22:12:26.898+0100] {processor.py:186} INFO - Started process (PID=7718) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:12:26.898+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:12:26.899+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:26.899+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:12:26.907+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:12:26.938+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:26.938+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:12:26.944+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:12:26.944+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:12:26.949+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.052 seconds
+[2024-10-17T22:13:32.258+0100] {processor.py:186} INFO - Started process (PID=7776) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:13:32.259+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:13:32.259+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:32.259+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:13:32.267+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:13:32.299+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:32.299+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:13:32.305+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:13:32.305+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:13:32.311+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:14:16.108+0100] {processor.py:186} INFO - Started process (PID=7835) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:16.108+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:14:16.108+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:16.108+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:16.117+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:16.149+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:16.148+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:16.154+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:16.154+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:14:16.160+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:14:50.105+0100] {processor.py:186} INFO - Started process (PID=7877) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:50.106+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:14:50.106+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:50.106+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:50.114+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:14:50.148+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:50.147+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:14:50.154+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:14:50.154+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:14:50.159+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T22:15:25.352+0100] {processor.py:186} INFO - Started process (PID=7920) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:15:25.352+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:15:25.353+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:25.353+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:15:25.361+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:15:25.394+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:25.394+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:15:25.400+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:15:25.400+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:15:25.406+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T22:16:02.563+0100] {processor.py:186} INFO - Started process (PID=7964) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:02.564+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:16:02.564+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:02.564+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:02.573+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:02.606+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:02.606+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:02.612+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:02.612+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:02.618+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:16:39.947+0100] {processor.py:186} INFO - Started process (PID=8012) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:39.948+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:16:39.948+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:39.948+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:39.959+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:16:39.995+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:39.994+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:16:40.002+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:16:40.001+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:16:40.008+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.062 seconds
+[2024-10-17T22:17:16.202+0100] {processor.py:186} INFO - Started process (PID=8055) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:16.203+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:17:16.203+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:16.203+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:16.212+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:16.245+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:16.245+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:16.251+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:16.251+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:17:16.256+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T22:17:50.244+0100] {processor.py:186} INFO - Started process (PID=8097) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:50.245+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:17:50.245+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:50.245+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:50.253+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:17:50.285+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:50.285+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:17:50.291+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:17:50.291+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:17:50.297+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:18:30.657+0100] {processor.py:186} INFO - Started process (PID=8144) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:18:30.658+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:18:30.658+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:30.658+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:18:30.667+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:18:30.700+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:30.700+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:18:30.707+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:18:30.706+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:18:30.712+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:19:08.533+0100] {processor.py:186} INFO - Started process (PID=8188) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:08.533+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:19:08.533+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:08.533+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:08.542+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:08.574+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:08.574+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:08.580+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:08.580+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:08.585+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T22:19:48.801+0100] {processor.py:186} INFO - Started process (PID=8237) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:48.802+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:19:48.802+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:48.802+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:48.810+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:19:48.843+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:48.843+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:19:48.849+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:19:48.849+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:19:48.855+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T22:20:24.561+0100] {processor.py:186} INFO - Started process (PID=8283) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:20:24.561+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:20:24.561+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:24.561+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:20:24.569+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:20:24.601+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:24.601+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:20:24.608+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:20:24.608+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:20:24.613+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.054 seconds
+[2024-10-17T22:21:02.418+0100] {processor.py:186} INFO - Started process (PID=8336) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:02.419+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:21:02.419+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:02.419+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:02.428+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:02.460+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:02.460+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:02.467+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:02.466+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:02.472+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.055 seconds
+[2024-10-17T22:21:37.956+0100] {processor.py:186} INFO - Started process (PID=8394) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:37.956+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:21:37.956+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:37.956+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:37.965+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:21:37.999+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:37.998+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:21:38.005+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:21:38.005+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:21:38.010+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:22:16.733+0100] {processor.py:186} INFO - Started process (PID=8439) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:16.733+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:22:16.734+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:16.734+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:16.743+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:16.776+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:16.776+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:16.782+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:16.782+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:22:16.788+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.056 seconds
+[2024-10-17T22:22:52.941+0100] {processor.py:186} INFO - Started process (PID=8483) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:52.941+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:22:52.941+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:52.941+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:52.949+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:22:52.981+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:52.981+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:22:52.987+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:22:52.987+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:22:52.993+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.053 seconds
+[2024-10-17T22:23:30.316+0100] {processor.py:186} INFO - Started process (PID=8539) to work on /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:23:30.317+0100] {processor.py:914} INFO - Processing file /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py for tasks to queue
+[2024-10-17T22:23:30.317+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:30.317+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:23:30.326+0100] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py
+[2024-10-17T22:23:30.361+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:30.360+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-17T22:23:30.367+0100] {logging_mixin.py:190} INFO - [2024-10-17T22:23:30.367+0100] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2024-10-17 00:00:00+00:00, run_after=2024-10-18 00:00:00+00:00
+[2024-10-17T22:23:30.374+0100] {processor.py:208} INFO - Processing /Users/mujtabaalimalik/airflow/dags/execute_python_ops.py took 0.059 seconds

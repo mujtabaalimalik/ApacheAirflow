@@ -1,0 +1,26 @@
+[2024-10-16T14:14:29.398+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-16T14:14:29.402+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_sql_pipeline_2.delete_values scheduled__2024-10-15T00:00:00+00:00 [queued]>
+[2024-10-16T14:14:29.406+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_sql_pipeline_2.delete_values scheduled__2024-10-15T00:00:00+00:00 [queued]>
+[2024-10-16T14:14:29.406+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-16T14:14:29.410+0100] {taskinstance.py:2888} INFO - Executing <Task(SqliteOperator): delete_values> on 2024-10-15 00:00:00+00:00
+[2024-10-16T14:14:29.413+0100] {standard_task_runner.py:72} INFO - Started process 71903 to run task
+[2024-10-16T14:14:29.417+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_sql_pipeline_2', 'delete_values', 'scheduled__2024-10-15T00:00:00+00:00', '--job-id', '210', '--raw', '--subdir', 'DAGS_FOLDER/sql_pipeline_multiple_2.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmpr9pm866t']
+[2024-10-16T14:14:29.418+0100] {standard_task_runner.py:105} INFO - Job 210: Subtask delete_values
+[2024-10-16T14:14:29.433+0100] {task_command.py:467} INFO - Running <TaskInstance: executing_sql_pipeline_2.delete_values scheduled__2024-10-15T00:00:00+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-16T14:14:29.454+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ali' AIRFLOW_CTX_DAG_ID='executing_sql_pipeline_2' AIRFLOW_CTX_TASK_ID='delete_values' AIRFLOW_CTX_EXECUTION_DATE='2024-10-15T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-10-15T00:00:00+00:00'
+[2024-10-16T14:14:29.454+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-16T14:14:29.460+0100] {sql.py:266} INFO - Executing: 
+            DELETE FROM users WHERE is_active = 0;
+        
+[2024-10-16T14:14:29.462+0100] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2024-10-16T14:14:29.474+0100] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2024-10-16T14:14:29.475+0100] {sql.py:509} INFO - Running statement: 
+            DELETE FROM users WHERE is_active = 0;
+        , parameters: None
+[2024-10-16T14:14:29.475+0100] {sql.py:518} INFO - Rows affected: 3
+[2024-10-16T14:14:29.477+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-16T14:14:29.477+0100] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_sql_pipeline_2, task_id=delete_values, run_id=scheduled__2024-10-15T00:00:00+00:00, execution_date=20241015T000000, start_date=20241016T131429, end_date=20241016T131429
+[2024-10-16T14:14:29.522+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-16T14:14:29.527+0100] {logging_mixin.py:190} WARNING - /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/baseoperator.py:1378 AirflowProviderDeprecationWarning: Call to deprecated class SqliteOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.)
+[2024-10-16T14:14:29.533+0100] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-10-16T14:14:29.534+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

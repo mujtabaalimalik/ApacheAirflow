@@ -1,0 +1,91 @@
+[2024-10-04T19:08:43.524+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-04T19:08:43.528+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_multiple_tasks_3.taskA scheduled__2024-10-03T00:00:00+00:00 [queued]>
+[2024-10-04T19:08:43.530+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_multiple_tasks_3.taskA scheduled__2024-10-03T00:00:00+00:00 [queued]>
+[2024-10-04T19:08:43.530+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-04T19:08:43.533+0100] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): taskA> on 2024-10-03 00:00:00+00:00
+[2024-10-04T19:08:43.535+0100] {standard_task_runner.py:72} INFO - Started process 27044 to run task
+[2024-10-04T19:08:43.538+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_multiple_tasks_3', 'taskA', 'scheduled__2024-10-03T00:00:00+00:00', '--job-id', '49', '--raw', '--subdir', 'DAGS_FOLDER/execute_multiple_3.py', '--cfg-path', '/var/folders/nl/1x330z2x7yzb268yb0bbvjcr0000gn/T/tmpk0z8ypkq']
+[2024-10-04T19:08:43.539+0100] {standard_task_runner.py:105} INFO - Job 49: Subtask taskA
+[2024-10-04T19:08:43.554+0100] {task_command.py:467} INFO - Running <TaskInstance: executing_multiple_tasks_3.taskA scheduled__2024-10-03T00:00:00+00:00 [running]> on host mujtabas-macbook-pro.local
+[2024-10-04T19:08:43.565+0100] {abstractoperator.py:778} ERROR - Exception rendering Jinja template for task 'taskA', field 'bash_command'. Template: 'taskA.sh'
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2024-10-04T19:08:43.566+0100] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 3114, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 3533, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 1419, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2024-10-04T19:08:43.568+0100] {taskinstance.py:1225} INFO - Marking task as FAILED. dag_id=executing_multiple_tasks_3, task_id=taskA, run_id=scheduled__2024-10-03T00:00:00+00:00, execution_date=20241003T000000, start_date=20241004T180843, end_date=20241004T180843
+[2024-10-04T19:08:43.571+0100] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-04T19:08:43.571+0100] {standard_task_runner.py:124} ERROR - Failed to execute job 49 for task taskA (taskA.sh; 27044)
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 3114, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 3533, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 1419, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/opt/miniconda3/envs/airflow/lib/python3.8/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2024-10-04T19:08:43.600+0100] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2024-10-04T19:08:43.608+0100] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-10-04T19:08:43.609+0100] {local_task_job_runner.py:245} INFO - ::endgroup::

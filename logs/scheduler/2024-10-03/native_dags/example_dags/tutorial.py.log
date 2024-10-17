@@ -1,0 +1,92 @@
+[2024-10-03T23:03:58.917+0100] {processor.py:186} INFO - Started process (PID=16191) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:03:58.917+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:03:58.918+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:58.918+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:03:58.938+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:03:58.998+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:58.997+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-10-03T23:03:59.000+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.000+0100] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-10-03T23:03:59.002+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.002+0100] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial
+[2024-10-03T23:03:59.004+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.004+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2024-10-03T23:03:59.006+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.005+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2024-10-03T23:03:59.007+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.007+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial
+[2024-10-03T23:03:59.008+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.008+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial
+[2024-10-03T23:03:59.009+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.009+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:03:59.012+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.012+0100] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2024-10-03T23:03:59.015+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:03:59.015+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:03:59.020+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2024-10-03T23:05:32.905+0100] {processor.py:186} INFO - Started process (PID=16346) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:05:32.907+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:05:32.907+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:32.907+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:05:32.927+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:05:32.960+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:32.960+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:05:32.967+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:05:32.967+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:05:32.973+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2024-10-03T23:06:37.037+0100] {processor.py:186} INFO - Started process (PID=16431) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:06:37.039+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:06:37.039+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:37.039+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:06:37.061+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:06:37.095+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:37.095+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:06:37.101+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:06:37.101+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:06:37.106+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2024-10-03T23:07:39.479+0100] {processor.py:186} INFO - Started process (PID=16526) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:07:39.480+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:07:39.480+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:39.480+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:07:39.502+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:07:39.539+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:39.539+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:07:39.545+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:07:39.545+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:07:39.552+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-10-03T23:08:36.279+0100] {processor.py:186} INFO - Started process (PID=16611) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:08:36.279+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:08:36.279+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:36.279+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:08:36.303+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:08:36.339+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:36.339+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:08:36.345+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:08:36.345+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:08:36.351+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2024-10-03T23:09:32.129+0100] {processor.py:186} INFO - Started process (PID=16685) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:09:32.129+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:09:32.129+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:32.129+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:09:32.147+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:09:32.180+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:32.180+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:09:32.185+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:09:32.185+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:09:32.191+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2024-10-03T23:10:33.681+0100] {processor.py:186} INFO - Started process (PID=16769) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:10:33.682+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:10:33.682+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:33.682+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:10:33.700+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:10:33.733+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:33.732+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:10:33.738+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:10:33.738+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:10:33.743+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2024-10-03T23:25:53.251+0100] {processor.py:186} INFO - Started process (PID=16857) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:25:53.251+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:25:53.252+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:25:53.252+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:25:53.270+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:25:53.303+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:25:53.302+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:25:53.309+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:25:53.309+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:25:53.314+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2024-10-03T23:34:39.412+0100] {processor.py:186} INFO - Started process (PID=16945) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:34:39.413+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:34:39.413+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:39.413+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:34:39.431+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:34:39.463+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:39.463+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:34:39.469+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:34:39.469+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:34:39.475+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2024-10-03T23:35:36.260+0100] {processor.py:186} INFO - Started process (PID=17019) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:35:36.260+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:35:36.260+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:36.260+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:35:36.278+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:35:36.311+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:36.310+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:35:36.316+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:35:36.316+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:35:36.321+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2024-10-03T23:36:38.174+0100] {processor.py:186} INFO - Started process (PID=17097) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:36:38.174+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:36:38.174+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:38.174+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:36:38.192+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:36:38.225+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:38.224+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:36:38.230+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:36:38.230+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:36:38.235+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2024-10-03T23:43:46.570+0100] {processor.py:186} INFO - Started process (PID=17184) to work on /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:43:46.571+0100] {processor.py:914} INFO - Processing file /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T23:43:46.571+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:43:46.571+0100] {dagbag.py:588} INFO - Filling up the DagBag from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:43:46.589+0100] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T23:48:50.389+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:48:50.389+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T23:48:50.397+0100] {logging_mixin.py:190} INFO - [2024-10-03T23:48:50.397+0100] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T23:48:50.458+0100] {processor.py:208} INFO - Processing /opt/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.394 seconds
